@@ -6961,7 +6961,7 @@
 #11735	[!WordCollection][!Menu]추출 대상	[!WordCollection][!Menu]抽取目标
 #11736	[!WordCollection][!Menu]추출하기	[!WordCollection][!Menu]进行抽取
 #11737	[!WordCollection][!Menu]재료 추출	[!WordCollection][!Menu]材料抽取
-#11738	[!WordCollection]추출 가능한 장비만 보기	[!WordCollection]只查看可抽取的装备
+#11738	[!WordCollection]추출 가능한 재료만 보기	[!WordCollection]只查看可抽取的材料
 #11739	[!WordCollection]아이템 추출 완료	[!WordCollection]道具抽取完成
 #11740	[!KeyBinding]카메라 정보	[!KeyBinding]镜头信息
 #11741	[!WordCollection]카메라 높이 내리기	[!WordCollection]镜头高度向下
@@ -15635,7 +15635,7 @@
 #23802	[!ObjectVoiceSound][!speaker:Alisa]잘가라 친구들	[!ObjectVoiceSound][!speaker:Alisa]别了，朋友们
 #23803	[!ObjectVoiceSound][!speaker:Alisa]자 즐거운 여행이 되길	[!ObjectVoiceSound][!speaker:Alisa]但愿旅途愉快
 #23804	[!ObjectVoiceSound][!speaker:Alisa]퀵 쉐이빙!	[!ObjectVoiceSound][!speaker:Alisa]极速切割！
-#23805	[!ObjectVoiceSound][!speaker:Alisa]ㅎ그러게 도망쳤어야지!	[!ObjectVoiceSound][!speaker:Alisa]呵，早叫你们逃走了！
+#23805	[!ObjectVoiceSound][!speaker:Alisa]하. 그러게 도망쳤어야지!	[!ObjectVoiceSound][!speaker:Alisa]呵，早叫你们逃走了！
 #23806	[!ObjectVoiceSound][!speaker:Alisa]아흐~상쾌하네~	[!ObjectVoiceSound][!speaker:Alisa]哈啊~真是爽快~
 #23807	[!ObjectVoiceSound][!speaker:Alisa]항복은 사절이야	[!ObjectVoiceSound][!speaker:Alisa]才不会接受你们的投降呢
 #23808	[!ObjectVoiceSound][!speaker:Alisa]도망 칠 시간은 줄게	[!ObjectVoiceSound][!speaker:Alisa]那就给你们逃跑的时间吧
@@ -15673,7 +15673,7 @@
 #23840	[!ObjectVoiceSound][!speaker:Alisa]거점 확보하겠다	[!ObjectVoiceSound][!speaker:Alisa]将确保据点
 #23841	[!ObjectVoiceSound][!speaker:Alisa]알았어!	[!ObjectVoiceSound][!speaker:Alisa]知道了！
 #23842	[!ObjectVoiceSound][!speaker:Alisa]신속히 이동한다!	[!ObjectVoiceSound][!speaker:Alisa]迅速移动！
-#23843	[!ObjectVoiceSound][!speaker:Alisa]너무 긴장하지 않아도 되	[!ObjectVoiceSound][!speaker:Alisa]不必太过于紧张
+#23843	[!ObjectVoiceSound][!speaker:Alisa]너무 긴장하지 않아도 돼	[!ObjectVoiceSound][!speaker:Alisa]不必太过于紧张
 #23844	[!ObjectVoiceSound][!speaker:Alisa]그렇게 조급해 할 필요없어	[!ObjectVoiceSound][!speaker:Alisa]不必那么着急
 #23845	[!ObjectVoiceSound][!speaker:Alisa]내가 있으니 걱정마	[!ObjectVoiceSound][!speaker:Alisa]有我在，不要担心
 #23846	[!ObjectVoiceSound][!speaker:Alisa]충분히 해볼 만하군	[!ObjectVoiceSound][!speaker:Alisa]充分值得一试
