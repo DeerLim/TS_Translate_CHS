@@ -296,7 +296,7 @@
 #6288	[!Sentence][!Dialog]밥그릇을 잃어버린 자는 현세에 있는 한 영원히 고통받는다고 한다.	[!Sentence][!Subtitle]据说失去了饭碗的人在现世会受到永远的痛苦。
 #6291	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]'백호'파의 푸, '흑호' 파의 트레이.	[!Sentence][!Subtitle]'白虎'组的普，'黑虎'组的特洛伊。
 #6292	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]『깊고 어두운 범죄 시대의 개막』	[!Sentence][!Subtitle]『幽深黑暗的犯罪时代的开幕』
-#6300	[!Sentence][!Dialog]스푼교는 교도들에게 '첫술'을 권한다.	勺子教向他们的信徒们劝告'一勺'的教义。
+#6300	[!Sentence][!Dialog]스푼교는 교도들에게 '첫술'을 권한다.	勺子教向他们的信徒们劝告'第一勺'的教义。
 #6304	[!Sentence][!Dialog]현장을 지휘하고 있던 아이작 경감은 이미 실력을 검증받은 $CompanyName$의 도착과 함께 지휘권을 바로 넘긴다.	指挥着现场的艾萨克警监看到实力早已受到了证实的$CompanyName$的到来，就马上将指挥权移交了过去。
 #6310	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]경찰력이 빠져나가면 밀려드는 파도처럼 금세 범죄자들이 모여들었다.	警力退出后，像是涨潮一样犯罪分子们瞬间又聚拢了过来。
 #6311	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]이들 역시 스콧과 마찬가지로 조직의 후계자들...	[!Sentence][!Subtitle]这些也是斯科特之流的团伙的继承人…
@@ -2220,7 +2220,7 @@
 #9514	[!Sentence][!Choice]당신들이 이렇게 만든 건가요!	[!Sentence][!Choice]是你们弄成这个样子的吗！
 #9515	[!Sentence][!BalloonChat][!speaker:Ray]흐음?	[!Sentence][!BalloonChat][!speaker:Ray]呵嗯？
 #9516	[!Sentence][!Dialog][!speaker:Albus_Serious]당신들 멈추세요. 더 이상 움직이면 제압하겠습니다.	[!Sentence][!Dialog][!speaker:Albus_Serious]你们住手。再动就控制你们。
-#9517	[!Sentence][!Dialog][!speaker:Albus_Embarrassed][!Embarrassed]전 트러블슈터 알버스입니다.	[!Sentence][!Dialog][!speaker:Albus_Normal]我是纷争终结者阿尔伯斯。
+#9517	[!Sentence][!Dialog][!speaker:Albus_Embarrassed]전 트러블슈터 알버스입니다.	[!Sentence][!Dialog][!speaker:Albus_Normal]我是纷争终结者阿尔伯斯。
 #9521	[!Sentence][!Dashboard:ObjectiveMarker]알버스로 레이 근처로 이동하여 대화를 하세요.	[!Sentence][!Dashboard:ObjectiveMarker]请用阿尔伯斯移动到雷伊附近进行对话。
 #9522	[!Sentence][!Dialog][!speaker:Ray_Normal_Smile]자유에는 언제나 대가가 따른단다~♡	[!Sentence][!Dialog][!speaker:Ray_Serious]自由是需要代价的~♡
 #9523	[!Sentence][!Dialog][!speaker:Ray_Serious]일단 레톤을 데리고 이 곳을 빠져나가야겠어...	[!Sentence][!BalloonChat][!speaker:Ray]需要先领着莱顿离开这里…
@@ -3366,7 +3366,7 @@
 #10932	[!Sentence][!Dialog][!speaker:Anne_Normal]루나가 사! 연락하고 지내게!	[!Sentence][!Dialog][!speaker:Anne_Normal]这次露娜买吧！以后我们可以多多联系！
 #10933	[!Sentence][!Dialog][!speaker:Anne_Smile]루나. 이것 봐!	[!Sentence][!Dialog][!speaker:Anne_Smile]露娜。你看这个！
 #10934	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]도대체 어디서 이렇게 많이...	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]到底是从哪里来的这么多…
-#10935	[!Sentence][!Dialog][!speaker:Peter_Laugh][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']한술의 뜻에 따라 동지들에게 내생의 축복이 가득하길...	[!Sentence][!Dialog][!speaker:Peter_Laugh][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']第一勺的意志，希望同志们的来世充满了祝福…
+#10935	[!Sentence][!Dialog][!speaker:Peter_Laugh][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']한술의 뜻에 따라 동지들에게 내생의 축복이 가득하길...	[!Sentence][!Dialog][!speaker:Peter_Laugh][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']一勺的意志，希望同志们的来世充满了祝福…
 #10936	[!Sentence][!Dialog][!speaker:Anne_Normal]루나야. 다음에는 우리 언제 만날까?	[!Sentence][!Dialog][!speaker:Anne_Normal]露娜。我们下次什么时候再见呢？
 #10937	[!Sentence][!Dialog][!speaker:Anne_Smile]조용한 데가 아는 곳이 여기뿐이라... 묘지는 좀 그렇지?	[!Sentence][!Dialog][!speaker:Anne_Smile]我知道的僻静处也只有这里了…墓地是不是有点那什么呀？
 #10938	[!Sentence][!Dialog][!speaker:Don_Normal]형수님. 다음에 뵙겠습니다.	[!Sentence][!Dialog][!speaker:Don_Normal]大嫂。我们下次再见。
@@ -3660,8 +3660,8 @@
 #11249	[!Sentence][!Dialog][!speaker:Anne_Surprise]저는요? 저는 무엇을 할까요? 저도 웬만한 건 다 할 수 있어요!	[!Sentence][!Dialog][!speaker:Anne_Surprise]我呢？我做什么呢？我可以做任何事情的！
 #11250	[!Sentence][!Dialog][!speaker:VHPD_Issac_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']도착하면 협조해 준 운송업자는 자네의 판단 아래 최소한의 병력을 붙여 안전하게 귀가시켜주길 바라네.	[!Sentence][!Dialog][!speaker:VHPD_Issac_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']到达后对于协助你的配送人员，就根据你自己的判断，安排最少的兵力让他安全回家吧。
 #11251	[!Sentence][!Dialog][!speaker:Sion_Angry]상황판에 요청된 임무를 수행하러 오니 갑자기 비밀 임무라니 아이작 경감님도 너무하는군.	[!Sentence][!Dialog][!speaker:Sion_Angry]本来是来执行状况板上邀请的任务的，可突然又给个秘密任务，艾萨克警监好过分呐。
-#11253	[!Sentence][!Dialog][!speaker:Gangster_SpoonDestroyer_Normal]존 님이 날 한술로 받아주셨소!	[!Sentence][!Dialog][!speaker:Gangster_SpoonDestroyer_Normal]约翰大人接受我为第一勺了！
-#11254	[!Sentence][!BalloonChat][!speaker:Direct_Kaze]흑수저 샤키... 첫술의 리더인가...	[!Sentence][!BalloonChat][!speaker:Direct_Kaze]黑勺子沙基…是一勺的首领吗…
+#11253	[!Sentence][!Dialog][!speaker:Gangster_SpoonDestroyer_Normal]존 님이 날 한술로 받아주셨소!	[!Sentence][!Dialog][!speaker:Gangster_SpoonDestroyer_Normal]约翰大人接受我为一勺了！
+#11254	[!Sentence][!BalloonChat][!speaker:Direct_Kaze]흑수저 샤키... 첫술의 리더인가...	[!Sentence][!BalloonChat][!speaker:Direct_Kaze]黑勺子沙基…是第一勺的首领吗…
 #11255	[!Sentence][!Dialog][!speaker:VHPD_Issac_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']잘 가고 있나?	[!Sentence][!Dialog][!speaker:VHPD_Issac_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']路上安全吗？
 #11256	[!Sentence][!Dialog][!speaker:Albus_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFFF59']네. 별 다른 문제 없습니다.	[!Sentence][!Dialog][!speaker:Albus_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFFF59']是的。没什么问题。
 #11257	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]무슨 말인가. 이만큼의 동지들을 이끌고 '좌표'를 따라 여기까지 오느라 고생했네.	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]说什么呢。你能带领着同志们跟随'坐标'来到这里，就已经很辛苦了。
@@ -4120,7 +4120,7 @@
 #11852	[!Sentence][!BalloonChat][!speaker:Sharky]고맙네.	[!Sentence][!BalloonChat][!speaker:Gangster_Sharky_Normal]谢谢。
 #11855	[!Sentence][!BalloonChat][!speaker:Julio]아직 잡힐 순 없지...	[!Sentence][!BalloonChat][!speaker:Julio]现在可不能被抓呢…
 #11856	[!Sentence][!BalloonChat][!speaker:Naam]최소한 한 명은 꼭 같이 데려가 주마!!	[!Sentence][!BalloonChat][!speaker:Naam]一定会带走至少一个人的！！
-#11857	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]아닐세. 『한술』을 받아준 자네들에게 감사하네.	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]不是的。反倒感谢你们接受了『 第一勺 』。
+#11857	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]아닐세. 『한술』을 받아준 자네들에게 감사하네.	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]不是的。反倒感谢你们接受了『 一勺 』。
 #11860	[!Sentence][!BalloonChat][!speaker:Turk]다들 집합!!	[!Sentence][!BalloonChat][!speaker:Turk]集合！！
 #11861	[!Sentence][!Title]그늘 안개 슬럼가	[!Sentence][!Title]阴影之雾贫民区
 #11862	[!Sentence][!Dashboard:ObjectiveMarker]적이 해당 지역으로 진입했을 때, 해당 방어선의 경찰 병력이 모두 전투 불능이면 패배합니다.	[!Sentence][!Dashboard:ObjectiveMarker]敌人进入该地区时，若该防线上的所有警力为无法战斗状态，则算作失败。
@@ -4135,22 +4135,22 @@
 #11874	[!Sentence][!BalloonChat][!speaker:Enemy01_05]네빌, 조홍, 하산도 참가하는 건가...	[!Sentence][!BalloonChat][!speaker:Gangster_SpoonNormal_Julio_Normal]内维尔、赵洪、哈山也参加吗…
 #11876	[!Sentence][!Title]무쇠 방망이 터크	[!Sentence][!Title]铸铁棍棒图克
 #11877	[!Sentence][!BalloonChat][!speaker:Enemy01_01]샤키 님이 저희를 이끌어주신 것입니다!	[!Sentence][!BalloonChat][!speaker:Gangster_SpoonFat_Normal]沙基大人是您引领着我们啊！
-#11878	[!Sentence][!BalloonChat][!speaker:Sharky]나와 함께 첫술을 뜬 동지들이여.	[!Sentence][!BalloonChat][!speaker:Gangster_Sharky_Normal]和我一起举起了首勺的同志们啊。
+#11878	[!Sentence][!BalloonChat][!speaker:Sharky]나와 함께 첫술을 뜬 동지들이여.	[!Sentence][!BalloonChat][!speaker:Gangster_Sharky_Normal]和我一起举起了第一勺的同志们啊。
 #11880	[!Sentence][!BalloonChat][!speaker:Sharky]우리의 수저를 이어받은 동지들이여.	[!Sentence][!BalloonChat][!speaker:Gangster_Sharky_Normal]继承了我们的勺子的同志们啊。
 #11882	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]그대들이 수저를 들고 가면을 썼기에 모든 것이 시작되었지.	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]你们举起了勺子，戴上了面具，这一切方能开始啊。
 #11884	[!Sentence][!BalloonChat][!speaker:Naam]이 바쁜 시기에 사람 미치게 만드는군.	[!Sentence][!BalloonChat][!speaker:Naam]在这种兵荒马乱的时候真让人气疯啊。
 #11885	[!Sentence][!BalloonChat][!speaker:Naam]그래도 샤키 님을 이대로 보낼 순 없지.	[!Sentence][!BalloonChat][!speaker:Naam]那也不能就这么送走沙基大人啊。
 #11886	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Wind_Normal]방황하는 저희에게 『좌표』를 알려주셔서 감사를 드립니다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Wind_Normal]非常感谢为彷徨的我们指示了『坐标』。
 #11889	[!Sentence][!BalloonChat][!speaker:Enemy01_12]역시 터크 님보단 나암 님을...	[!Sentence][!BalloonChat][!speaker:Gangster_SpoonNormal_Julio_Normal]果然比起图克大人还是罗岩大人…
-#11891	[!Sentence][!Dialog][!speaker:Gangster_SpoonGun_Normal]저희를 『한술』로 이어주셔서 언제나 감사를 드립니다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonGun_Normal]非常感谢将我们联结成『 第一勺 』。
-#11892	[!Sentence][!BalloonChat][!speaker:Sharky]이것도 다 한술이 바라는바...	[!Sentence][!BalloonChat][!speaker:Sharky]这也是第一勺所期望的…
+#11891	[!Sentence][!Dialog][!speaker:Gangster_SpoonGun_Normal]저희를 『한술』로 이어주셔서 언제나 감사를 드립니다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonGun_Normal]非常感谢将我们联结成『 一勺 』。
+#11892	[!Sentence][!BalloonChat][!speaker:Sharky]이것도 다 한술이 바라는바...	[!Sentence][!BalloonChat][!speaker:Sharky]这也是一勺所期望的…
 #11893	[!Sentence][!BalloonChat][!speaker:Gerry]우리 형제를 보고도 덤비는 녀석이 있다니!!	[!Sentence][!BalloonChat][!speaker:Gerry]竟然看到我们兄弟几个还敢上来！！
 #11898	[!Sentence][!BalloonChat][!speaker:Sharky]좌표를 따라온 동지들이여.	[!Sentence][!BalloonChat][!speaker:Gangster_Sharky_Normal]跟随着坐标而来的同志们。
 #11899	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]아닐세. 기약 없는 『좌표』를 향해 긴 여정을 시작해줘 고마울 뿐이네.	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]不是的。非常感谢你们开始了向着『坐标』机会渺茫的旅程。
 #11902	[!Sentence][!BalloonChat][!speaker:Turk]슬럼가 입구로 향한다!!	[!Sentence][!BalloonChat][!speaker:Turk]去往贫民街入口！！
 #11904	[!Sentence][!BalloonChat][!speaker:Enemy01_09]당연히 존 님이지!	[!Sentence][!BalloonChat][!speaker:Gangster_SpoonNormal_Julio_Normal]当然是约翰大人了！
 #11905	[!Sentence][!Title]운반대 아이지아	[!Sentence][!Title]搬运队爱吉亚
-#11906	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Lightning_Normal] 저희들은 이미 자홍거리에서 『첫술』이 되고자 하던 자들입니다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Lightning_Normal]我们是之前在紫红街想要成为『 首勺 』的人们啊。
+#11906	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Lightning_Normal] 저희들은 이미 자홍거리에서 『첫술』이 되고자 하던 자들입니다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Lightning_Normal]我们是之前在紫红街想要成为『 第一勺 』的人们啊。
 #11907	[!Sentence][!BalloonChat][!speaker:Sharky]어쩔 수 없군.	[!Sentence][!BalloonChat][!speaker:Sharky]没办法了。
 #11908	[!Sentence][!BalloonChat][!speaker:Sharky]조금만 참고 견뎌주게 동지들이여.	[!Sentence][!BalloonChat][!speaker:Gangster_Sharky_Normal]再忍忍吧，同志们。
 #11909	[!Sentence][!BalloonChat][!speaker:Enemy01_01]아닙니다!!	[!Sentence][!BalloonChat][!speaker:Gangster_SpoonFat_Normal]不是的！！
@@ -4410,7 +4410,7 @@
 #12196	[!Sentence][!BalloonChat][!speaker:Jason]이런... 어떻게 빠져나가지...	[!Sentence][!BalloonChat][!speaker:Marco_Smile]怎么办…该怎么逃脱呢…
 #12197	[!Sentence][!BalloonChat][!speaker:Luna]아무 생각 없구나...	[!Sentence][!BalloonChat][!speaker:Marco_Smile]真是没头脑啊…
 #12198	[!Sentence][!BalloonChat][!speaker:Luna]마르코. 또 온다.	[!Sentence][!BalloonChat][!speaker:Marco_Smile]马尔科。又来了。
-#12199	[!Sentence][!BalloonChat][!speaker:ZhoHong]좌절감을 알려준 것은 나. 조홍이다. 내가 『한술』의 의지를 잇겠다!	[!Sentence][!BalloonChat][!speaker:Marco_Smile]告知他挫败感的是我。赵洪啊。我将继承『 第一勺 』的意志！
+#12199	[!Sentence][!BalloonChat][!speaker:ZhoHong]좌절감을 알려준 것은 나. 조홍이다. 내가 『한술』의 의지를 잇겠다!	[!Sentence][!BalloonChat][!speaker:Marco_Smile]告知他挫败感的是我。赵洪啊。我将继承『 一勺 』的意志！
 #12200	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]셋은 무슨...	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]什么三个…
 #12201	[!Sentence][!BalloonChat][!speaker:Spoon_Chang]자! 동지들! 이 틈을 타 빠져나간다!	[!Sentence][!BalloonChat][!speaker:Spoon_Chang]来吧！同志们！趁机逃出去吧！
 #12202	[!Sentence][!Dialog][!speaker:Gangster_SpoonDestroyer_Chang_Normal]료. 질긴 인연 여기서 끝내자.	[!Sentence][!Dialog][!speaker:Gangster_SpoonDestroyer_Chang_Normal]亮。就让我们结束这捋不清的缘分吧。
@@ -4460,7 +4460,7 @@
 #12252	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]최대한 이 폭풍이 지나가길 기다렸다만...	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]我希望这次风暴可以尽快过去…
 #12253	[!Sentence][!BalloonChat][!speaker:VHPD03_03]다들 섣불리 움직이지 말고 현 자리를 사수한다!	[!Sentence][!BalloonChat][!speaker:VHPD03_03]大家不要轻举妄动，死守原地！
 #12254	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']  무슨 일이냐. 푸.	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']什么事啊。普。
-#12256	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Julio_Normal]'과연 이것이『한술』의 뜻인가...아니면 그저 광기인가...'	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Julio_Normal]'这到底是『 第一勺 』的意志…还是仅仅是疯狂而已…'
+#12256	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Julio_Normal]'과연 이것이『한술』의 뜻인가...아니면 그저 광기인가...'	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Julio_Normal]'这到底是『 一勺 』的意志…还是仅仅是疯狂而已…'
 #12257	[!Sentence][!BalloonChat][!speaker:Foo]오늘 이 시각부터 구역 내 '전쟁'을 선포한다!!	[!Sentence][!BalloonChat][!speaker:Gangster_Foo_Normal]我宣布从现在起，本地区内开始'战争'！！
 #12258	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal]좋아. 좋군! 살다 보니 이런 환대를 다 받는군.	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal]好。很好！活久见我还能受到这种欢迎。
 #12259	[!Sentence][!BalloonChat][!speaker:Jason]서로 아는 사이라니...	[!Sentence][!BalloonChat][!speaker:Gangster_Jason_Normal]彼此认识是吗…
@@ -4542,7 +4542,7 @@
 #12355	[!Sentence][!Dashboard:Counter]고립된 경찰 분대 수	[!Sentence][!Dashboard:Counter]孤立的警察分队数量
 #12356	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]케빈.	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]凯文。
 #12357	[!Sentence][!BalloonChat][!speaker:ZhoHong]마르코..	[!Sentence][!BalloonChat][!speaker:ZhoHong]马尔科…
-#12358	[!Sentence][!BalloonChat][!speaker:Ralph]그것이 『한술』의 의지다.	[!Sentence][!BalloonChat][!speaker:Ralph]这就是『 第一勺 』的意志。
+#12358	[!Sentence][!BalloonChat][!speaker:Ralph]그것이 『한술』의 의지다.	[!Sentence][!BalloonChat][!speaker:Ralph]这就是『 一勺 』的意志。
 #12359	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959'] 괜찮을 거야. 이젠 '실버라이닝'같은 건 존재하지 않으니까...	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal][colour='FFFFFFFF'][image-size='w:$ImgSize$h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']没关系的。现在也没有'沙佛莱宁'这种东西了…
 #12360	[!Sentence][!BalloonChat][!speaker:Luna]마르코. 어떻게 할 거야?	[!Sentence][!BalloonChat][!speaker:Marco_Smile]马尔科。该怎么办？
 #12362	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal]나도 참 만만하게 보이는가 보군.	[!Sentence][!Dialog][!speaker:Gangster_ButcherRyo_Normal]你们这是小看我啊。
@@ -5370,7 +5370,7 @@
 #13369	[!Sentence][!Title]철의 숲 자원관리구역	[!Sentence][!Title]铁森林资源管理区
 #13379	[!Sentence][!Title]침입자	[!Sentence][!Title]入侵者
 #13382	[!Sentence][!Objective]서로 다른 이능석 표본 5개를 확보하시오.	[!Sentence][!Objective]请带来5份不同种类的异能石样本。
-#13396	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']애쉬...	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']烟灰…
+#13396	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']애쉬...	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']灰烬…
 #13398	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']네가 없었다면 우리 티마 종족은 이미 이 철의 숲에서 자취를 감추었겠지...	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']如果没有你，我们蒂玛种群早就从这个铁森林中消失了吧…
 #13399	[!Sentence][!Title]전사의 최후	[!Sentence][!Title]战士的临终
 #13400	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']실버. 자네의 큰 그림에 동의하네.	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']白银。我赞同你的长远志向。
@@ -5380,7 +5380,7 @@
 #13409	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']무리가 분열하기 전에 싹이 될만한 자들을 모아 내가 나가겠네.	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']在族群彻底分崩离析之前，让我选出苗子们带走吧。
 #13414	[!Sentence][!Title]오색 왕도로리	[!Sentence][!Title]五色王软泥
 #13417	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']우리의 아이들이 자라나고 있다. 적어도 그들이 당당한 전사가 되는 날까지 기다릴 수 없는가?	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']我们的孩子们正在成长啊。你就不能等到他们都长成英勇战士的那一天吗？
-#13419	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']결국 이렇게 되었군. 애쉬.	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']终究还是这样了。烟灰。
+#13419	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']결국 이렇게 되었군. 애쉬.	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']终究还是这样了。灰烬。
 #13422	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']진작에 무리를 나갔어야 했는데...	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']我早该退出族群的…
 #13423	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']적어도 전 우두머리가 나가는 것이니 당연한 수순이라고 보네.	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']至少，前一任头领的退出只能算是例行公事吧。
 #13425	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']현재 티마의 무리는 대부분 부모를 인간에 의해 잃은 세대들일세.	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']现在蒂玛族群的大部分是因为人类而失去了父母的这一代。
@@ -5390,7 +5390,7 @@
 #13433	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']우리의 수명은 고작 20 ~ 25년... 난 이미 24년을 살고 있네.	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']我们的寿命顶多是20~25年…我已经活了24个年头了。
 #13434	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']실버. 다시 한번 이 숲의 티마 무리를 부탁하네.	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']白银。这森林里的蒂玛们就拜托你了。
 #13437	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']하지만 자네의 행동은 경솔했어.	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']然而你的行为太轻率了。
-#13438	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']조금만 참고 견뎌라. 애쉬.	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']你再忍一忍啊。烟灰。
+#13438	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']조금만 참고 견뎌라. 애쉬.	[!Sentence][!Dialog][!speaker:Beast_Tima_Stone_Normal][colour='FFFFAA55']你再忍一忍啊。灰烬。
 #13439	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']한번 어긋난 마음은 다시 붙이기 어렵지. 무리의 대부분이 날 등지고 자네를 따른 것처럼...	[!Sentence][!Dialog][!speaker:Beast_Tima_Black_Ash_Normal][colour='FFFF5500']事实上破镜难再重圆。就像当初族群里的大部分兽选择背弃我去跟随你一样…
 #13442	[!Sentence][!Dialog][!speaker:Albus_Normal]알겠습니다. 일단 축적된 에너지를 정상화 하도록 노력하겠습니다.	[!Sentence][!Dialog][!speaker:Albus_Normal]收到。先尽力将能量储蓄值正常化吧。
 #13445	[!Sentence][!VictoryCondition]관리구역 내 초과된 에너지를 해제하시오.	[!Sentence][!VictoryCondition]请去除管理区内过量的能量。
@@ -5566,7 +5566,7 @@
 #13711	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]뒤늦게 이 상황을 심각하게 여긴 발할라 정부는	[!Sentence][!Subtitle]对这一状况后知后觉的巴赫拉政府
 #13712	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]바람장벽 지구로 모여들기 시작했다.	[!Sentence][!Subtitle]开始聚集到风之墙壁地区。
 #13713	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]스푼교에 대한 정보 통제를 시작한다.	[!Sentence][!Subtitle]开始控制勺子教的情报。
-#13714	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]한술을 따르는 자들의 다음 행보는 멈추지 않았다.	[!Sentence][!Subtitle]跟随着第一勺的家伙们的下一步行动并未停下。
+#13714	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]한술을 따르는 자들의 다음 행보는 멈추지 않았다.	[!Sentence][!Subtitle]跟随着一勺的家伙们的下一步行动并未停下。
 #13715	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]각 지구로 꾸준히 사건 사고 소식으로 전해졌고	[!Sentence][!Subtitle]持续向各地区传去了事件事故消息
 #13716	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]그 결과 발할라 전역에 걸쳐 숨죽이고 살았던 스푼교도들이	[!Sentence][!Subtitle]其结果是经历了巴赫拉战役后屏声静气偷生着的勺子教信徒们
 #13717	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]하지만 이미 흘러내린 물을 주워 담을 수 없듯이...	[!Sentence][!Subtitle]但是就像泼出去的水无法收回来…
@@ -6299,7 +6299,7 @@
 #14563	[!Sentence][!Dialog][!speaker:Anne_Strict]부상당한 시민한테는 제가 갈게요!	[!Sentence][!Dialog][!speaker:Anne_Strict]受伤的市民就交给我吧！
 #14564	[!Sentence][!Dialog][!speaker:Payne_Normal]이 놈의 자식들은 다...	[!Sentence][!Dialog][!speaker:Payne_Normal]这些个儿子真是一个个的…
 #14565	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]『 지금은 아버지가 짊어지고 있는 짐의 무게가 어렴풋이나마 느껴집니다. 』	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]『然而现在的我才刚刚开始理解父亲肩负着的重担。』
-#14567	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal] 망자의 세계에서는 한술과 함께 하기를...	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]愿你在亡者的世界，和第一勺同在…
+#14567	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal] 망자의 세계에서는 한술과 함께 하기를...	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]愿你在亡者的世界，和一勺同在…
 #14569	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]『 예전 같았으면 거리 앞을 뛰어가는 금발 남자만 보아도... 』	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]『要是放在以前，只要见到街上跑动的金发男我就…』
 #14570	[!Sentence][!Subtitle][!speaker:NewsCaster_Normal][colour='FFFFFFC8']중앙 정부의 결단을 촉구하는 시위를 이어가고 있습니다.	[!Sentence][!Subtitle][!speaker:NewsCaster_Normal][colour='FFFFFFC8']开始了要求中央政府进行决断的示威活动。
 #14571	[!Sentence][!Dialog][!speaker:Albus_Serious]그 중에는 부상당한 시민들도 존재해.	[!Sentence][!Dialog][!speaker:Albus_Serious]其中还有受伤的市民。
@@ -7037,7 +7037,7 @@
 #15370	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]지젤씨... 설마...	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]吉赛尔…不会吧…
 #15371	[!Sentence][!BalloonChat][!speaker:Albus]이제 곧 겨울이구나...	[!Sentence][!BalloonChat][!speaker:Albus_Normal]冬天就要到了呢…
 #15372	[!Sentence][!BalloonChat][!speaker:Sion]그냥 김씨네 만두가게 들렸다가야겠다...	[!Sentence][!BalloonChat][!speaker:Sion]直接顺路去老金家饺子铺好了…
-#15374	[!Sentence][!Subtitle]스푼교 교리『 한술 』은 지친 그들을 따뜻하게 감싸주었기 때문이었다.	[!Sentence][!Subtitle]而且勺子教的教义『 第一勺 』温柔地护住了他们疲惫的身心。
+#15374	[!Sentence][!Subtitle]스푼교 교리『 한술 』은 지친 그들을 따뜻하게 감싸주었기 때문이었다.	[!Sentence][!Subtitle]而且勺子教的教义『 一勺 』温柔地护住了他们疲惫的身心。
 #15375	[!Sentence][!Dialog][!speaker:Albus_Surprise]지젤씨??	[!Sentence][!Dialog][!speaker:Albus_Surprise]吉赛尔？？
 #15376	[!Sentence][!Title]하늘 바람 공원	[!Sentence][!Title]天空之风公园
 #15377	[!Sentence][!VictoryCondition]선택 목표 1: 배달 형제를 제압하시오.	[!Sentence][!VictoryCondition]选项1: 请制快递兄弟。
@@ -7535,7 +7535,7 @@
 #15969	[!Sentence]아이린으로 진행됩니다.<br><br>[colour='FFFFE959']해당 선택지에 따라 이벤트 보상이 달라집니다. <br>경험하지 못한 이벤트는 [colour='FFFFFFFF']사건일지[colour='FFFFE959']를 통하여 진행하실 수 있습니다.	[!Sentence]进行艾琳。<br><br>[colour='FFFFE959']根据您的选项，活动奖励也将有所不同。<br>未经历的活动事件则可通过[colour='FFFFFFFF']事件日志[colour='FFFFE959']来体验。
 #15970	[!Sentence]레이로 진행됩니다.<br><br>[colour='FFFFE959']해당 선택지에 따라 이벤트 보상이 달라집니다. <br>경험하지 못한 이벤트는 [colour='FFFFFFFF']사건일지[colour='FFFFE959']를 통하여 진행하실 수 있습니다.	[!Sentence]进行雷伊。<br><br>[colour='FFFFE959']根据您的选项，活动奖励也将有所不同。<br>未经历的活动事件则可通过[colour='FFFFFFFF']事件日志[colour='FFFFE959']来体验。
 #15971	[!Sentence][!BalloonChat][!speaker:Irene]기억 났어, 이 사람. 앤을 보고 자리를 떴던...	[!Sentence][!BalloonChat][!speaker:Albus_Normal]想起来了。这人是…看到安就离开了的…
-#15973	[!Sentence][!Dialog][!speaker:Kylie_Smile]잠시 시간되면 내 아이들 테스트 좀 도와주겠어?	[!Sentence][!Dialog][!speaker:Kylie_Smile]你有空的话要不要帮我孩子们做做测试呢？
+#15973	[!Sentence][!Dialog][!speaker:Kylie_Smile]잠시 시간되면 내 아이들 테스트 좀 도와주겠어?	[!Sentence][!Dialog][!speaker:Kylie_Smile]你有空的话要不要帮我的孩子们做做测试呢？
 #15974	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]이 동네 요즘 사냥감이 넘치잖아. 세계수는 요즘 지겹거든.	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]这里最近猎物喷发啊。世界树那边最近有点无聊的。
 #15975	[!Sentence][!BalloonChat][!speaker:Ray]도대체 왜 이렇게 됐을까...	[!Sentence][!BalloonChat][!speaker:Albus_Normal]为什么事情结果是这样的...
 #15976	[!Sentence][!Objective]공원에 풀린 야수를 모두 제압하시오.	[!Sentence][!Objective]请将公园里四散的野兽全部制服。
@@ -9223,7 +9223,7 @@
 #18224	[!Sentence][!Dialog][!speaker:Giselle_Smile]그렇게 경계하지 마. 어차피 다 지난 일이잖아.	[!Sentence][!Dialog][!speaker:Giselle_Smile]不要那么警戒，反正都是过去了。
 #18226	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]카일리와 $CompanyName$의 노력에도 불구하고 철의 숲 전자망은 꾸준히 단선된다.	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]不顾凯利和 $CompanyName$的努力， 铁森林的电网还是持续断线。
 #18227	[!Sentence][!Dialog][!speaker:Anne_Smile]네~	[!Sentence][!Dialog][!speaker:Anne_Smile]是的~
-#18228	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]대부분 원인은 전자망 제어기의 동파였다.	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]大部分的愿意都在于电网控制仪的冻裂。
+#18228	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]대부분 원인은 전자망 제어기의 동파였다.	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]大部分的原因都在于电网控制仪的冻裂。
 #18229	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]'저 녀석 넉살은 여전하군...'	'他的脸皮真是一如既往地厚啊...'
 #18230	[!Sentence][!Dialog][!speaker:Sion_Laugh]카일리 누나 일인데 당연하지~☆	[!Sentence][!Dialog][!speaker:Sion_Laugh]当然了，这是凯利姐的事诶~☆
 #18231	[!Sentence][!Dialog][!speaker:Irene_Surprise]오, 벌써 들어왔나?	[!Sentence][!Dialog][!speaker:Irene_Surprise]噢，这么快就进货了？
@@ -9609,7 +9609,7 @@
 #18736	[!Sentence][!Dialog]평상시의 알버스와 다른 선택...	[!Sentence][!Dialog]平常时的阿尔伯斯和另外的选择...
 #18737	[!Sentence][!Dialog][!speaker:Albus_Serious]그리고 길이 좁고 복잡하니 이동 경로 확보에 신중을 기해주세요.	[!Sentence][!Dialog][!speaker:Albus_Serious]此外，道路狭窄复杂，请慎重考虑确保移动路径。
 #18738	[!Sentence][!Dialog][!speaker:Irene_Think]흐음...	[!Sentence][!Dialog][!speaker:Sion_SurpriseStare]哼嗯...
-#18739	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Normal]『 한술 』의 가호가 함께 하기를!	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Normal]愿『 第一勺 』保佑！
+#18739	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Normal]『 한술 』의 가호가 함께 하기를!	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Normal]愿『 一勺 』保佑！
 #18740	[!Sentence][!Dialog][!speaker:VHPD_Issac_Costume_Normal]시온?	[!Sentence][!BalloonChat][!speaker:Direct_Albus]席翁？
 #18741	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]자네가 아끼는 $CompanyName$ 녀석이군.	[!Sentence][!Dialog][!speaker:Gangster_Trey_Normal]你珍爱的 $CompanyName$ 啊。
 #18742	[!Sentence][!Dialog][!speaker:Giselle_Smile]알버스. 잠시만~!	[!Sentence][!Dialog][!speaker:Giselle_Smile]阿尔伯斯。稍等一下~！
@@ -9722,7 +9722,7 @@
 #18858	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Normal]저 모습 분명 어디선가 봤는데...	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Normal]那模样明明是在哪里见过的...
 #18859	[!Sentence][!Dialog][!speaker:Giselle_Annoying]계속 이런 식이면 알버스에게 엔지니어 하나 들이라고 해야겠어.	[!Sentence][!Dialog][!speaker:Giselle_Annoying]如果继续这样下去的话，我得让阿尔伯斯找个工程师来。
 #18860	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Normal]역시 저 녀석은 레이.	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Normal]那家伙果然是雷伊。
-#18861	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Normal]'다 『 한술 』의 뜻인가...'	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Normal]'都是 『 第一勺 』的意图吗...'
+#18861	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Normal]'다 『 한술 』의 뜻인가...'	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Normal]'都是 『 一勺 』的意图吗...'
 #18862	[!Sentence][!BalloonChat][!speaker:Albus]다들 바이크론을 조심하세요!!	[!Sentence][!BalloonChat][!speaker:Albus]都要小心注意拜克伦啊！！
 #18863	[!Sentence][!Dialog][!speaker:Irene_Fury]뭐야. 그렇게 위험한 거야!?	[!Sentence][!Dialog][!speaker:Irene_Fury]什么，有那么危险吗？
 #18864	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Normal]그 녀석이 맞아...	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Normal]是他啊...
@@ -10233,7 +10233,7 @@
 #19427	[!Dialog][!speaker:Pierto_Normal]그래? 그럼 그 편한만큼 가격을 더 받아야겠군.	是吗？那么轻松的话就应该提升费用了吧。
 #19428	[!Dialog][!speaker:Albus_Surprise]아니 그건...	[!Sentence][!Dialog][!speaker:Albus_Disappoint]哦不，那是…
 #19429	[!Dialog][!speaker:Pierto_Normal]농담이네. 농담.	[!Dialog][!speaker:Pierto_Normal]哈哈哈，开玩笑的。
-#19430	[!Dialog][!speaker:Pierto_Normal]편한 것도 가끔은 시장 거리에도 나가고 해 봐.	[!Dialog][!speaker:Pierto_Normal]偶尔也去市场街逛逛吧。
+#19430	[!Dialog][!speaker:Pierto_Normal]편한 것도 좋지만 가끔은 시장 거리에도 나가고 해 봐	[!Dialog][!speaker:Pierto_Normal]偶尔也去市场街逛逛吧。
 #19431	[!Dialog][!speaker:Pierto_Normal]일단 유통 단계를 하나 거치다보니 자네들이 직접 구하는 것보다는 비싸게 느껴질지 모르겠만...	[!Dialog][!speaker:Pierto_Normal]在流通过程中，会经过一个阶段，所以会比你自己去找的还要贵些......
 #19432	[!Dialog][!speaker:Pierto_Normal]돈만 있다면 언제든지 편하게 구할 수 있다네.	[!Dialog][!speaker:Pierto_Normal]只要有钱，那何时都可以随时购到物品。
 #19433	[!Dialog][!speaker:Albus_Normal]무슨 말씀인지 잘 알겠습니다.	[!Dialog][!speaker:Albus_Normal]我懂是什么意思了。
@@ -10354,7 +10354,7 @@
 #19559	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Flame_Normal]그럼 난 같은 생각인 동지들을 모아 오겠어.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Flame_Normal]那么我就去带来意志相同的同志们了。
 #19560	[!Sentence][!Dialog][!speaker:Gangster_SpoonFat_Black_Normal]뭘 꾸물거려! 빨리 가자.	[!Sentence][!Dialog][!speaker:Gangster_SpoonFat_Black_Normal]磨蹭什么！快走吧。
 #19561	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Lightning2_Normal]정말 남을 건가?	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Lightning2_Normal]真的不走吗？
-#19562	[!Sentence][!Dialog][!speaker:Gangster_SpoonFat_Black_Normal]그래. 그 녀석들은 자신들의 조직을 재건하기 위해 『 한술 』을 이용하려고 한 녀석들일 뿐이야.	[!Sentence][!Dialog][!speaker:Gangster_SpoonFat_Black_Normal]是啊，他们终究是为了重建自己的组织而使用『 第一勺 』的家伙们罢了。
+#19562	[!Sentence][!Dialog][!speaker:Gangster_SpoonFat_Black_Normal]그래. 그 녀석들은 자신들의 조직을 재건하기 위해 『 한술 』을 이용하려고 한 녀석들일 뿐이야.	[!Sentence][!Dialog][!speaker:Gangster_SpoonFat_Black_Normal]是啊，他们终究是为了重建自己的组织而使用『 一勺 』的家伙们罢了。
 #19563	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Wind2_Normal]쓰다 남은 드론들도 있으니 내가 여기 남아서 시간을 끌어 보겠어.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Wind2_Normal]剩下没用的无人机都在这，我就留在这里来争取时间。
 #19564	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Lightning2_Normal]무슨 소리야?	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Lightning2_Normal]你在说什么？
 #19565	[!Sentence][!Dialog][!speaker:Gangster_SpoonFat_Black_Normal]기껏 여기까지 와 놓고 포기하다니 무슨 바보 같은 짓이야!	[!Sentence][!Dialog][!speaker:Gangster_SpoonFat_Black_Normal]都到这里了才来放弃，那是多么愚蠢的啊！
@@ -10366,7 +10366,7 @@
 #19571	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Lightning2_Normal]멍청한 녀석...	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Lightning2_Normal]愚蠢的家伙...
 #19572	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Lightning2_Normal]『 성난 황소 』출신의 동지들은 이제 포기해.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Lightning2_Normal]就放弃『 愤怒的公牛 』出身的同志吧。
 #19573	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Wind2_Normal]그래 우리는 『 첫술 』이니까.	是啊，我们可是『 第一勺 』呐。
-#19574	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Wind2_Normal]다 『 한술 』의 뜻이겠지.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Wind2_Normal]这大概就是『 第一勺 』的意思吧。
+#19574	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Wind2_Normal]다 『 한술 』의 뜻이겠지.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Wind2_Normal]这大概就是『 一勺 』的意思吧。
 #19575	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Lightning2_Normal]무리다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Lightning2_Normal]不可能的。
 #19576	[!Sentence][!Title]꼬리 자르기	[!Sentence][!Title]弃城而逃
 #19577	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Flame_Normal]최소한 그들은 끝까지 가면을 벗지 않고 수저를 몸에 지니고 있었다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Flame_Normal]他们至少到最后都没有摘下面具，终究带着勺子在身。
@@ -10958,7 +10958,7 @@
 #20283	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]물러나시죠.	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]退下来吧。
 #20284	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]알았다.	[!Sentence][!Dialog][!speaker:Ray_Normal]知道了。
 #20286	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Kaze_Normal]존 님. 우리보다 먼저 온 녀석들이 있는데요?	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Kaze_Normal]约翰大人。看来有比我们提前抵达现场的人呢。
-#20287	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]『 한술 』의 뜻에 따라 배제한다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]随着『 第一勺 』的意图排除掉吧。
+#20287	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]『 한술 』의 뜻에 따라 배제한다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]随着『 一勺 』的意图排除掉吧。
 #20289	[!Sentence][!Dialog][!speaker:Gangster_DannyLaw_Normal][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'][colour='FFFFE959']도착했나?	[!Sentence][!Dialog][!speaker:Gangster_DannyLaw_Normal][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'][colour='FFFFE959']都到了吗？
 #20290	[!Sentence][!Dialog][!speaker:Gangster_SmugglerHunter_Zeff_Normal][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'][colour='FFFFE959']늦지 않은 것 같다.	[!Sentence][!Dialog][!speaker:Gangster_SmugglerHunter_Zeff_Normal][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'][colour='FFFFE959']看来还不晚。
 #20291	[!Sentence][!Dialog][!speaker:Gangster_DannyLaw_Normal][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'][colour='FFFFE959']보수는 평소의 3배다. 확실하게 처리해라.	[!Sentence][!Dialog][!speaker:Gangster_DannyLaw_Normal][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Radio'][colour='FFFFE959']报酬是平时的3倍。切实地处理掉。
@@ -11310,7 +11310,7 @@
 #20672	[!Sentence][!Dialog][!speaker:Albus_Smile]'저쪽의 의도는 우리가 도망가지 못하도록 포위하는 것이겠지만...'	[!Sentence][!Dialog][!speaker:Albus_Smile]'那边的意图应该是要包围我们，防止逃跑...'
 #20673	[!Sentence][!Dialog][!speaker:Albus_Normal]'그건 결국 병력이 분산되었다는 것.'	[!Sentence][!Dialog][!speaker:Albus_Normal]'那归根结底会导致兵力分散。'
 #20674	[!Sentence][!Dialog][!speaker:Albus_Normal]'적이 모여들기 전에 한 무리씩 격파해 나간다면 충분해.'	[!Sentence][!Dialog][!speaker:Albus_Normal]'在敌人未聚拢之前，一个一个地打下去就充分足够的。'
-#20675	[!Sentence][!Dialog][!speaker:Albus_Serious]다들 빠르게 재정비 하세요!	[!Sentence][!Dialog][!speaker:Albus_Serious]大家都快速的重整下！
+#20675	[!Sentence][!Dialog][!speaker:Albus_Serious]다들 빠르게 재정비 하세요!	[!Sentence][!Dialog][!speaker:Albus_Serious]大家都快速地重整下！
 #20676	[!Sentence][!Dialog][!speaker:Albus_Serious]최대한 빠르게 외곽을 선회하며 각개 격파하도록 하겠습니다!	[!Sentence][!Dialog][!speaker:Albus_Serious]尽可能以最快的速度击溃公园外围的敌人！
 #20677	[!Sentence][!VictoryCondition]현장의 모든 적을 제압하시오.	[!Sentence][!Objective]请把现场所有的敌人制服。
 #20678	[!Sentence][!Title]투덜쟁이 펠릭스	[!Sentence][!Title]牢骚鬼费利克斯
@@ -11590,11 +11590,11 @@
 #20969	[!Sentence][!Dialog][!speaker:Gangster_SpoonDestroyer_Chang_Normal]가면 뒤의 진실을 탐하지 마라.	[!Sentence][!Dialog][!speaker:Gangster_SpoonDestroyer_Chang_Normal]不要去贪图假面背后的真实。
 #20970	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]존 님이 하신 말씀이구나.	是约翰大人的语录啊。
 #20971	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]맹목적이고 매력적인 말이었지.	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]虽是盲目但却是有魅力的话。
-#20972	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]그래. 한술의 뜻에 따라 이 곳까지 온 것에 감사할 뿐이지.	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]是啊，能够根据第一勺的意愿，来到了这里也足够感谢了。
+#20972	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]그래. 한술의 뜻에 따라 이 곳까지 온 것에 감사할 뿐이지.	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]是啊，能够根据一勺的意愿，来到了这里也足够感谢了。
 #20973	[!Sentence][!Dialog][!speaker:Gangster_SpoonDestroyer_Chang_Normal]너와 나의 숟가락은 다르지만 같은 밥을 푸고 나눠 먹을 숟가락이다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonDestroyer_Chang_Normal]虽然你和我的勺子不同，但是我们会一起分享同样的餐。
 #20974	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]내가 나쁜 놈이 된 것 같군.	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]我好像成了坏人一样。
 #20975	[!Sentence][!Dialog][!speaker:Gangster_SpoonDestroyer_Chang_Normal]진실을 탐하는 것은 본능이다.  네 잘못이 아니다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonDestroyer_Chang_Normal]贪图真相是人的本能。不是你的错。
-#20976	[!Sentence][!Dialog][!speaker:Gangster_SpoonDestroyer_Chang_Normal]다음 한술로 배부름이 있을 것을 믿어라.	要坚信下个第一勺将会带领你去饱餐吧。
+#20976	[!Sentence][!Dialog][!speaker:Gangster_SpoonDestroyer_Chang_Normal]다음 한술로 배부름이 있을 것을 믿어라.	要坚信下个一勺将会带领你去饱餐吧。
 #20977	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]그래. 꼭『 배부름의 땅 』으로 가자.	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]是的。一定要前往『 饱餐之地 』。
 #20979	[!Sentence][!Dialog][!speaker:Giselle_Normal]방금 전까지 이곳을 지난 흔적이네.	这是刚刚经过留下的痕迹。
 #20980	[!Sentence][!Dialog][!speaker:Kylie_Normal]알버스. 이쪽 아래에서 인위적인 광원이 감지된다.	[!Sentence][!Dialog][!speaker:Kylie_Normal]阿尔伯斯，在这下面感应到了人工的光源。
@@ -11613,7 +11613,7 @@
 #20993	[!Sentence][!Dialog][!speaker:Giselle_Normal]알버스. 길이 좁아 다수를 상대하기 꽤 귀찮을 거야.	[!Sentence][!Dialog][!speaker:Giselle_Normal]阿尔伯斯。这里路窄，我们对付多数敌人的话会很麻烦。
 #20994	[!Sentence][!Dialog][!speaker:Albus_Serious]네. 고려하겠습니다.	[!Sentence][!Dialog][!speaker:Albus_Serious]是，我会考虑到的。
 #20995	[!Sentence][!Dialog][!speaker:Gangster_SpoonGun2_Normal]샤키 님! 일단 안전한 곳으로 대피하십시오!	[!Sentence][!Dialog][!speaker:Gangster_SpoonGun2_Normal]沙基大人！先躲到安全的地方吧！
-#20996	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]모든 것은 한술의 뜻.	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]一切都是第一勺的意愿。
+#20996	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]모든 것은 한술의 뜻.	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]一切都是一勺的意愿。
 #20997	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]동지들이여. 뒤를 부탁하네.	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]同志们，就拜托后面了。
 #20998	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]거짓으로 만들어진 영웅은 언젠가 그 댓가를 치를 것이네.	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]虚造的英雄终究会付出代价的。
 #20999	[!Sentence][!Dialog][!speaker:Albus_Normal]전 당신이 말하는 거짓이 무엇이라도 두렵지 않습니다.	[!Sentence][!Dialog][!speaker:Albus_Normal]无论你说什么，我是不会感到一丝恐吓的。
@@ -12021,7 +12021,7 @@
 #21429	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Earth2_Normal]샤키님. 외람된 말씀입니다만...	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Earth2_Normal]沙基大人，虽然是冒昧的话...
 #21430	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Earth2_Normal]내일이라도 당장 『 두술제 』를 열어 『 두술 』을 정하고 동지과 함께 『 배부름의 땅 』으로 나아가야 합니다.	哪怕是明天，也要马上举行『 第二勺祭 』来选择『 第二勺 』并与同志们一起前往『 饱腹之地 』。
 #21431	[!Sentence][!Dialog][!speaker:Gangster_SpoonGun2_Normal]존 님이 이 곳에서 추적자들의 발을 묶고 있을 때가 기회입니다.	约翰大人在这里拖住追踪者的脚步，就趁这个机会吧。
-#21432	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]이 시련 조차 모두 '한술'의 뜻일세.	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]连这个考验都是『 第一勺 』的意志。
+#21432	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]이 시련 조차 모두 '한술'의 뜻일세.	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]连这个考验都是『 一勺 』的意志。
 #21433	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]조바심내지 말고 자리로 돌아가 동지들을 안심시키게.	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]别着急，回到你的位置上让同志们放心吧。
 #21434	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]지금에 와서 『 두술 』과 함께 긴 여정을 떠나야 할 동지들을 불안에 떨게 할 것인가?	时至今天，还要让与『 第二勺 』一起经过漫长旅程的同志在不安中瑟瑟发抖吗？
 #21435	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]생각지도 않은 불청객이군.	意料之外的不速之客呢。
@@ -12029,7 +12029,7 @@
 #21437	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Earth2_Normal]샤키 님! 일단 피하십시오!	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Earth2_Normal]沙基大人！先避开此地吧！
 #21438	[!Sentence][!Dialog][!speaker:Carter_Smile]레톤. 부탁한다.	[!Sentence][!Dialog][!speaker:Carter_Smile]莱顿来处理那些家伙们吧。
 #21439	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]『 발할라 』는 저주 받은 욕망을 아직도 포기하지 못하는 건가...	『 巴赫拉 』还是无法放弃那被诅咒的野心吗...
-#21440	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]이 모든 것은 『 한술 』의 뜻인가...	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]这都是『 第一勺 』的意志吗...
+#21440	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]이 모든 것은 『 한술 』의 뜻인가...	[!Sentence][!Dialog][!speaker:Gangster_Sharky_Normal]这都是『 一勺 』的意志吗...
 #21441	[!Sentence][!Title]강요하는 자	[!Sentence][!Title]强求者
 #21442	[!Sentence][!Dialog][!speaker:Edward_Normal]그래. 한번 해 볼 텐가?	那么，你想去尝试一次吗？
 #21443	[!Sentence][!Dialog][!speaker:Edward_Normal]여전히 고집스러운 아이군.	还真是个固执的孩子。
@@ -12113,17 +12113,17 @@
 #21521	[!Sentence][!Title]순교자	[!Sentence][!Title]殉教者
 #21522	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]존 님. 지금이라도 동지들을 이끌고 『 배부름의 땅 』으로 가셔야 합니다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]约翰大人，哪怕是现在，也要带领同志们前往『 饱腹之地 』。
 #21523	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]랄프. 조급해하지 마라. 『 배부름의 땅 』은 『 두술 』이 이끄는 것이다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]拉尔夫，不要着急。引导至『 饱腹之地  』将会是『 第二勺 』。
-#21524	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]그리고 우리의 현재 역할은 『 첫술 』이다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]我们现在的职责只是『 首勺 』。
+#21524	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]그리고 우리의 현재 역할은 『 첫술 』이다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]我们现在的职责只是『 第一勺 』。
 #21525	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]우리는 이곳에서 최대한 버텨야 해.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]我们要尽量在这里坚持下去。
 #21526	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]그래야 더 많은 동지들이 발할라의 어둠으로부터 탈출할 수 있겠지.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]只有这样才能有更多的同志从巴赫拉的黑暗中逃脱出来。
-#21527	[!Sentence][!Dialog][!speaker:Gangster_SpoonDestroyer_Chang_Normal]『 두술 』은 『 첫술 』의 끝에 나타난다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonDestroyer_Chang_Normal]『 第二勺 』代表着『 首勺 』的结束。
+#21527	[!Sentence][!Dialog][!speaker:Gangster_SpoonDestroyer_Chang_Normal]『 두술 』은 『 첫술 』의 끝에 나타난다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonDestroyer_Chang_Normal]『 第二勺 』代表着『 第一勺 』的结束。
 #21528	[!Sentence][!Dialog][!speaker:Gangster_SpoonDestroyer_Chang_Normal]지난 집회 때 샤키 님이 말씀하신 말씀이지.	[!Sentence][!Dialog][!speaker:Gangster_SpoonDestroyer_Chang_Normal]是沙基大人在上次的集会上所说的话。
-#21529	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]이제와서 하는 소리지만 결국 우리가『 첫술 』로 희생해야 한다는 것 아닌가?	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]那他是在说我们最终是以『 首勺 』而牺牲？
+#21529	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]이제와서 하는 소리지만 결국 우리가『 첫술 』로 희생해야 한다는 것 아닌가?	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]那他是在说我们最终是以『 第一勺 』而牺牲？
 #21530	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]우리가 모두 죽으면 나타난다는 건가?	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]难道我们都死了才会出现吗？
 #21531	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]료의 검 끝에서 절 지켜주신 순간부터 제 인생은 존 님의 것입니다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]在亮的刀段救出我那一刻起，我的人生就是约翰大人的。
 #21532	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]『 두술 』이 되시어 새로운 『 좌표 』로 동지들을 이끌어 주십시오.	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]请成为『 第二勺 』来带领同志到新的『 坐标 』。
 #21533	[!Sentence][!Dialog][!speaker:Gangster_SpoonDestroyer_Chang_Normal]랄프!!	[!Sentence][!Dialog][!speaker:Gangster_SpoonDestroyer_Chang_Normal]拉尔夫！！
-#21534	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]랄프. 네 마음은 충분히 이해하지만 우리는 『 한술 』을 따르는 자.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]拉尔夫，你的心情是完全可以理解的。但我们只是『 第一勺 』的跟随者。
+#21534	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]랄프. 네 마음은 충분히 이해하지만 우리는 『 한술 』을 따르는 자.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]拉尔夫，你的心情是完全可以理解的。但我们只是『 一勺 』的跟随者。
 #21535	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]서로가 가면을 쓴 이유는 자신이라는 집착을 버림으로써 하나의 공동체가 되고자 하는 것이지.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]彼此戴面具的理由也是为了放弃对国家的执着，从而成为一个共同体。
 #21536	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]가면 뒤로 네 마음을 감춰주길 바라네.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]希望你把你的心隐藏在面具后。
 #21537	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]존 님...	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]约翰大人...
@@ -12134,14 +12134,14 @@
 #21542	[!Sentence][!Dialog][!speaker:Gangster_SpoonDestroyer_Chang_Normal]존 님.	[!Sentence][!Dialog][!speaker:Gangster_SpoonDestroyer_Chang_Normal]约翰大人。
 #21543	[!Sentence][!Dialog][!speaker:Gangster_SpoonDestroyer_Chang_Normal]『 배부름의 땅 』에 꼭 도달하겠습니다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonDestroyer_Chang_Normal]我们一定会到达『 饱腹之地 』的。
 #21544	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]창!!! 무슨 소리냐!!	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]昌！！！你在说什么！！
-#21545	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]랄프. 다 『 한술 』의 뜻이야.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]拉尔夫，这都是『 第一勺 』的意愿。
+#21545	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]랄프. 다 『 한술 』의 뜻이야.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]拉尔夫，这都是『 一勺 』的意愿。
 #21546	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]이 곳에서 내가 물러나면 지하 수로 곳곳에 숨어든 수 천명의 동지들은 모두 발할라의 범죄자가 될 것이네.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]如果我在这里退下，那躲藏在地下水道各处的数以千计的同志都将成为巴赫拉的罪犯。
 #21547	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]차라리 저희가 남겠습니다. 샤키 님의 곁에는 존 님이 가셔야 합니다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]我们宁愿留下来。沙基大人是需要约翰大人留在身旁的。
 #21548	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]존 님이『 두술 』이 되셔야 합니다!!	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]『 第二勺 』应由约翰大人来当！！
 #21549	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]랄프 지금의 자네로는 무리야.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]拉尔夫，现在的你是无法阻挡他们的。
 #21550	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]내가 아니면 이 곳에서 30분이라도 버티겠는가...	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]如果不是我，谁还能在这里抗住30分钟....
 #21551	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]이 곳에서 나랑 카제가 최대한 시간을 벌겠네.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]我和卡帝会在这里尽量争取时间的。
-#21552	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]자네들은 『 한술 』의 뜻에 따라 자네들의 역할을 다해주게나.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]你们就按照『 第一勺 』的意愿来做你们的职责。
+#21552	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]자네들은 『 한술 』의 뜻에 따라 자네들의 역할을 다해주게나.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]你们就按照『 一勺 』的意愿来做你们的职责。
 #21553	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]존 님. 샤키 님의 신변을 확인한 후 바로 다시 지원 오도록 하겠습니다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]约翰大人。确保了沙基大人后马上就会来支援您的。
 #21554	[!Sentence][!Dialog][!speaker:Albus_Serious]길이 좁으니 최대한 서로의 경로를 방해하지 않고 임무를 수행할 수 있도록 합니다.	[!Sentence][!Dialog][!speaker:Albus_Serious]路窄，尽量不妨碍彼此的路径，来确保完成任务。
 #21555	[!Sentence][!Dialog][!speaker:Albus_Serious]그럼 바로 이 구역의 스푼교도를 제압하겠습니다!	[!Sentence][!Dialog][!speaker:Albus_Serious]那马上就去制服这区域的勺子教徒！
@@ -13853,7 +13853,7 @@
 #23683	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]넌 누구냐?	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]你是谁？
 #23684	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]샤키 님은 어디 계시지?	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]沙基大人在哪里？
 #23685	[!Sentence][!Dialog][!speaker:Carter_Black_Normal]가면 뒤의 진실을 탐하지 말라.	[!Sentence][!Dialog][!speaker:Carter_Black_Normal]不要去贪图假面背后的真实。
-#23686	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]너... 세 치의 혀로 한술을 더럽히는 거냐...	你...胆敢用狡猾的舌头玷污第一勺。
+#23686	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]너... 세 치의 혀로 한술을 더럽히는 거냐...	你...胆敢用狡猾的舌头玷污一勺。
 #23687	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]흑가면을 쓴 네 녀석이 샤키 님이 아니라는 것. 그것은 넌 우리의 적이라는 것.	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]披着黑面具的你不是沙基大人就意味着你是敌人。
 #23688	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]빨리 샤키 님이 어디에 있는지 말하지 못할까!?	[!Sentence][!Dialog][!speaker:Gangster_SpoonSword_Ralph_Normal]快给我说出沙基大人的所在！！
 #23689	[!Sentence][!Dialog][!speaker:Carter_Black_Normal]'역시 오랫동안 샤키를 보좌한 녀석들을 데려가기란 무리인가...'	[!Sentence][!Dialog][!speaker:Carter_Black_Normal]'果然无法骗过长期辅佐沙基的家伙们啊...'
@@ -13885,8 +13885,8 @@
 #23715	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]넌... 아직 젊은 녀석이군.	你...不过是个毛头小子罢了。
 #23716	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]내 첫번째 스승 샤키는 1년 전 어리석은 날 구하다 사망했네.	我的第一个师傅沙基，早在1年前就为了拯救愚蠢的我而死了。
 #23718	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]이어 받은 스승이 비슷한 체격, 화염능력자이며 완전 복원 능력을 가진 자였던 것은 우연이라고 생각했지.	当时只是觉得继承身份的第二个沙基和师傅有着相似体格，火焰超能力，以及完全复原能力不过是个偶然罢了。
-#23719	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]하지만 눈을 감는 스승이나 이어 받는 스승 모두 다 『 한술 』의 뜻이라고 했었네.	但不论是已经闭上眼睛的师傅，还是继承师傅的沙基，他们也都是遵从了『 第一勺 』的意愿。
-#23720	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]결국 다 『 한술 』의 뜻인거지.	看来这一切都是『 第一勺 』的旨意啊。
+#23719	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]하지만 눈을 감는 스승이나 이어 받는 스승 모두 다 『 한술 』의 뜻이라고 했었네.	但不论是已经闭上眼睛的师傅，还是继承师傅的沙基，他们也都是遵从了『 一勺 』的意愿。
+#23720	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]결국 다 『 한술 』의 뜻인거지.	看来这一切都是『 一勺 』的旨意啊。
 #23721	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]한동안 나를 따르는『 첫술 』들과 이 곳에서 경찰들의 발목을 잡고 있겠네.	我将和余下的『 第一勺 』在这里挡住警察。
 #23722	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]그러면 『 첫술 』은 비워지고 자네는 우리에게는『 두술 』이자 다른 이에게는 『 첫술 』로써 자네의 가슴에 품은 수저를 뜰 수 있을 것이네.	那『 第一勺 』将会空出。你则会被对我们来说是『 第二勺 』，而对别人来说是『 第一勺 』的称呼来拥有自己胸怀的勺子。
 #23723	[!Sentence][!Dialog][!speaker:Carter_Black_Normal]왜지? 너의 그 맹목적인 신뢰는 광기에 지나지 않는다.	为什么？ 你那种盲目的信赖感， 分明就是狂气。
@@ -13897,7 +13897,7 @@
 #23729	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]내 스승의 흑가면을 쓰고 내 앞에 서 있는 현실을 믿는 것이다.	我相信的是我面前站带着师傅的黑面具的这一事实。
 #23730	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]그 흑가면과 동지들이 필요한 너와...	以及需要黑面具和同志们的你...
 #23731	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]동지들을 지키고 싶으나 무엇을 해야 될지 모르는 나.	还有想要守护同志们， 却不知所措的我。
-#23732	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]한술에 이르길...	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]据第一勺所说...
+#23732	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]한술에 이르길...	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]据一勺所说...
 #23733	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]밥은 배고픈 자가 먹는 것이라고 하지.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]饭是饥饿的人所吃的。
 #23734	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]나의 스승과『 첫술 』의 동지들은 첫술을 크게 떠버려 첫술에 허기를 달래 버렸네.	我的师傅和『 第一勺 』的同志们把第一勺拨的太大，肚子填的太饱了。
 #23735	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_John_Normal]배고픔이 없으니『 두술 』을 뜨는 걸 주저할 수 밖에...	没有了饥饿，当然犹豫着是否该动『 第二勺 』了...
@@ -13941,7 +13941,7 @@
 #23775	[!Sentence][!Dialog][!speaker:Carter_Black_Normal]난 내 목적을 위해 이 자리에 있을 뿐...	我只是为了我的目的才获得这个身份...
 #23776	[!Sentence][!Title]마지막 인사	[!Sentence][!Title]最后的问候
 #23777	[!Sentence][!Dialog][!speaker:Gangster_SpoonFighter_Normal]평소랑 조금 다르신데...	[!Sentence][!Dialog][!speaker:Gangster_SpoonFighter_Normal]和平时的沙基大人气氛有点不同呢...
-#23779	[!Sentence][!Dialog] 철의 숲과 까마귀 폐허에 숨어있던 스푼교도들은 첫술의 동지들만 남긴 채 자취를 감추게 된다.	[!Sentence][!Dialog]那天以后，隐蔽在铁森林和乌鸦废墟的勺子教教徒们留下首勺的同志们后就销声匿迹了。
+#23779	[!Sentence][!Dialog] 철의 숲과 까마귀 폐허에 숨어있던 스푼교도들은 첫술의 동지들만 남긴 채 자취를 감추게 된다.	[!Sentence][!Dialog]那天以后，隐蔽在铁森林和乌鸦废墟的勺子教教徒们留下第一勺的同志们后就销声匿迹了。
 #23780	[!Sentence][!Objective]폐기된 드론을 모두 파괴하시오.	[!Sentence][!VictoryCondition]破坏所有拆解厂的无人机。
 #23781	[!Sentence][!Dialog][!speaker:Drone_Rifle_Rust_Normal][colour='FFFF5943']『 경고: 외부 위협 접근 』	[!Sentence][!Dialog][!speaker:Machine_Bikron_Normal][colour='FFFF5943']『警告: 接近外部威胁』
 #23782	[!Sentence][!Dialog][!speaker:Drone_Rifle_Rust_Normal][colour='FFFF5943']『 안전을 확보하기 위하여 현장 이탈 시작하겠습니다. 』	[!Sentence][!Dialog][!speaker:Machine_Bikron_Normal][colour='FFFF5943']『 为确保安全，开始离开现场。』
@@ -14046,11 +14046,11 @@
 #24003	[!Sentence][!Dialog][!speaker:Bianca_Surprise]정말??	[!Sentence][!Dialog][!speaker:Bianca_Surprise]真的吗？
 #24004	[!Sentence][!Dialog][!speaker:Alisa_Smile]그래. 다만 위험하면 나한테 다 맡겨~	好的，不过一旦情况危险就交给我吧~
 #24007	[!Sentence][!Dialog][!speaker:Alisa_Rage]비앙카! 기회다! 뒤로 숨어!	[!Sentence][!Dialog][!speaker:Alisa_Rage]比安科！是个机会！躲在后面吧！
-#24008	[!Sentence][!BalloonChat]내세에는 한술의 뜻과 함께 하길...	[!Sentence][!BalloonChat]愿你来世与第一勺一起...
-#24009	[!Sentence][!BalloonChat]모든 것은 한술의 뜻이다!	[!Sentence][!BalloonChat]一切都是第一勺的意愿！
+#24008	[!Sentence][!BalloonChat]내세에는 한술의 뜻과 함께 하길...	[!Sentence][!BalloonChat]愿你来世与一勺一起...
+#24009	[!Sentence][!BalloonChat]모든 것은 한술의 뜻이다!	[!Sentence][!BalloonChat]一切都是一勺的意愿！
 #24010	[!Sentence][!BalloonChat]바보 같은 녀석.	[!Sentence][!BalloonChat]蠢货。
 #24011	[!Sentence][!BalloonChat][!speaker:Albus]도대체 왜...	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]到底为什么…
-#24012	[!Sentence][!BalloonChat]한술의 의지가 네 녀석을 인도하겠지.	[!Sentence][!BalloonChat]第一勺的意志会指引你的。
+#24012	[!Sentence][!BalloonChat]한술의 의지가 네 녀석을 인도하겠지.	[!Sentence][!BalloonChat]一勺的意志会指引你的。
 #24013	[!Sentence][!BalloonChat][!speaker:Albus]저 녀석들...	[!Sentence][!Dialog][!speaker:Irene_Fury]该死的家伙们…
 #24014	[!Sentence][!BalloonChat][!speaker:Albus]피해자가 더 늘어나기 전에 제압해야 해...	[!Sentence][!BalloonChat][!speaker:Albus]要在受害者增加之前，尽快制服...
 #24015	[!Sentence][!Dialog][!speaker:Ray_Normal_Smile]레톤. 늦어질 것 같은데?	莱顿，看来我们会迟到了？
@@ -14183,7 +14183,7 @@
 #24223	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]그래도 이 시기에 꽃씨가 날리는 건 여전하구나...	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]即便如此，在这个时期，花的种子依然如故...
 #24224	[!Sentence][!Dialog]하지만 그것이 전부였다.	[!Sentence][!Dialog]但就只有这些了。
 #24225	[!Sentence][!Dialog][!speaker:Albus_Normal]'이제 시작인 걸... 조급해하지 말자.'	[!Sentence][!Dialog][!speaker:Albus_Normal]'这只是开始...别这么着急了。'
-#24227	[!Sentence][!BalloonChat][!speaker:EnemyRoamer04_2]한술을 믿습니까?	[!Sentence][!BalloonChat][!speaker:EnemyRoamer04_2]相信第一勺吗？
+#24227	[!Sentence][!BalloonChat][!speaker:EnemyRoamer04_2]한술을 믿습니까?	[!Sentence][!BalloonChat][!speaker:EnemyRoamer04_2]相信一勺吗？
 #24234	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]전원을 내리셨구나...	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]原来关掉了电源啊...
 #24235	[!Sentence][!Dialog][!speaker:Albus_Normal]'어둠엔 섬광탄이라는 장 아저씨 말이 생각나네...'	[!Sentence][!Dialog][!speaker:Albus_Normal]'想起张叔叔说的对付阴暗需要使用闪光弹…'
 #24242	[!Sentence][!Dialog][!speaker:Civil_Man_Bare_Normal]'돈 씨 가게에 입주하려나 봐...'	[!Sentence][!Dialog][!speaker:Civil_Man_Bare_Normal]'看来是要入驻敦他家店啊…'
@@ -14305,7 +14305,7 @@
 #24390	[!Sentence][!Dialog][!speaker:Gangster_RyungLi_Normal]보수가 확실하니까.	[!Sentence][!Dialog][!speaker:Gangster_RyungLi_Normal]有这样的报酬，那是当然要接了。
 #24391	[!Sentence][!Dialog][!speaker:Gangster_YukyunHyang_Normal]그래. 백호파의 보스의 수급을 가져오면 5,000,000 Vill 이네. 	[!Sentence][!Dialog][!speaker:Gangster_YukyunHyang_Normal]嗯，把白虎组首领的头拿来的话就支付你5，000，000Vill。
 #24392	[!Sentence][!Dialog][!speaker:Gangster_RyungLi_Normal]고작 한 인간의 목숨에 그렇게 높은 가치가 매겨지다니 어이가 없군.	[!Sentence][!Dialog][!speaker:Gangster_RyungLi_Normal]仅仅一个人的命却值那么高，真让人无话可说啊。
-#24393	[!Sentence][!Dialog][!speaker:Gangster_YukyunHyang_Normal]그만큼 확실하게 처리하라는 것이겠지.	物有所值吧，既然出了那么高的价格，就要干的彻底一些。
+#24393	[!Sentence][!Dialog][!speaker:Gangster_YukyunHyang_Normal]그만큼 확실하게 처리하라는 것이겠지.	物有所值吧，既然出了那么高的价格，就要干得彻底一些。
 #24394	[!Sentence][!Dialog][!speaker:Gangster_RyungLi_Normal]내 몫은 반인가?	[!Sentence][!Dialog][!speaker:Gangster_RyungLi_Normal]一半就是我的份吗？
 #24395	[!Sentence][!Dialog][!speaker:Gangster_YukyunHyang_Normal]그래. 그 정도 돈이면 자네 소원대로 가족들과 작은 건물 하나 사서 편하게 여생을 보낼 수 있을 거야.	是啊。有了那笔钱就可以实现你的愿望，买一个宅子，与家人舒舒服服地度过余生。
 #24396	[!Sentence][!Title]변절자 지옥불	[!Sentence][!Title]叛徒地狱焱
@@ -14340,7 +14340,7 @@
 #24425	[!Sentence][!Dialog][!speaker:Giselle_Normal]스컬 이터 아냐?	[!Sentence][!Dialog][!speaker:Giselle_Normal]那不是骷髅食者？
 #24426	[!Sentence][!Dialog][!speaker:Giselle_Normal]찾는 수고를 덜었네.	[!Sentence][!Dialog][!speaker:Giselle_Normal]免得去找他了呢。
 #24427	[!Sentence][!Dialog][!speaker:Gangster_SkullThin_Normal]암여우 녀석. 네 오만한 웃음도 오늘까지다!	[!Sentence][!Dialog][!speaker:Gangster_SkullThin_Normal]你这母狐狸，看你还笑的出来！
-#24428	[!Sentence][!Dialog][!speaker:Giselle_Normal]설마 스컬 크래셔?	[!Sentence][!Dialog][!speaker:Giselle_Normal]不会是骷髅乱砍者？
+#24428	[!Sentence][!Dialog][!speaker:Giselle_Normal]설마 스컬 크래셔?	[!Sentence][!Dialog][!speaker:Giselle_Normal]不会是骷髅击碎者？
 #24429	[!Sentence][!Dialog][!speaker:Giselle_Normal]너네 정말 잘 숨어 있었어. 칭찬해 줄게.	[!Sentence][!Dialog][!speaker:Giselle_Normal]你们躲得真好，称赞你们呢。
 #24430	[!Sentence][!Dialog][!speaker:Gangster_SkullFat_Normal]블팩펄이 없으면 네 까짓것 식은 죽 먹기지!	[!Sentence][!Dialog][!speaker:Gangster_SkullFat_Normal]没有黑珍珠的话你什么都不是！
 #24431	[!Sentence][!Dialog][!speaker:Giselle_Smile]너희들 쫓아 여기까지 온 거야.	[!Sentence][!Dialog][!speaker:Giselle_Smile]是追你们到这儿的。
@@ -15574,7 +15574,7 @@
 #25685	[!Sentence][!Dialog][!speaker:Carter_Black_Normal]『 두술제 』는 취소되었소.	[!Sentence][!Dialog][!speaker:Carter_Black_Normal]『 第二勺祭 』被取消了。
 #25686	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Normal]『 두술제 』가 취소라니...	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Normal]竟然取消了『 第二勺祭 』...
 #25687	[!Sentence][!Dialog][!speaker:Gangster_SpoonFat_Normal]그럼 우리는 어떻게 되는 거지...	那我们怎么办...
-#25688	[!Sentence][!Dialog]『 한술 』에 이르길,『 두술 』이 『 배부름의 땅 』을 이끌 것이니라.	[!Sentence][!Dialog]『 第一勺 』说，『 饱腹之地 』将由『 第二勺 』引导。
+#25688	[!Sentence][!Dialog]『 한술 』에 이르길,『 두술 』이 『 배부름의 땅 』을 이끌 것이니라.	[!Sentence][!Dialog]『 一勺 』说，『 饱腹之地 』将由『 第二勺 』引导。
 #25689	[!Sentence][!Dialog]교리에 따라 『 배부름의 땅 』으로 이끌 지도자를 뽑는『 두술제 』	按照教理，引导至『 饱腹之地 』的领导是在『 第二勺祭 』被选出的。
 #25690	[!Sentence][!Dialog]『 두술제 』의 취소는 스푼교도들에게 적지 않은 충격이었다.	[!Sentence][!Dialog]但是『 第二勺祭 』的取消，给勺子教徒带来了很多混乱。
 #25691	[!Sentence][!Dialog][!speaker:Carter_Black_Normal]동지들이여!	[!Sentence][!Dialog][!speaker:Carter_Black_Normal]同志们！
@@ -15739,12 +15739,12 @@
 #26011	[!Sentence][!Dialog][!speaker:Carter_Black_EyeClose_Broken]말이 많아졌구나. 헤이싱.	[!Sentence][!Dialog][!speaker:Carter_Black_EyeClose_Broken]你话变多了呢，黑星。
 #26012	[!Sentence][!Dialog][!speaker:Carter_Black_EyeClose_Broken]네 성격과 맞지 않는 상의 탈의.	[!Sentence][!Dialog][!speaker:Carter_Black_EyeClose_Broken]而且还与你性格不合的露出了上身。
 #26013	[!Sentence][!Dialog][!speaker:Heissing_Normal]몸에 열기가 많아서 그럴 뿐이다.	[!Sentence][!Dialog][!speaker:Heissing_Normal]上身发热太大罢了。
-#26014	[!Sentence][!Dialog][!speaker:Carter_Black_EyeClose_Broken]더운 날씨에도 고집하는 롱 코트.	[!Sentence][!Dialog][!speaker:Carter_Black_EyeClose_Broken]这么热的天气里还固执穿大衣。
+#26014	[!Sentence][!Dialog][!speaker:Carter_Black_EyeClose_Broken]더운 날씨에도 고집하는 롱 코트.	[!Sentence][!Dialog][!speaker:Carter_Black_EyeClose_Broken]这么热的天气里还固执地穿着大衣。
 #26015	[!Sentence][!Dialog][!speaker:Heissing_Normal]흉한 상처를 가릴 뿐이지.	[!Sentence][!Dialog][!speaker:Heissing_Normal]是为了掩盖伤口而已。
 #26016	[!Sentence][!Dialog][!speaker:Carter_Black_Rage_Broken]4년 전과 다른 비정상적인 신체 능력.	[!Sentence][!Dialog][!speaker:Carter_Black_Rage_Broken]你的身体与4年前不同的，变得非凡了。
 #26017	[!Sentence][!Dialog][!speaker:Heissing_Smile]살아남기 위해 가져야만 했던 능력이다.	[!Sentence][!Dialog][!speaker:Heissing_Smile]为了生存是不得不变强的。
 #26018	[!Sentence][!Dialog][!speaker:Carter_Black_Normal_Broken]고난의 성채에 들어간 자는 누구도 살아 돌아올 수 없지.	[!Sentence][!Dialog][!speaker:Carter_Black_Normal_Broken]只要是进入了苦难的城寨，不管是谁都是无法活着回来的。
-#26019	[!Sentence][!Dialog][!speaker:Carter_Black_Smile_Broken]그것은 세계 대전 이전부터 지켜오던 열강 3국의 불문율.	[!Sentence][!Dialog][!speaker:Carter_Black_Smile_Broken]这是世界大战前就遵守下来的列强三国的不成文的规定。
+#26019	[!Sentence][!Dialog][!speaker:Carter_Black_Smile_Broken]그것은 세계 대전 이전부터 지켜오던 열강 3국의 불문율.	[!Sentence][!Dialog][!speaker:Carter_Black_Smile_Broken]这是从世界大战前就被遵守下来的列强三国的不成文的规定。
 #26020	[!Sentence][!Dialog][!speaker:Carter_Black_Rage_Broken]한 번 예외를 허용한 규칙은 약해지지.	[!Sentence][!Dialog][!speaker:Carter_Black_Rage_Broken]规则一旦允许例外，就会开始变弱。
 #26022	[!Sentence][!Dialog]그래. 세상의 부조리함은 여전하다.	[!Sentence][!Dialog]没错，世间的不合理依旧存在。
 #26023	[!Sentence][!Dialog][!speaker:Carter_Black_EyeClose_Broken]헤이싱. 너...	[!Sentence][!Dialog][!speaker:Carter_Black_EyeClose_Broken]黑星，你...
@@ -17721,7 +17721,105 @@
 #28217	[!Dialog][!speaker:Giselle_Satisfying_Bar]12년.	是12年。
 #28218	[!Dialog][!speaker:VHPD_Jane_Smile_Costume3]진짜 세월 빠르다.	真是岁月如梭呢。
 #28219	[!Sentence][!VictoryCondition]적의 지휘관을 제압하시오.	[!Sentence][!Objective]请镇压敌人的指挥员。
-#28220	[!Sentence][!Dialog][!speaker:Albus_Normal][!Nonetheless]네. 감사합니다.	[!Sentence][!Dialog][!speaker:Albus_Normal]好的。谢谢。
 #28221	[!Sentence][!Dialog][colour='FFFFFF00']다음 역은 바람장벽 지구 은빛 구름 역입니다.	[!Sentence][!Dialog][colour='FFFFFF00']下一站是风之墙壁地区银色云彩站。
 #28222	[!Sentence][!Dialog][colour='FFFFFF00']내리실 문은 오른쪽입니다.	[!Sentence][!Dialog][colour='FFFFFF00']请从右侧门下车。
-#28223	[!Sentence][!Dialog][!speaker:Albus_Serious][!Serious]전 트러블슈터입니다!	[!Sentence][!BalloonChat][!speaker:Albus_Normal]我是纷争终结者！
+#28223	[!DialogQuest][!speaker:Dembel_Normal]이런 경우가 없었는데...	[!DialogQuest][!speaker:Dembel_Normal]原本没有这种情况的...
+#28224	[!DialogQuest][!speaker:Dembel_Normal]의뢰 수락해줘서 고마워.	[!DialogQuest][!speaker:Dembel_Normal]谢谢接受了我的委托。
+#28225	[!DialogQuest][!speaker:Dembel_Normal]최근 잿빛 항구로 들어온 화물 중 일부가 GPS 신호는 여전히 물류 창고로 잡히고 있음에도 불구하고 도착하고 있질 않아.	[!DialogQuest][!speaker:Dembel_Normal]最近到灰色港口的一部分货物位置与GPS信号不一致。
+#28226	[!DialogQuest][!speaker:Sion_SurpriseStare]무슨 소리야?	[!DialogQuest][!speaker:Sion_SurpriseStare]什么意思？
+#28227	[!DialogQuest][!speaker:Dembel_Normal]운송업체에 항의해봤는데 자신들은 운송장에 적힌 물건이 정확하다고 해.	[!DialogQuest][!speaker:Dembel_Normal]原本向运输公司抗议过，但他们说准确的按运输单上的地址送了货。
+#28228	[!DialogQuest][!speaker:Sion_Surprise]운송장에 적힌 화물이 다 들어왔으면 GPS 신호 오류 아니야?	[!DialogQuest][!speaker:Sion_Surprise]如果运输单上的货物都运进来了，那不就会是GPS信号错误了吗？
+#28229	[!DialogQuest][!speaker:Kylie_Normal]화물 보안을 위해 사용하는 GPS 신호는 암호화되어 있어 그럴 가능성은 없을 거야.	[!DialogQuest][!speaker:Kylie_Normal]用于货物安全的GPS信号是加密的，不会有这种可能。
+#28230	[!DialogQuest][!speaker:Sion_SurpriseStare]그런 거야?	[!DialogQuest][!speaker:Sion_SurpriseStare]那就不是GPS信号有问题了？
+#28231	[!DialogQuest][!speaker:Kylie_Smile]그래.	[!DialogQuest][!speaker:Kylie_Smile]没错。
+#28232	[!DialogQuest][!speaker:Dembel_Normal]이제껏 GPS 신호가 안 잡히는 경우는 있었어도 이런 경우는 처음이야.	[!DialogQuest][!speaker:Dembel_Normal]虽然有过GPS信号无法捕捉到的情况，但是货物的位置和信号的位置出现偏差的情况还是第一次。
+#28233	[!DialogQuest][!speaker:Irene_Surprise]그러면 운송업체가 일을 제대로 안 하고 발뺌하는 건가?	[!DialogQuest][!speaker:Irene_Surprise]那是运输企业没有好好的干活，在抵赖吗？
+#28234	[!DialogQuest][!speaker:Dembel_Normal]그건 아닌 것 같아. 단지 도착한 화물에 도착하지 않은 운송장이 나뉘어 붙여진 것으로 보여.	[!DialogQuest][!speaker:Dembel_Normal]好像不是。到达的货物上好像被贴上了未到达的货物运单。
+#28235	[!DialogQuest][!speaker:Ray_Normal]화물 바꿔치기야.	[!DialogQuest][!speaker:Ray_Normal]是货物偷换。
+#28236	[!DialogQuest][!speaker:Anne_Surprise]화물 바꿔치기요?	[!DialogQuest][!speaker:Anne_Surprise]货物偷换？
+#28237	[!DialogQuest][!speaker:Ray_Normal]보통 물류 창고의 보안은 외부에 대한 보안이 강할 뿐 창고 내부에서는 보안이 허술해.	[!DialogQuest][!speaker:Ray_Normal]一般情况下，物流仓库的保安只是对外部加强，而仓库内部的保安却是很松懈的。
+#28238	[!DialogQuest][!speaker:Ray_Normal]그 점을 노리고 창고 내부에서 위조된 운송장을 붙여 물건을 빼돌린 것을 늦게 알아차리게 만드는 수법이지.	[!DialogQuest][!speaker:Ray_Normal]利用这一点，在仓库内部贴上伪造的运输单子，偷运物品的让人晚了才被发现。
+#28239	[!DialogQuest][!speaker:Leton_Smile]'레이 녀석... 얼마 전까지 우리가 했던 일이라고...'	[!DialogQuest][!speaker:Leton_Smile]'雷伊这家伙...那不就是在不久前我们做过的事情吗...'
+#28240	[!DialogQuest][!speaker:Albus_Surprise]일단 정상적인 상황은 아닌 거군요?	[!DialogQuest][!speaker:Albus_Surprise]那这不是正常的情况吧？
+#28241	[!DialogQuest][!speaker:Dembel_Normal]응. 게다가 범죄에 연루된 느낌이 들어 직접 회수하러 가지도 못하고 있어.	[!DialogQuest][!speaker:Dembel_Normal]嗯。而且我觉得这会有被犯罪牵连的感觉，不能亲自去追回。
+#28242	[!DialogQuest][!speaker:Albus_Normal]네. 이해합니다. 저희가 화물을 회수해 오겠습니다.	[!DialogQuest][!speaker:Albus_Normal]是的。我理解。那就由我们把货物收回来吧。
+#28243	[!DialogQuest][!speaker:Irene_Normal]악당들이 있다면 제대로 혼내주고 찾아올 테니 걱정 마	[!DialogQuest][!speaker:Irene_Normal]如果有恶徒的话我会好好教训他们并找回物品的，不用担心
+#28244	[!DialogQuest][!speaker:Sion_Happy]보수 확실하게 부탁드립니다! 고객님~☆	[!DialogQuest][!speaker:Sion_Happy]报酬就拜托给个好价了！顾客大人~☆
+#28245	[!DialogQuest][!speaker:Dembel_Smile]그래. 보수는 확실하게 할게.	[!DialogQuest][!speaker:Dembel_Smile]嗯，我会好好出个价钱的。
+#28246	[!DialogQuest][!speaker:Dembel_Normal]이런 일은 너희들보다는 세금을 받는 경찰들이 제대로 역할을 해야 할 텐데...	[!DialogQuest][!speaker:Dembel_Normal]这样的事情，比起你们，原本是得让那些收税办事的警察更应该发挥作用的...
+#28247	[!DialogQuest][!speaker:Dembel_Smile]언제나 도와줘서 고맙다.	[!DialogQuest][!speaker:Dembel_Smile]谢谢你们总是来帮忙。
+#28248	[!DialogQuest][!speaker:Albus_Normal]아니에요. 다 적절한 보수 받고 일하는 일인데요.	[!DialogQuest][!speaker:Albus_Normal]不是的，我们都是拿着适当的报酬工作的。
+#28249	[!DialogQuest][!speaker:Dembel_Normal]도대체 어떻게 된 일이었던 거야?	[!DialogQuest][!speaker:Dembel_Normal]到底是怎么回事？
+#28250	[!DialogQuest][!speaker:Irene_Normal]악당들을 혼내주고 찾아왔지.	[!DialogQuest][!speaker:Irene_Normal]好好教训恶徒们了。
+#28251	[!DialogQuest][!speaker:Albus_Normal]정황상 스푼교도에 의해 빼돌려진 듯 해요.	[!DialogQuest][!speaker:Albus_Normal]从情况上看，好像是勺子教徒们的行为。
+#28252	[!DialogQuest][!speaker:Dembel_Normal]스푼교도...	[!DialogQuest][!speaker:Dembel_Normal]勺子教徒...
+#28253	[!DialogQuest][!speaker:Dembel_Smile]너희들이 없었으면 이 화물은 찾을 수 없었겠네.	[!DialogQuest][!speaker:Dembel_Smile]没有你们，可就找不到这货了。
+#28254	[!DialogQuest][!speaker:Sion_Happy]그럴 땐 우리를 부르라고~☆	[!DialogQuest][!speaker:Sion_Happy]有问题就随时叫我们呐~☆
+#28255	[!DialogQuest][!speaker:Dembel_Smile]그래. 그럴게.	[!DialogQuest][!speaker:Dembel_Smile]好的，知道了。
+#28256	[!DialogQuest][!speaker:Leo_Normal]안녕하세요. $CompanyName$ 여러분.	[!DialogQuest][!speaker:Leo_Normal]$CompanyName$的各位，你们好。
+#28257	[!DialogQuest][!speaker:Leo_Normal]바쁘시지 않다면 의뢰를 수락해주셨으면 합니다.	[!DialogQuest][!speaker:Leo_Normal]如果不忙，希望能接受我的委托。
+#28258	[!DialogQuest][!speaker:Leo_Normal]길들여진 야수란 인간과 같이 살아가는 방법을 이해한 녀석들입니다.	[!DialogQuest][!speaker:Leo_Normal]被驯化的野兽就是理解能和人类一起生活的方法的家伙。
+#28259	[!DialogQuest][!speaker:Leo_Normal]잘 부탁드립니다.	[!DialogQuest][!speaker:Leo_Normal]那就拜托了。
+#28260	[!DialogQuest][!speaker:Leo_Normal]문제는 잘 해결되었나요?	[!DialogQuest][!speaker:Leo_Normal]我所委托的都解决好了吗？
+#28261	[!DialogQuest][!speaker:Leo_Normal]의뢰를 받아주셔서 감사합니다.	[!DialogQuest][!speaker:Leo_Normal]谢谢接受我的委托。
+#28262	[!DialogQuest][!speaker:Albus_SurpriseStare]무슨 일이신가요?	[!DialogQuest][!speaker:Albus_SurpriseStare]有什么事吗？
+#28264	[!DialogQuest][!speaker:Albus_Normal]네. 가능한 일이라면 최대한 도와드리고 있습니다.	[!DialogQuest][!speaker:Albus_Normal]是的。如果可能，是会尽力帮忙的。
+#28265	[!DialogQuest][!speaker:Leo_Normal]그렇군요.	[!DialogQuest][!speaker:Leo_Normal]原来如此。
+#28266	[!DialogQuest][!speaker:Irene_Surprise]도망친 야수라고 있는 건가?	!DialogQuest][!speaker:Irene_Surprise]有是逃跑的野兽吗？
+#28267	[!DialogQuest][!speaker:Leo_Normal]아뇨. 그런 일은 전혀 없습니다.	[!DialogQuest][!speaker:Leo_Normal]不不，没有的事。
+#28268	[!DialogQuest][!speaker:Irene_Surprise]그럼 무슨 일이지?	[!DialogQuest][!speaker:Irene_Surprise]那是什么事？
+#28273	[!DialogQuest][!speaker:Leo_Normal]당연히 신고하였습니다.	[!DialogQuest][!speaker:Leo_Normal]当然已经报警了。
+#28276	[!DialogQuest][!speaker:Irene_Surprise]그런 야수가 시내에 출몰하면 빨리 경찰에 신고해야지!	[!DialogQuest][!speaker:Irene_Surprise]那种野兽进城出没的话，得赶快报警的啊！
+#28278	[!DialogQuest][!speaker:Leo_Normal]최근 동물보호소 앞에 있는 연못에 야생 네구리가 출현하고 있습니다.	[!DialogQuest][!speaker:Leo_Normal]最近在动物保护站前的池塘有野生的呐故立出现。
+#28279	[!DialogQuest][!speaker:Sion_Surprise]네구리!?	[!DialogQuest][!speaker:Sion_Surprise]呐故立!?
+#28280	[!DialogQuest][!speaker:Leo_Normal]처음에는 보호 중이던 네구리가 도망친게 아닐까 했는데 확인해 본 결과 어디선가 유입된 야생 네구리였습니다.	[!DialogQuest][!speaker:Leo_Normal]起初怀疑是保护中的呐故立逃跑了，但经过确认，发现原来是从某处流入的野生呐故立。
+#28281	[!DialogQuest][!speaker:Albus_Think]'최근에 지구 내로 야생 동물 유입되는 일이 늘어나는 것 같네...'	[!DialogQuest][!speaker:Albus_Think]'最近野生动物流入地区的情况好像变得越来越多...'
+#28282	[!DialogQuest][!speaker:Sion_SurpriseStare]경찰에 신고하면 그만 아닌가? 네구리 같은 난폭한 야생 동물이면 바로 출동할 것 같은데?	[!DialogQuest][!speaker:Sion_SurpriseStare]报完警了不就没事了吗？像呐故立这样的野性动物的话，不就会马上出动的吗？
+#28283	[!DialogQuest][!speaker:Leo_Normal]하지만 비 오는 밤에만 출몰하고 정작 경찰이 출동하면 어디론가 다 숨어 버려서 퇴치 자체가 불가능한 상태입니다.	[!DialogQuest][!speaker:Leo_Normal]但是它们只在下雨天的夜晚出没，而且如果警察真的出动了，它们就会藏起来，根本不可能清除。
+#28284	[!DialogQuest][!speaker:Giselle_Normal]'성장기 단계의 네구리인가...'	[!DialogQuest][!speaker:Giselle_Normal]'是成长期的呐故立吗...'
+#28285	[!DialogQuest][!speaker:Anne_Think]저도 뭔지 알 것 같아요. 어릴 때 할아버지 산장 주위에 네구리들도 사람 인기척이 나면 어디론가 다 사라지고 그랬어요.	[!DialogQuest][!speaker:Anne_Think]我好像知道了。在小时候，爷爷的山庄附近的呐故立在周围如果有动静的话，会消失得无影无踪。
+#28286	[!DialogQuest][!speaker:Leo_Normal]네. 제보를 하면 경찰이 출동은 하고 있으나 달리 현장에서 확인이 안 되니 일단 상황이 진행되는 것을 지켜보자는 상황입니다.	[!DialogQuest][!speaker:Leo_Normal]是的。虽然警察出动了，但是在现场无法确认呐故立，所以说得再观察一段时间。
+#28287	[!DialogQuest][!speaker:Giselle_Smile]그대로 두면 언젠가 분명 동물보호소의 야수들을 습격하겠지.	[!DialogQuest][!speaker:Giselle_Smile]如果放任不管，总有一天会袭击动物保护站的野兽的。
+#28288	[!DialogQuest][!speaker:Leo_Normal]네. 그 뿐아니라 상위 포식자인 네구리의 울음으로 인해 보호소의 동물들이 스트레스를 받는 것도 문제입니다.	[!DialogQuest][!speaker:Leo_Normal]是的。而且由于上位捕食者呐故立的哭声，保护站的动物们受到的压力也是个问题。
+#28289	[!DialogQuest][!speaker:Albus_SurpriseStare]알겠습니다. 상황 파악은 충분히 한 것 같습니다.	[!DialogQuest][!speaker:Albus_SurpriseStare]明白了。大概充分的掌握情况了。
+#28290	[!DialogQuest][!speaker:Leo_Normal]바쁘시지 않다면 이 일을 해결해주시면 감사하겠습니다.	[!DialogQuest][!speaker:Leo_Normal]如果不忙的话，就委托解决这件事了。
+#28291	[!DialogQuest][!speaker:Leo_Normal]보수는 저희 동물보호소에서 지불하도록 하겠습니다.	[!DialogQuest][!speaker:Leo_Normal]报酬就由我们动物保护站支付。
+#28292	[!DialogQuest][!speaker:Leo_Normal]하지만 이 지구에는 동물 보호소에 소속된 공무원들이 아니면 야수들을 조련할 전문 인력이 부족합니다.	[!DialogQuest][!speaker:Leo_Normal]但是这个地区不是动物保护站所属的公务员的话，缺乏训练野兽的专业人员。
+#28293	[!DialogQuest][!speaker:Leo_Normal]그러다 보니 대부분 시내에 들어온 야수들은 퇴치 대상이 될 수밖에 없습니다. 안타까운 일이죠.	[!DialogQuest][!speaker:Leo_Normal]因此大部分进入市内的野兽只能被成为清除的对象。这真是个令人遗憾的事。
+#28294	[!DialogQuest][!speaker:Giselle_Normal]'이 녀석... 이상주의자군.'	[!DialogQuest][!speaker:Giselle_Normal]'这家伙...是理想主义家啊。'
+#28295	[!DialogQuest][!speaker:Albus_Normal]동물보호소 연못에 자리잡았던 네구리들은 모두 퇴치하였습니다.	[!DialogQuest][!speaker:Albus_Normal]在动物保护站前池塘附近的野生的呐故立都退治好了。
+#28296	[!DialogQuest][!speaker:Leo_Normal]역시 $CompanyName$이군요.	[!DialogQuest][!speaker:Leo_Normal]果然是$CompanyName$。
+#28297	[!DialogQuest][!speaker:Leo_Normal]거리 상인분들이 왜 $CompanyName$[을] 칭찬하고 신뢰하는 부분에 공감을 못했었는데 이제는 이해가 됩니다.	[!DialogQuest][!speaker:Leo_Normal]现在终于知道了为什么街道上的商人称赞并信任$CompanyName$的原因了。
+#28298	[!DialogQuest][!speaker:Leo_Normal]감사합니다.	[!DialogQuest][!speaker:Leo_Normal]非常感谢。
+#28299	[!DialogQuest][!speaker:Albus_Normal]아닙니다. 트러블슈터에겐 주어진 의뢰를 해결하는 것이 당연한 일입니다.	[!DialogQuest][!speaker:Albus_Normal]不是的，只是在做身为纷争终结者该做的委托罢了。
+#28300	[!Sentence][!Dashboard:ObjectiveMarker]해당 지역을 조사할 수 있습니다. 일정 확률로 네구리가 튀어 나올 수 있으니 조심하세요.	[!Sentence][!Dashboard:ObjectiveMarker]可以调查该地区了。请小心会有一定的几率出现呐故立。
+#28301	[!Sentence][!VictoryCondition]네구리가 숨어 있을 만한 모든 장소를 수색하시오.	[!Sentence][!VictoryCondition]搜索所有呐故立可能躲藏的地方。
+#28302	[!Sentence][!Objective]네구리를 모두 제압하시오.	[!Sentence][!Objective]制服所有的呐故立。
+#28303	[!Sentence][!Title]난폭한 불청객	[!Sentence][!Title]粗暴的不速之客
+#28304	[!Sentence][!Title]하늘 바람 동물보호소	[!Sentence][!Title]天空之风动物保护站
+#28305	[!Sentence][!Dialog][!speaker:Sion_SurpriseStare]방금까지 씨끄럽던 네구리 소리가 멈췄어!?	[!Sentence][!Dialog][!speaker:Sion_SurpriseStare]刚才还吵得呐故立声音停下了？
+#28306	[!Sentence][!Dialog][!speaker:Sion_SurpriseStare]사장님~!! 바로 들어가나요!	[!Sentence][!Dialog][!speaker:Sion_SurpriseStare]老板~!!开始行动吗？
+#28307	[!Sentence][!Dialog][!speaker:Albus_Think]'일일이 찾아야 하는 건가...'	[!Sentence][!Dialog][!speaker:Albus_Think]'得一一寻找吗...'
+#28308	[!Sentence][!Dialog][!speaker:Albus_Normal]그럼 가까운 곳부터 네구리가 있을 만한 장소를 수색하도록 하겠습니다!	[!Sentence][!Dialog][!speaker:Albus_Normal]那我们从最近的地方开始寻找吧！
+#28309	[!Sentence][!Dialog][!speaker:Albus_Normal]다들 도망치는 녀석이 없도록 퇴로를 차단하며 접근합니다!	[!Sentence][!Dialog][!speaker:Albus_Normal]切断退路，以免出现逃跑的家伙！
+#28310	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]수풀 사이에 몸을 숨겼겠지.	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]是躲在草丛里了。
+#28311	[!Sentence][!Dialog][!speaker:Irene_Surprise]응!? 네구리가 숨어?	[!Sentence][!Dialog][!speaker:Irene_Surprise]嗯!?呐故立竟然藏起来了？
+#28312	[!Sentence][!Dialog][!speaker:Giselle_Smile]그래. 울음을 멈추고 숨었다는 건 아직 성장기 단계의 네구리일거야.	[!Sentence][!Dialog][!speaker:Giselle_Smile]嗯，止住哭声藏了起来了，这可能还是处于成长期阶段的呐故立。
+#28313	[!Sentence][!Dialog][!speaker:Giselle_Normal]성장기의 야수들은 외부에 대한 보호 본능이 강하지.	[!Sentence][!Dialog][!speaker:Giselle_Normal]成长期的野兽对于外部的保护本能很强。
+#28314	[!Sentence][!Dialog][!speaker:Irene_Surprise]숨은 녀석들을 찾을 수는 있는 건가?	[!Sentence][!Dialog][!speaker:Irene_Surprise]能够找到隐藏的家伙们吗？
+#28315	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]네구리들은 나무뿌리 밑의 땅을 파고 숨는 습성이 있으니 나무 아래 수풀을 조사하면 알아서 뛰쳐나올 거야.	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]呐故立们有挖树根底藏在那地下的习惯，所以只要调查树下的草丛就会主动跑出来的。
+#28316	[!Sentence][!Dialog][!speaker:Sion_Normal]생각보다 귀찮게 하네...	[!Sentence][!Dialog][!speaker:Sion_Normal]比想象的还要麻烦...
+#28317	[!Sentence][!Dialog][!speaker:Kylie_Normal]일단 전자망 뿐 아니라 외부에도 철망으로 둘러쌓여 있어서 퇴로가 한정적이야.	[!Sentence][!Dialog][!speaker:Kylie_Normal]因为不仅有电子网，而且外部也围有铁网，所以退路非常的有限。
+#28318	[!Sentence][!Dialog][!speaker:Kylie_Satisfying]여기서 퇴로를 막고 있고 누군가 들어가서 다 깨우면 편할거야.	[!Sentence][!Dialog][!speaker:Kylie_Satisfying]在这里挡着退路，有人去叫醒的话就会很轻松了。
+#28319	[!Sentence][!Dialog][!speaker:Albus_Normal]넵. 고려하도록 하겠습니다.	[!Sentence][!Dialog][!speaker:Albus_Normal]好的，我会考虑的。
+#28320	[!Sentence][!Dialog][!speaker:Albus_Serious]다들 네구리들이 바깥으로 나가지 못하도록 해 주세요.	[!Sentence][!Dialog][!speaker:Albus_Serious]拜托大家组织呐故立们往外跑出。
+#28321	[!Sentence][!VictoryCondition]네구리가 동물보호소 바깥으로 탈출	[!Sentence][!VictoryCondition]呐故立逃出动物保护站外
+#28322	[!Sentence][!VictoryCondition]네구리를 모두 제압하시오.	[!Sentence][!VictoryCondition]压制所有的呐故立。
+#28323	[!Sentence][!BalloonChat]네구리입니다! 다들 조심하세요!	[!Sentence][!BalloonChat]是呐故立！要小心！
+#28324	[!Sentence][!BalloonChat]네구리입니다!	[!Sentence][!BalloonChat]是呐故立！
+#28325	[!Sentence][!BalloonChat]네구리다!! 다들 조심해!	[!Sentence][!BalloonChat]是呐故立!!小心点！
+#28326	[!Sentence][!BalloonChat]네구리 찾았어요!	[!Sentence][!BalloonChat]找到呐故立了！
+#28327	[!Sentence][!BalloonChat]정말 시시하군.	[!Sentence][!BalloonChat]真是无聊。
+#28328	[!Sentence][!BalloonChat][!speaker:NeguriGrey]네...굴...	[!Sentence][!BalloonChat][!speaker:NeguriGrey]呐...故...
+#28329	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]너 꽤 괜찮게 생겼구나.	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]你长的真够可爱的嘛。
+#28330	[!DialogQuest][!speaker:Leo_Normal]최근 사수거리 상인들로부터 $CompanyName$[이] 민간 의뢰를 해결해주신다는 말을 들었습니다.	[!DialogQuest][!speaker:Leo_Normal]最近在射手街的商人口中听到了$CompnayName$在解决民间的委托。

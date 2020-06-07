@@ -1970,7 +1970,7 @@
 #4239	[!Mastery]추구하는 자와 그렇지 않은 자의 차이는 절대적이다.	[!Mastery]追求者和其他人的差异是绝对的。
 #4240	[!Mastery]돛을 올리고 노를 저으세요. 지금이 최선을 다할 때 입니다.	[!Mastery]扬起帆，摇起桨。是时候拼尽全力了。
 #4241	[!Mastery]동료와 함께라면 모든 것이 가능합니다.	[!Mastery]和同伴们在一起，一切都将变为可能。
-#4242	[!Mastery]승자의 공통점은 결정적인 순간을 놓치지 않는다.	[!Mastery]胜者的共同点是不会错过决定性的瞬间。
+#4242	[!Mastery]승자의 공통점은 결정적인 순간을 놓치지 않는다는 점이다.	[!Mastery]胜者的共同点是不会错过决定性的瞬间。
 #4243	[!Mastery]내가 불꽃 그 자체다.	[!Mastery]我既是火花。
 #4244	[!Mastery]일단 위험한 순간은 지나갔습니다.	[!Mastery]暂时避开了危险。
 #4245	[!Mastery]지금이 기회다.	[!Mastery]时机已到。
@@ -3710,7 +3710,7 @@
 #7110	[!CivilRescueNameSet]유리	[!CivilRescueNameSet]尤里
 #7111	[!CivilRescueNameSet]예원	[!CivilRescueNameSet]艺媛
 #7112	[!Item]인형 상자	[!Item]玩偶箱子
-#7113	[!Item]아이들을 가지고 노는 인형입니다.	[!Item]孩子们玩的玩偶。
+#7113	[!Item]아이들이 가지고 노는 인형입니다.	[!Item]孩子们玩的玩偶。
 #7114	[!Item]오래된 인형 상자	[!Item]老旧的玩偶箱子
 #7115	[!Item]낡고 오래된 인형입니다.	[!Item]又老又旧的玩偶。
 #7116	[!Item]골동품 인형 상자	[!Item]古董玩偶箱子
@@ -3720,7 +3720,7 @@
 #7120	[!Item]도금 숟가락	[!Item]镀金勺
 #7121	[!Item]숟가락의 뒷면에 웃는 얼굴이 새겨져 있습니다.	[!Item]勺子背面刻着笑脸。
 #7122	[!Item]장난감	[!Item]玩具
-#7123	[!Item]아이들을 가지고 노는 장난감입니다.	[!Item]这是孩子们的玩具。
+#7123	[!Item]아이들이 가지고 노는 장난감입니다.	[!Item]这是孩子们的玩具。
 #7124	[!Item]오래된 장난감	[!Item]老旧的玩具
 #7125	[!Item]낡고 오래된 장난감입니다.	[!Item]这是又老又旧的玩具。
 #7127	[!Item]명품 장난감	[!Item]名牌玩具
@@ -4554,7 +4554,7 @@
 #8192	[!WordCollection]게임 난이도: 어려움	[!WordCollection]游戏难度: 困难
 #8193	[!WordCollection]게임 난이도: 보통	[!WordCollection]游戏难度: 一般
 #8194	[!WordCollection]잃어버림	[!WordCollection]丢失
-#8195	[!WordCollection]비활성화	[!WordCollection]停用
+#8195	[!WordCollection]비활성화	[!WordCollection][!Option]非激活
 #8196	[!WordCollection]창고 계약하기	[!WordCollection]签约仓库
 #8197	[!Suggestion]시온은 기분 전환을 위해 하루 일을 쉬고 각자의 자유시간을 가지자고 합니다.<br><br>[colour='FFFFFF00']시온 제안 수락 시 시온 홀로 진행하는 시나리오 미션이 진행됩니다. 미리 장비를 점검하세요.	[!Suggestion]席翁为了转换心情而建议大家休息一天自由活动。<br><br>[colour='FFFFFF00']席翁的提案被受理后将会开启席翁单独进行的剧情任务。请提前检查装备。
 #8198	[!Suggestion]의견 있음	[!Suggestion]有意见
@@ -7460,7 +7460,6 @@
 #12459	[!LoadingDesc]게임 난이도	[!LoadingDesc]游戏难度
 #12460	[!LoadingDesc]기어 아이템은 하의 인벤토리에 장착할 수 있는 장착 아이템입니다.	[!LoadingDesc]齿轮道具是可以装备在下衣口袋里的装备道具。
 #12461	[!LoadingDesc]기어 아이템	[!LoadingDesc]齿轮道具
-#12462	[!LoadingDesc]아이템 상자에는 다양한 아이템이 들어 있습니다. 가끔 비어있을 수 있습니다.	[!LoadingDesc]物品箱里有多种物品。
 #12463	[!LoadingDesc]아이템 상자	[!LoadingDesc]物品箱
 #12464	[!LoadingDesc]감정되지 않은 아이템은 골동품 상인 닐스를 통하여 감정할 수 있습니다.	[!LoadingDesc]未鉴定的物品可交给古董商尼尔斯进行鉴定。
 #12465	[!LoadingDesc]아이템 감정	[!LoadingDesc]物品鉴定
@@ -9817,7 +9816,6 @@
 #16331	[!Ability]섬광의 덫	[!Ability]闪光陷井
 #16332	[!Ability]섬광의 덫 활성화	[!Ability]激活闪光陷井
 #16334	[!Item]사냥꾼 인장 - 붉은 광산 지구	[!Item]猎人印章 - 红矿地区
-#16335	[!Item]제프가 세계수 지구 야수 사냥 대회에서 3년 간 우승하여 영구적으로 소유하게 된 인장.	[!Item]这是杰夫连续3年获得世界树地区狩猎大会冠军而永久持有的印章。
 #16336	[!Item]전문 사냥꾼의 부츠	[!Item]专业猎人的靴子
 #16337	[!Item]제프는 사냥 대회 참가를 위해 자신의 전재산을 털어 자신만의 부츠를 제작한다. 다른 사냥꾼 동료들은 그런 제프를 보며 쓸데없는 짓이라고 비아냥거렸지만 그 해 붉은 광산 지구 사냥 대회 우승자는 제프였다.	[!Item]杰夫为了参加狩猎大会拿出自己的全部财产制作了自己的靴子。虽然被其他的猎人都嘲笑这并没有什么用，但他还是夺得了那一年红矿地区狩猎大会冠军。
 #16339	[!Item]낡은 산업용 소형 연료통	[!Item]旧工业用小型燃料桶
@@ -10725,19 +10723,19 @@
 #17567	[!Ability]불꽃 베기	[!Ability]火花斩
 #17568	[!Ability]불꽃 파괴검	[!Ability]火花破坏剑
 #17569	[!Item]칠흑의 펄스 블레이드	[!Item]漆黑的脉冲剑
-#17570	[!Item]동방 연합으로 원정 도박을 와 많은 돈을 잃고 사채를 끌어다 쓴 아테르 제국 기사단장이 모든 것이 사기라며 난동을 부리자 도박장의 관리를 총괄하던 육연향은 기사단장을 막아선다. 흥분한 기사단장은 황제가 하사한 검은 색의 펄스 블레이드를 꺼내 육연향을 베려고 했으나 그의 팔은 순식간에 그의 어깨에서 떨어져 땅에 툭 하고 떨어진다. "정말 좋은 검이군. 준다면 내가 쓰지."	[!Item]从东方联盟远征来赌博，却输了很多的钱并借了高利贷的阿泰尔帝国骑士团长大发雷霆，闹事捣乱，声称一切都是诈骗，导致管理赌场的肉烟香不得不来阻止。激动过头的骑士团长拿出皇帝赐予的漆黑的脉冲剑，准备砍向肉烟香，但他的手臂瞬间从他的肩膀上掉下来，啪啪地掉在地上。"真是把好剑，让我来用吧。"
+#17570	[!Item]동방 연합으로 원정 도박을 와 많은 돈을 잃고 사채를 끌어다 쓴 아테르 제국 기사단장이 모든 것이 사기라며 난동을 부리자 도박장의 관리를 총괄하던 육연향은 기사단장을 막아선다. 흥분한 기사단장은 황제가 하사한 검은 색의 펄스 블레이드를 꺼내 육연향을 베려고 했으나 그의 팔은 순식간에 그의 어깨에서 떨어져 땅에 툭 하고 떨어진다. "정말 좋은 검이군. 준다면 내가 쓰지."	从东方联盟远征来赌博，却输了很多的钱并借了高利贷的阿泰尔帝国骑士团长大发雷霆，闹事捣乱，声称一切都是诈骗，导致管理赌场的肉烟香不得不来阻止。激动过头的骑士团长拿出皇帝赐予的漆黑的脉冲剑，准备砍向陆延香，但他的手臂瞬间从他的肩膀上掉下来，啪啪地掉在地上。"真是把好剑，让我来用吧。"
 #17571	[!Mastery]마검 제어	[!Mastery]控制魔剑
 #17572	[!Mastery]승부는 찰나.	[!Mastery]胜负在刹那。
 #17574	[!Mastery]마검 장막	[!Mastery]魔剑帷幕
 #17575	[!Mastery]마력을 담은 검은 이능조차 베어버린다.	[!Mastery]附有魔力的剑连异能也砍的掉。
 #17577	[!Mastery]상처 태우기	[!Mastery]烧掉伤口
 #17578	[!Mastery]고통은 배가 되리라.	[!Mastery]痛苦将加倍。
-#17580	[!ObjectInfo]육연향	[!ObjectInfo]肉烟香
+#17580	[!ObjectInfo]육연향	陆延香
 #17581	[!ObjectInfo]체체	[!ObjectInfo]采采
-#17582	[!NamedEvent]갈취의 육연향	[!NamedEvent]巧取豪夺的肉烟香
+#17582	[!NamedEvent]갈취의 육연향	巧取豪夺的陆延香
 #17583	[!NamedEvent]쓸만한 걸 가지고 있겠지?	[!NamedEvent]你身上带着值钱的东西吧？
 #17584	[!NamedEvent]네 목숨 값은 비싸게 계산해야겠군.	[!NamedEvent]你的命应该挺值钱的。
-#17585	[!GameSystemMessageFormat]육연향이 카일리를 최우선 목표로 삼습니다.	[!GameSystemMessageFormat]肉烟香把凯利当作最优先目标。
+#17585	[!GameSystemMessageFormat]육연향이 카일리를 최우선 목표로 삼습니다.	陆延香把凯利当作最优先目标。
 #17586	[!Mastery]마검술사	[!Mastery]魔剑术师
 #17587	[!Mastery]마검은 스스로 주인을 선택한다.	[!Mastery]魔剑己选择主人。
 #17589	[!Ability]물의 가호를 받은 아군은 $ApplyBuff$ 상태가 됩니다.	[!Ability]得到水之护佑的队友将进入$ApplyBuff$状态。
@@ -13357,7 +13355,6 @@
 #20867	[!Mastery]적이 자신의 공격을 회피하면 $SP$가 $Value$ 증가합니다.	[!Mastery]敌人闪避自身的攻击时，$SP$将增加$Value$。
 #20870	[!Mastery]공연 효과 레벨이 $Value$ 증가합니다.	[!Mastery]演出效果等级增加$Value$。
 #20871	[!Mastery]$Buff$ 상태를 억제하는 $Buff2$ $Value$개를 추가 생성합니다.	[!Mastery]额外生成抑制$Buff$状态的$Buff2$ $Value$个。
-#20872	[!Mastery]자신의 상태 이상을 모두 해제하며, 해제한 상태 이상 $Value$개 당 $SP$가 $Value2$ 증가합니다.	[!Mastery]解除自身的所有异常状态， 每$Value$个被解除的异常状态将会增加$Value2$的$SP$。
 #20873	[!Mastery]$SP$가 부족하거나 $Buff$[을] 모두 소모하였으면 발동하지 않습니다.	 [!Mastery]$SP$不足或消耗了所有的$Buff$时，将不再生效。
 #20874	[!Mastery]$State$ 상태 혹은 $BuffGroup$ 계열 상태 이상인 적을 $Dead$으로 만들면, 해당 대상의 반경 $Value$칸 내의 모든 적은 $Buff$ 상태가 됩니다.	[!Mastery]使$State$状态或$BuffGroup$系列异常状态的敌人$Dead$时，该对象半径$Value$格内的所有敌人将触发$Buff$状态。
 #20875	[!Mastery]각 특성별 속성 한계치를 $Value$ 증가시킵니다.	[!Mastery]将各个天赋属性的上限值提升$Value$。
@@ -15212,10 +15209,6 @@
 #22908	[!ObjectVoiceSound][!speaker:Albus]언제라도 도움이 필요하다면 절 부르세요	[!ObjectVoiceSound][!speaker:Albus]什么时候需要帮助，请叫上我。
 #22909	[!ObjectVoiceSound][!speaker:Albus]당신의 죄가 바람에 흩날리기를	[!ObjectVoiceSound][!speaker:Albus]希望你的罪随风飘散。
 #22910	[!ObjectVoiceSound][!speaker:Albus]노력은 자신을 배신하지 않습니다	[!ObjectVoiceSound][!speaker:Albus]努力是不会背叛自己的。
-#22918	[!Quest]경찰청 실내 훈련장에서 지젤 팀을 제압하시오.	[!Quest]请制服警察厅室内训练场吉赛尔队。
-#22920	[!Quest]경찰청 실내 훈련장에서 카일리 팀을 제압하시오.	[!Quest]请制服警察厅室内训练场凯利队。
-#22921	[!Quest]시가지 훈련	[!Quest]商街地训练
-#22922	[!Quest]경찰청 실내 훈련장에서 무작위로 지정된 상대방 팀을 제압하시오.	[!Quest]请制服警察厅内随机被指名的对手小队。
 #22924	[!Quest]약탈당한 화물 - 메트로디움 거주구	[!Quest]被掠夺的货物 - 梅特罗迪翁居民区
 #22927	[!Quest]위험한 운송업자	[!Quest]处在危险的配送人员
 #22928	[!Quest]운송업자 리를 구출하시오.	[!Quest]救出配送人员老李。
@@ -15270,11 +15263,6 @@
 #23421	[!Loading]소녀의 부탁	[!Loading]少女的请求
 #23422	[!Quest]과거의 은원	[!Quest]过去的恩怨
 #23423	[!Quest]소녀의 부탁	[!Quest]少女的请求
-#23424	[!Quest]기계전 훈련	[!Quest]对付机械的训练
-#23425	[!Quest]정기 훈련	[!Quest]定期训练
-#23426	[!QuestDesc]$Person(Roberto)$[은] 지젤의 요청에 따라 경찰청 실내 훈련장에서 시가지 훈련에 참여한다.	[!QuestDesc]$Person(Roberto)$根据吉赛尔的要求参加警察厅室内训练场的商街地训练。
-#23427	[!QuestDesc]$Person(Roberto)$[은] 지젤의 요청에 따라 경찰청 실내 훈련장에서 기계전 훈련에 참여한다.	[!QuestDesc]$Person(Roberto)$根据吉赛尔的要求参加警察厅室内训练场的对付机械的训练。
-#23428	[!QuestDesc]$Person(Roberto)$[은] 지젤의 요청에 따라 경찰청 실내 훈련장에서 정기 훈련에 참여한다.	[!QuestDesc]$Person(Roberto)$根据吉赛尔的要求参加警察厅室内训练场的定期训练。
 #23429	[!KeyBinding]선택지 1(좌상단)	[!KeyBinding]选项 1(左上角)
 #23430	[!KeyBinding]선택지 2(우상단)	[!KeyBinding]选项 2(右上角)
 #23431	[!KeyBinding]선택지 3(좌하단)	[!KeyBinding]选项 3(左下角)
@@ -15512,10 +15500,6 @@
 #23671	[!ServerRegion]권장 지역	[!ServerRegion]推荐地区
 #23672	[!ServerRegion]댄디라이언	[!FilteringWord]Dandylion
 #23673	[!ServerRegion]트러블슈터 개발을 공유하기 위한 서버입니다.	[!ServerRegion]为了共享纷争终结者开发进程的服务器。
-#23674	[!ServerRegion]북미, 유럽 유저를 위한 서버입니다.	[!ServerRegion]北美，欧洲的玩家所用的服务器。
-#23675	[!ServerRegion]버지니아	[!ServerRegion]弗吉尼亚
-#23676	[!ServerRegion]북미, 남미, 유럽	[!ServerRegion]北美，南美，欧洲
-#23677	[!ServerRegion]유럽의 경우, 아시아 서버보다 북미 서버가 더 안정적이고 좋은 반응 속도를 유지할 수 있습니다.	[!ServerRegion]在欧洲时，比起亚洲服务器，北美服务器可提供更稳定更好的反应速度。
 #23678	[!ServerRegion]중국 본토에서 해당 서버로 접속하려는 경우, 만리방화벽을 거치게 되므로 거리에 상관없이 게임 반응 속도가 나쁠 수 있습니다.	[!ServerRegion]尝试在中国大陆连接该服务器时，可能会因为特殊网络原因导致延迟和丢包的情况。
 #23679	[!ServerRegion]아시아 유저를 위한 서버입니다.	[!ServerRegion]亚洲玩家使用的服务器。
 #23680	[!ServerRegion]홍콩	[!ServerRegion]香港
@@ -16302,7 +16286,7 @@
 #24496	[!Help]일반	[!Help]普通
 #24497	[!Help]최종 경험치	[!Help]最终经验值
 #24498	[!Help]미션 권장 레벨	[!Help]任务推荐等级
-#24499	[!Help]전투불능 된 적의 최대 체력	[!Help]无法战斗的敌人最大体力值
+#24499	[!Help]공격자 최대 체력	[!Help]攻击者最大体力值
 #24500	[!Help]공격자 레벨	[!Help]攻击者等级
 #24501	[!Help]전투불능 된 적 레벨	[!Help]无法战斗的敌人等级
 #24502	[!Help]전투불능 된 적 등급	[!Help]无法战斗的敌人阶级
@@ -16412,3 +16396,95 @@
 #24617	[!OptionGameplay]매우 낮음	[!OptionGraphics]非常低
 #24618	[!OptionGameplay]안함	[!OptionGameplay]不使用
 #24619	[!OptionGameplay]캐릭터 대사 재생 빈도	[!OptionGameplay]角色对话播放频率
+#24620	[!GuideMessage]현재 보유하고 있는 $Category$ 특성 중 하나입니다.	[!GuideMessage]是现在所拥有的$Category$天赋之一。
+#24621	[!GuideMessage]현재 연구 가능한 특성 중 하나입니다.	[!GuideMessage]是现在可研究的天赋之一。
+#24622	[!GuideMessage]해당 특성에 대한 정보가 없습니다.	[!GuideMessage]没有有关该天赋的情报。
+#24624	[!GuideMessage]연구 가능한 최대 수량입니다.	[!GuideMessage]无法继续研究。
+#24625	[!Mastery]마지막 광기	[!Mastery]最后的疯狂
+#24626	[!Mastery]광기의 마지막은 결과를 부정하는 것이다.	[!Mastery]疯狂的结局是结果的否定。
+#24627	[!Mastery]자신의 잃은 체력 $Value$ 당 $SP$가 $Value2$ 증가합니다.	[!Mastery]每$Value$点自身所遗失的体力，将增加$Value2$的$SP$。
+#24628	[!Mastery]$BuffGroup$ 계열 상태가 될 때마다 $Vigor$ 혹은 $Rage$가 $Value$ 증가합니다.	[!Mastery]每成为$BuffGroup$系列状态时，$Vigor$或$Rage$将增加$Value$。
+#24629	[!Mastery]완벽한 자아	[!Mastery]完美的自我
+#24630	[!Mastery]백전노장이란 생존을 위한 불굴의 강인한 의지를 지닌 자를 말한다.	[!Mastery]身经百战的人是指拥有对于生存的强韧意志的人。
+#24631	[!Mastery]$Buff$ 상태에 면역이 됩니다.	[!Mastery]将对$Buff$状态免疫。
+#24632	[!Mastery]전장의 방랑자	[!Mastery]战场上的流浪汉
+#24633	[!Mastery]승리를 위해 쉬지 않고 움직인다.	[!Mastery]为了胜利不停地移动。
+#24634	[!Mastery]이동 후 적을 공격할 경우, $Stat$[이] $Value$ 추가 증가합니다.	[!Mastery]移动后攻击敌人时，$Stat$将额外增加$Value$。
+#24635	[!Mastery]시야 내 적이 없으면, $ActionTime$이 $Value$ 감소합니다.	[!Mastery]视野内不存在敌人时，$ActionTime$将减少$Value$。
+#24636	[!Mastery]아군이 인접한 타일에서 행동을 종료하면 $ActionTime$이 $Value$ 추가 감소합니다.	[!Mastery]友军在临近的格子上结束回合时，$ActionTime$将额外减少$Value$。
+#24637	[!Mastery]경공	[!Mastery]轻功
+#24638	[!Mastery]태산이 높다하되 하늘아래 뫼이로다.	[!Mastery]泰山再高，高不过三十三天
+#24639	[!Mastery]$RushMove$ 혹은 $RushAttack$ 시, 다음과 같은 효과가 발생합니다.	[!Mastery]$RushMove$或$RushAttack$时，会产生以下效果。
+#24640	[!Mastery]도착 지점이 출발 지점보다 $Value$m 보다 높을 시	[!Mastery]目标地点比出发地点高$Value$m时
+#24641	[!Mastery]$ActionTime$이 $Value2$ 감소합니다.	[!Mastery]将减少$Value2$的$ActionTime$。
+#24642	[!Mastery]도착 지점이 출발 지점보다 $Value$m 보다 낮을 시	[!Mastery]目标地点比出发地点低$Value$m时
+#24643	[!Mastery]빛보다 빠른 주먹	[!Mastery]比光还快的拳头
+#24644	[!Mastery]나비처럼 날아서 벌처럼 쏜다	[!Mastery]像蝴蝶一样飘浮，像蜜蜂一样蜇人
+#24645	[!Mastery]$Ability$를 적에게 적중시켜 해당 적이 $BuffGroup$ 계열 상태가 되면, $ActionTime$이 $Value$ 감소합니다.	[!Mastery]$Ability$的击中使敌人进入$BuffGroup$系列状态时，$ActionTime$将减少$Value$。
+#24646	[!Mastery]물실호기	[!Mastery]勿失好机
+#24647	[!Mastery]꽉쥔 주먹으로 클린히트시키면 자세를 무너뜨릴 수 있지.	[!Mastery]如果用紧握的拳头打个干净，姿势就会垮掉。
+#24648	[!Mastery]$Ability$를 적에게 적중시켜 해당 적이 $BuffGroup$ 계열 상태가 되면, 한 번 더 동일한 어빌리티로 $ResponsiveAttack$을 합니다.	[!Mastery]$Ability$的击中使敌人进入$BuffGroup$系列状态时，将再次发动相同的技能进行$ResponsiveAttack$。
+#24649	[!OptionGameplay]어빌리티 카메라 흔들림 끄기	[!OptionGameplay]关闭相机的摇晃
+#24650	[!OptionGameplay]어빌리티 연출 중 카메라 흔들림 연출을 사용하지 않습니다.	[!OptionGameplay]技能演出时，不使用摇晃演出。
+#24651	[!WordCollection]아이템	[!HelpSubCategory]物品
+#24652	[!WordCollection][!Option]비활성화	[!WordCollection][!Option]非激活
+#24653	[!WordCollection]연구 가능한 최대 개수	[!WordCollection]可研究的最大个数
+#24654	[!WordCollection]검색	[!WordCollection]搜索
+#24655	[!GuideMessage]연구할 특성의 수량을 정하세요.	[!GuideMessage]请确定要研究的天赋数量。
+#24656	[!GuideMessage]제작할 모듈의 수량을 정하세요.	[!GuideMessage]请确定要制作的模块数量。
+#24657	[!TroublemakerCategory]전체	[!WordCollection]全体
+#24658	[!TroublemakerCategory]적	[!WordCollection]敌人
+#24659	[!WordCollection]관할 구역 정보	[!WordCollection]管辖区域信息
+#24660	[!WordCollection]현재 정책	[!WordCollection]当前政策
+#24661	[!LayoutKeyword]영문번역	[!LayoutKeyword]英文
+#24662	[!SystemMessage]시작할 수 없는 난이도입니다	[!SystemMessage]是无法开始的难度
+#24663	[!Ability]부드러운 혀 놀림	[!Ability]柔软的舌头动作
+#24664	[!Ability]긴 혀를 이용해 아군을 자신의 앞으로 데려옵니다.	[!Ability]用长舌把友军带到自己面前。
+#24665	[!Ability]가속의 노래	[!Ability]加速之曲
+#24666	[!Mastery]우렁찬 울음	[!Mastery]嘹亮的哭声
+#24667	[!Mastery]내 목소리를 들어봐!	[!Mastery]听听我声音！
+#24668	[!Mastery]지면 대상 회복 어빌리티	[!Mastery]地面范围恢复技能
+#24669	[!Mastery]지면 대상 지원 어빌리티	[!Mastery]地面范围支援技能
+#24670	[!Mastery]적용 범위가 반경 $Value$칸 확장됩니다.	[!Mastery]适用范围将扩张$Value$格。
+#24671	[!ObjectInfo]작은 돌연변이 네구리	[!ObjectInfo]小型的突变呐故立
+#24672	[!ObjectInfo]돌연변이 네구리	[!ObjectInfo]突变呐故立
+#24673	[!ObjectInfo]돌연변이 왕네구리	[!ObjectInfo]突变王呐故立
+#24675	[!QuestDesc]$JPerson(Dembel)$[는] 잿빛 항구 물류 창고로 흘러 들어간 자신의 화물을 회수해 달라고 요청한다.	[!QuestDesc]$JPerson(Dembel)$请求回收流入灰色港口的货物。
+#24676	[!ServerRegion]북미 유저를 위한 서버입니다.	[!ServerRegion]北美用户专用服务器。
+#24677	[!ServerRegion]미국, 버지니아	[!ServerRegion]美国，弗吉尼亚
+#24678	[!ServerRegion]북미, 남미	[!ServerRegion]北美，南美
+#24679	[!ServerRegion]유럽 서버	[!ServerRegion]欧洲服务器
+#24680	[!ServerRegion]유럽 유저를 위한 서버입니다.	[!ServerRegion]欧洲用户专用服务器
+#24681	[!ServerRegion]독일, 프랑크푸르트	[!ServerRegion]德国，法兰克福
+#24682	[!ServerRegion]유럽	[!ServerRegion]欧洲
+#24683	[!WordCollection]형상 투영	[!WordCollection]形象投影
+#24684	[!GameSystemMessageFormat]수풀 안에서 $Who$[가] 발견되었습니다.	[!GameSystemMessageFormat]在草丛中发现了$Who$。
+#24685	[!GameSystemMessageFormat]수풀 안에서 아무것도 발견할 수 없었습니다.	[!GameSystemMessageFormat]在草丛里什么也找不到。
+#24686	[!GameSystemMessageFormat]수풀 안에서 $ColorItem$[이] 발견되었습니다.	[!GameSystemMessageFormat]在草丛中发现了$ColorItem$。
+#24687	[!Item]제프가 붉은 광산 지구 야수 사냥 대회에서 3년 간 우승하여 영구적으로 소유하게 된 인장.	[!Item]这是杰夫连续3年获得红矿地区地区狩猎大会冠军而永久持有的印章。
+#24689	[!Quest]난폭한 불청객	[!Quest]粗暴的不速之客
+#24690	[!Quest]생태 연구소에 나타난 네구리를 처리하시오.	[!Quest]处理出现在生态研究所的呐故立。
+#24691	[!QuestDesc]$JPerson(Leo)$[은] 최근 동물보호소에 비가 오는 밤이면 나타나는 $Job(Neguri)$로 인해 다른 동물들이 겁을 먹고 있으니 처리해 달라고 부탁한다.	[!QuestDesc]$JPerson(Leo)$请求处理最近在动物保护站的晚上出现并使动物们感到恐惧的$Job(Neguri)$。
+#24692	[!Site]하늘바람 동물보호소	[!Site]天空之风动物保护站
+#24693	[!License]상급 조련사 자격증	[!License]高级训练师资格证
+#24694	[!License]사냥 허가증을 모두 보유한 자 중 발할라 야생자원 관리국이 인증하는 실기 과정을 이수한 사람에게 주어지는 자격증이다.	[!License]持有所有的狩猎许可证的人中通过了巴赫拉认证的考试的话就会获得此证书。
+#24695	[!License]민간 지원 허가증	[!License]民间援助许可证
+#24696	[!License]미성년임에도 불구하고 발할라 경찰청에 의해 사건 현장에 필요한 특정 능력을 인정받아 사건 현장에서 활동할 수 있는 사람에게 주어지는 허가증이다.	[!License]巴赫拉警察局颁发给在案发现场具有必要能力的未成年人的许可证。
+#24697	[!Loading]난폭한 불청객	[!Loading]粗暴的不速之客
+#24698	[!Loading]하늘바람 동물보호소	[!Loading]天空之风动物保护站
+#24699	[!LoadingDesc]아이템 상자에는 다양한 아이템이 들어 있습니다.	[!LoadingDesc]道具箱里装有许多物品。
+#24700	[!LoadingDesc]방위 표시	[!OptionGameplay]方位标识
+#24701	[!LoadingDesc]3차원 공간의 방향성을 쉽게 판단하게 하기 위해 게임 옵션의 방위 정보 표시를 통해 동, 서, 남, 북 방향 표시를 활성화 가능합니다.	[!LoadingDesc]为了便于判断方向，在小地图上标记了东，西，南，北四个方位。
+#24702	[!LoadingDesc]상호 작용 간략화	[!LoadingDesc]简化相互作用
+#24703	[!LoadingDesc]게임 옵션을 통해 시민, 상자 열기들의 연출을 간략화 가능합니다.	[!LoadingDesc]简要展现解救市民，打开箱子等的演出场景。
+#24704	[!Mission]하늘바람 동물보호소	[!Mission]天空之风动物保护站
+#24705	[!Quest]약탈당한 화물 - 잿빛 항구 G 물류 창고	[!Quest]被掠夺的货物 - 灰色港口G物流仓库
+#24706	[!Mastery]내 노래를 들어봐!	[!Mastery]听我唱歌！
+#24707	[!Mastery]자! 널 위해 노래를 불러줄게!	[!Mastery]来！让我为你唱歌吧！
+#24708	[!Mastery]소모되는 $ActionPoint$이 $Value$ 추가 감소합니다.	[!Mastery]$ActionPoint$的消耗将额外减少$Value$。
+#24709	[!Mastery]막 잡은 먹잇감	[!Mastery]刚钓到的食物
+#24710	[!Mastery]바로 잡은 고기가 가장 맛있어!	[!Mastery]刚钓到的鱼最好吃！
+#24711	[!Mastery]$Ability$로 적을 $Dead$으로 만들면, $ActionPoint$을 $Value$ 회복합니다.	[!Mastery]$Ability$的使用将敌人$Dead$时，将恢复$Value$的$ActionPoint$。
+#24712	[!Mastery]끊이지 않는 노래	[!Mastery]不断的歌曲
+#24713	[!Mastery]내가 또 부른다.	[!Mastery]我又再唱。
+#24714	[!Notice]<br><br>유럽 서버가 추가되었습니다. 유럽에서 게임을 하는 분들은 유럽 서버를 이용하는 것을 권합니다.<br><br>유럽 서버는 2020년 6월 5일까지의 북미 서버의 데이터를 사용하므로 이전에 북미 서버를 사용했던 분들은 사용하던 데이터 그대로 유럽 서버에서 게임을 이어서 할 수 있습니다.<br><br>그러나 2020년 6월 5일 이후부터는 북미 서버와 유럽 서버는 데이터가 공유되지 않으므로 이 점 주의하시기 바랍니다.	[!Notice]<br><br>欧洲服务器正式开启。建议在 欧洲玩的玩家使用欧洲地区服务器。<br><br> 欧洲服务器使用截至2020年6月5号的北美服务器数据，因此之前使用过北美服务器的玩家们可直接在欧洲区域继续游玩。<br><br>但要特别注意，在2020年6月5号以后的欧洲服务器是将不再会与北美服务器共享数据。
