@@ -4457,7 +4457,7 @@
 #8053	[!WordCollection][!최대레벨]MAX	[!WordCollection][!最高等级]MAX
 #8058	[!Item]발키리 코인	[!Item]女武神硬币
 #8059	[!Item]발할라에서 범죄자 정보를 제공한 트러블슈터에게 제공하는 코인.	[!Item]巴赫拉为提供犯罪分子信息的纷争终结者发放的硬币。
-#8060	[!Item]해당 코인은 발키리 상점에서 이용하실 수 있습니다.	[!Item]可使用该硬币在巴赫拉政府机关商店进行消费。
+#8060	[!Item]해당 코인은 발키리 상점에서 이용하실 수 있습니다.	[!Item]可使用该硬币在女武神商店进行消费。
 #8061	[!Loading]114 번 외곽 도로	[!Loading]114号外围道路
 #8063	[!Loading]악당과 포식자	[!Loading]恶徒和捕食者
 #8065	[!Loading]은빛 토끼 공원	[!Loading]银兔公园
@@ -10723,19 +10723,19 @@
 #17567	[!Ability]불꽃 베기	[!Ability]火花斩
 #17568	[!Ability]불꽃 파괴검	[!Ability]火花破坏剑
 #17569	[!Item]칠흑의 펄스 블레이드	[!Item]漆黑的脉冲剑
-#17570	[!Item]동방 연합으로 원정 도박을 와 많은 돈을 잃고 사채를 끌어다 쓴 아테르 제국 기사단장이 모든 것이 사기라며 난동을 부리자 도박장의 관리를 총괄하던 육연향은 기사단장을 막아선다. 흥분한 기사단장은 황제가 하사한 검은 색의 펄스 블레이드를 꺼내 육연향을 베려고 했으나 그의 팔은 순식간에 그의 어깨에서 떨어져 땅에 툭 하고 떨어진다. "정말 좋은 검이군. 준다면 내가 쓰지."	从东方联盟远征来赌博，却输了很多的钱并借了高利贷的阿泰尔帝国骑士团长大发雷霆，闹事捣乱，声称一切都是诈骗，导致管理赌场的肉烟香不得不来阻止。激动过头的骑士团长拿出皇帝赐予的漆黑的脉冲剑，准备砍向陆延香，但他的手臂瞬间从他的肩膀上掉下来，啪啪地掉在地上。"真是把好剑，让我来用吧。"
+#17570	[!Item]동방 연합으로 원정 도박을 와 많은 돈을 잃고 사채를 끌어다 쓴 아테르 제국 기사단장이 모든 것이 사기라며 난동을 부리자 도박장의 관리를 총괄하던 육연향은 기사단장을 막아선다. 흥분한 기사단장은 황제가 하사한 검은 색의 펄스 블레이드를 꺼내 육연향을 베려고 했으나 그의 팔은 순식간에 그의 어깨에서 떨어져 땅에 툭 하고 떨어진다. "정말 좋은 검이군. 준다면 내가 쓰지."	从东方联盟远征来赌博，却输了很多的钱并借了高利贷的阿泰尔帝国骑士团长大发雷霆，闹事捣乱，声称一切都是诈骗，导致管理赌场的肉烟香不得不来阻止。激动过头的骑士团长拿出皇帝赐予的漆黑的脉冲剑，准备砍向肉烟香，但他的手臂瞬间从他的肩膀上掉下来，啪啪地掉在地上。"真是把好剑，让我来用吧。"
 #17571	[!Mastery]마검 제어	[!Mastery]控制魔剑
 #17572	[!Mastery]승부는 찰나.	[!Mastery]胜负在刹那。
 #17574	[!Mastery]마검 장막	[!Mastery]魔剑帷幕
 #17575	[!Mastery]마력을 담은 검은 이능조차 베어버린다.	[!Mastery]附有魔力的剑连异能也砍的掉。
 #17577	[!Mastery]상처 태우기	[!Mastery]烧掉伤口
 #17578	[!Mastery]고통은 배가 되리라.	[!Mastery]痛苦将加倍。
-#17580	[!ObjectInfo]육연향	陆延香
+#17580	[!ObjectInfo]육연향	肉烟香
 #17581	[!ObjectInfo]체체	[!ObjectInfo]采采
-#17582	[!NamedEvent]갈취의 육연향	巧取豪夺的陆延香
+#17582	[!NamedEvent]갈취의 육연향	巧取豪夺的肉烟香
 #17583	[!NamedEvent]쓸만한 걸 가지고 있겠지?	[!NamedEvent]你身上带着值钱的东西吧？
 #17584	[!NamedEvent]네 목숨 값은 비싸게 계산해야겠군.	[!NamedEvent]你的命应该挺值钱的。
-#17585	[!GameSystemMessageFormat]육연향이 카일리를 최우선 목표로 삼습니다.	陆延香把凯利当作最优先目标。
+#17585	[!GameSystemMessageFormat]육연향이 카일리를 최우선 목표로 삼습니다.	肉烟香把凯利当作最优先目标。
 #17586	[!Mastery]마검술사	[!Mastery]魔剑术师
 #17587	[!Mastery]마검은 스스로 주인을 선택한다.	[!Mastery]魔剑己选择主人。
 #17589	[!Ability]물의 가호를 받은 아군은 $ApplyBuff$ 상태가 됩니다.	[!Ability]得到水之护佑的队友将进入$ApplyBuff$状态。
@@ -16401,31 +16401,31 @@
 #24622	[!GuideMessage]해당 특성에 대한 정보가 없습니다.	[!GuideMessage]没有有关该天赋的情报。
 #24624	[!GuideMessage]연구 가능한 최대 수량입니다.	[!GuideMessage]无法继续研究。
 #24625	[!Mastery]마지막 광기	[!Mastery]最后的疯狂
-#24626	[!Mastery]광기의 마지막은 결과를 부정하는 것이다.	[!Mastery]疯狂的结局是结果的否定。
-#24627	[!Mastery]자신의 잃은 체력 $Value$ 당 $SP$가 $Value2$ 증가합니다.	[!Mastery]每$Value$点自身所遗失的体力，将增加$Value2$的$SP$。
-#24628	[!Mastery]$BuffGroup$ 계열 상태가 될 때마다 $Vigor$ 혹은 $Rage$가 $Value$ 증가합니다.	[!Mastery]每成为$BuffGroup$系列状态时，$Vigor$或$Rage$将增加$Value$。
+#24626	[!Mastery]광기의 마지막은 결과를 부정하는 것이다.	[!Mastery]疯狂的终末是对结果的否定。
+#24627	[!Mastery]자신의 잃은 체력 $Value$ 당 $SP$가 $Value2$ 증가합니다.	[!Mastery]每$Value$点自身所损失的体力，将增加$Value2$的$SP$。
+#24628	[!Mastery]$BuffGroup$ 계열 상태가 될 때마다 $Vigor$ 혹은 $Rage$가 $Value$ 증가합니다.	[!Mastery]每当进入$BuffGroup$系列状态时，$Vigor$或$Rage$将增加$Value$。
 #24629	[!Mastery]완벽한 자아	[!Mastery]完美的自我
-#24630	[!Mastery]백전노장이란 생존을 위한 불굴의 강인한 의지를 지닌 자를 말한다.	[!Mastery]身经百战的人是指拥有对于生存的强韧意志的人。
+#24630	[!Mastery]백전노장이란 생존을 위한 불굴의 강인한 의지를 지닌 자를 말한다.	[!Mastery]被称为百战老将的人是指对于生存有着强韧意志的人。
 #24631	[!Mastery]$Buff$ 상태에 면역이 됩니다.	[!Mastery]将对$Buff$状态免疫。
-#24632	[!Mastery]전장의 방랑자	[!Mastery]战场上的流浪汉
+#24632	[!Mastery]전장의 방랑자	[!Mastery]战场上的流浪者
 #24633	[!Mastery]승리를 위해 쉬지 않고 움직인다.	[!Mastery]为了胜利不停地移动。
 #24634	[!Mastery]이동 후 적을 공격할 경우, $Stat$[이] $Value$ 추가 증가합니다.	[!Mastery]移动后攻击敌人时，$Stat$将额外增加$Value$。
 #24635	[!Mastery]시야 내 적이 없으면, $ActionTime$이 $Value$ 감소합니다.	[!Mastery]视野内不存在敌人时，$ActionTime$将减少$Value$。
 #24636	[!Mastery]아군이 인접한 타일에서 행동을 종료하면 $ActionTime$이 $Value$ 추가 감소합니다.	[!Mastery]友军在临近的格子上结束回合时，$ActionTime$将额外减少$Value$。
 #24637	[!Mastery]경공	[!Mastery]轻功
-#24638	[!Mastery]태산이 높다하되 하늘아래 뫼이로다.	[!Mastery]泰山再高，高不过三十三天
+#24638	[!Mastery]태산이 높다하되 하늘아래 뫼이로다.	[!Mastery]泰山虽高，乃天之下。
 #24639	[!Mastery]$RushMove$ 혹은 $RushAttack$ 시, 다음과 같은 효과가 발생합니다.	[!Mastery]$RushMove$或$RushAttack$时，会产生以下效果。
 #24640	[!Mastery]도착 지점이 출발 지점보다 $Value$m 보다 높을 시	[!Mastery]目标地点比出发地点高$Value$m时
 #24641	[!Mastery]$ActionTime$이 $Value2$ 감소합니다.	[!Mastery]将减少$Value2$的$ActionTime$。
 #24642	[!Mastery]도착 지점이 출발 지점보다 $Value$m 보다 낮을 시	[!Mastery]目标地点比出发地点低$Value$m时
 #24643	[!Mastery]빛보다 빠른 주먹	[!Mastery]比光还快的拳头
 #24644	[!Mastery]나비처럼 날아서 벌처럼 쏜다	[!Mastery]像蝴蝶一样飘浮，像蜜蜂一样蜇人
-#24645	[!Mastery]$Ability$를 적에게 적중시켜 해당 적이 $BuffGroup$ 계열 상태가 되면, $ActionTime$이 $Value$ 감소합니다.	[!Mastery]$Ability$的击中使敌人进入$BuffGroup$系列状态时，$ActionTime$将减少$Value$。
-#24646	[!Mastery]물실호기	[!Mastery]勿失好机
+#24645	[!Mastery]$Ability$를 적에게 적중시켜 해당 적이 $BuffGroup$ 계열 상태가 되면, $ActionTime$이 $Value$ 감소합니다.	[!Mastery]$Ability$命中并使敌人进入$BuffGroup$系列状态时，$ActionTime$将减少$Value$。
+#24646	[!Mastery]물실호기	[!Mastery]勿失良机
 #24647	[!Mastery]꽉쥔 주먹으로 클린히트시키면 자세를 무너뜨릴 수 있지.	[!Mastery]如果用紧握的拳头打个干净，姿势就会垮掉。
 #24648	[!Mastery]$Ability$를 적에게 적중시켜 해당 적이 $BuffGroup$ 계열 상태가 되면, 한 번 더 동일한 어빌리티로 $ResponsiveAttack$을 합니다.	[!Mastery]$Ability$的击中使敌人进入$BuffGroup$系列状态时，将再次发动相同的技能进行$ResponsiveAttack$。
-#24649	[!OptionGameplay]어빌리티 카메라 흔들림 끄기	[!OptionGameplay]关闭相机的摇晃
-#24650	[!OptionGameplay]어빌리티 연출 중 카메라 흔들림 연출을 사용하지 않습니다.	[!OptionGameplay]技能演出时，不使用摇晃演出。
+#24649	[!OptionGameplay]어빌리티 카메라 흔들림 끄기	[!OptionGameplay]关闭镜头的摇晃
+#24650	[!OptionGameplay]어빌리티 연출 중 카메라 흔들림 연출을 사용하지 않습니다.	[!OptionGameplay]技能演出时，不使用摇晃镜头演出。
 #24651	[!WordCollection]아이템	[!HelpSubCategory]物品
 #24652	[!WordCollection][!Option]비활성화	[!WordCollection][!Option]非激活
 #24653	[!WordCollection]연구 가능한 최대 개수	[!WordCollection]可研究的最大个数
@@ -16436,12 +16436,12 @@
 #24658	[!TroublemakerCategory]적	[!WordCollection]敌人
 #24659	[!WordCollection]관할 구역 정보	[!WordCollection]管辖区域信息
 #24660	[!WordCollection]현재 정책	[!WordCollection]当前政策
-#24661	[!LayoutKeyword]영문번역	[!LayoutKeyword]英文
-#24662	[!SystemMessage]시작할 수 없는 난이도입니다	[!SystemMessage]是无法开始的难度
+#24661	[!LayoutKeyword]영문번역	[!LayoutKeyword]英文译文
+#24662	[!SystemMessage]시작할 수 없는 난이도입니다	[!SystemMessage]无法开启该难度
 #24663	[!Ability]부드러운 혀 놀림	[!Ability]柔软的舌头动作
 #24664	[!Ability]긴 혀를 이용해 아군을 자신의 앞으로 데려옵니다.	[!Ability]用长舌把友军带到自己面前。
 #24665	[!Ability]가속의 노래	[!Ability]加速之曲
-#24666	[!Mastery]우렁찬 울음	[!Mastery]嘹亮的哭声
+#24666	[!Mastery]우렁찬 울음	[!Mastery]嘹亮的叫声
 #24667	[!Mastery]내 목소리를 들어봐!	[!Mastery]听听我声音！
 #24668	[!Mastery]지면 대상 회복 어빌리티	[!Mastery]地面范围恢复技能
 #24669	[!Mastery]지면 대상 지원 어빌리티	[!Mastery]地面范围支援技能
@@ -16484,7 +16484,7 @@
 #24708	[!Mastery]소모되는 $ActionPoint$이 $Value$ 추가 감소합니다.	[!Mastery]$ActionPoint$的消耗将额外减少$Value$。
 #24709	[!Mastery]막 잡은 먹잇감	[!Mastery]刚钓到的食物
 #24710	[!Mastery]바로 잡은 고기가 가장 맛있어!	[!Mastery]刚钓到的鱼最好吃！
-#24711	[!Mastery]$Ability$로 적을 $Dead$으로 만들면, $ActionPoint$을 $Value$ 회복합니다.	[!Mastery]$Ability$的使用将敌人$Dead$时，将恢复$Value$的$ActionPoint$。
+#24711	[!Mastery]$Ability$로 적을 $Dead$으로 만들면, $ActionPoint$을 $Value$ 회복합니다.	[!Mastery]使用$Ability$将敌人处于$Dead$时，将恢复$Value$的$ActionPoint$。
 #24712	[!Mastery]끊이지 않는 노래	[!Mastery]不断的歌曲
 #24713	[!Mastery]내가 또 부른다.	[!Mastery]我又再唱。
 #24714	[!Notice]<br><br>유럽 서버가 추가되었습니다. 유럽에서 게임을 하는 분들은 유럽 서버를 이용하는 것을 권합니다.<br><br>유럽 서버는 2020년 6월 5일까지의 북미 서버의 데이터를 사용하므로 이전에 북미 서버를 사용했던 분들은 사용하던 데이터 그대로 유럽 서버에서 게임을 이어서 할 수 있습니다.<br><br>그러나 2020년 6월 5일 이후부터는 북미 서버와 유럽 서버는 데이터가 공유되지 않으므로 이 점 주의하시기 바랍니다.	[!Notice]<br><br>欧洲服务器正式开启。建议在 欧洲玩的玩家使用欧洲地区服务器。<br><br> 欧洲服务器使用截至2020年6月5号的北美服务器数据，因此之前使用过北美服务器的玩家们可直接在欧洲区域继续游玩。<br><br>但要特别注意，在2020年6月5号以后的欧洲服务器是将不再会与北美服务器共享数据。
