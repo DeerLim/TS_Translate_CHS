@@ -359,7 +359,7 @@
 #747	[!GuideMessage]개조 가능한 아이템이 %d 개 있습니다.	[!GuideMessage]有%d个物品可进行改造。
 #749	[!GuideMessage]승급 가능한 아이템이 %d 개 있습니다.	[!GuideMessage]有%d个物品可进行升级。
 #750	[!GuideMessage]더 이상 사용이 불가능합니다.	[!GuideMessage]无法继续使用。
-#756	[!GuideMessage]※ 시나리오 진행에 따라 특정 지역으로 이동이 봉쇄될 수 있습니다.	[!GuideMessage]※ 根据剧情任务的进行，会被锁定特定区域的移动。
+#756	[!GuideMessage]※ 시나리오 진행에 따라 특정 지역으로 이동이 봉쇄될 수 있습니다.	[!GuideMessage]※ 根据剧情任务的进行，向一些特定区域的移动会被封锁。
 #757	[!GuideMessage]인벤토리를 비우고 아이템을 수령하세요	[!GuideMessage]清空背包后接受物品。
 #758	[!GuideMessage]인벤토리가 가득 찼습니다!	[!GuideMessage]背包已满!
 #760	[!HitRateCondition]기본 명중률	[!HitRateCondition]基础命中率
@@ -16295,7 +16295,7 @@
 #24535	[!Ability]영리한 계승자	[!Ability]伶俐的传承者
 #24540	[!Help]또한 대상으로부터 획득할 수 있는 모든 전리품의 개별 획득 확률의 합이 $/$100%$/$를 초과할 경우 아래와 같이 보정 처리됩니다.	[!Help]或者从对象身上可获得的所有道具的个别概率总和超过$/$100%$/$的情况是，将按如下方式计算。
 #24541	[!Mastery]전사의 계승자	[!Mastery]战士的传承者
-#24542	[!Mastery]앞으로 나아가는 것을 멈추지 않는다.	[!Mastery]不断前进。
+#24542	[!Mastery]앞으로 나아가는 것을 멈추지 않는다.	[!Mastery]勇往直前的本能永不停止。
 #24543	[!Mastery]$Ability$ / $Ability2$ 어빌리티가 $Ability3$ / $Ability4$ 어빌리티로 변경됩니다.	[!Mastery]$Ability$变为$Ability3$，$Ability2$变为$Ability4$。
 #24544	[!Mastery]수호자의 계승자	[!Mastery]守护者的传承者
 #24545	[!Mastery]절대 물러나지 않는다.	[!Mastery]绝不退却。
@@ -16418,7 +16418,7 @@
 #24664	[!Ability]긴 혀를 이용해 아군을 자신의 앞으로 데려옵니다.	[!Ability]用长舌把友军带到自己面前。
 #24665	[!Ability]가속의 노래	[!Ability]加速之曲
 #24666	[!Mastery]우렁찬 울음	[!Mastery]嘹亮的叫声
-#24667	[!Mastery]내 목소리를 들어봐!	[!Mastery]听听我声音！
+#24667	[!Mastery]내 목소리를 들어봐!	[!Mastery]听听我的声音！
 #24668	[!Mastery]지면 대상 회복 어빌리티	[!Mastery]地面范围恢复技能
 #24669	[!Mastery]지면 대상 지원 어빌리티	[!Mastery]地面范围支援技能
 #24670	[!Mastery]적용 범위가 반경 $Value$칸 확장됩니다.	[!Mastery]适用范围将扩张$Value$格。
@@ -16485,18 +16485,18 @@
 #24733	[!Mastery]반복적인 검술 훈련	[!Mastery]反复的剑术训练
 #24734	[!Mastery]반복적인 훈련에서는 가장 중요한 것은 인내심이다.	[!Mastery]在反复的训练中，最重要的是耐心。
 #24735	[!Mastery]강화 디스크 레이돔	[!Mastery]强化磁盘整流罩
-#24736	[!Mastery]대충 아는 것은 모르는 것보다 못하다.	[!Mastery]粗知不如无知。
-#24737	[!Mastery]범위 내 적용되는 $Buff$ 상태가 $Buff2$ 상태로 변경됩니다.	[!Mastery]范围内所适应的$Buff$状态将成为$Buff2$状态。
+#24736	[!Mastery]대충 아는 것은 모르는 것보다 못하다.	[!Mastery]粗知不如不知。
+#24737	[!Mastery]범위 내 적용되는 $Buff$ 상태가 $Buff2$ 상태로 변경됩니다.	[!Mastery]范围内所影响的$Buff$状态将成为$Buff2$状态。
 #24738	[!Mastery]강화 정보 교란기	[!Mastery]强化信息干扰器
 #24739	[!Mastery]머리가 좋아야 거짓 말도 잘한다. 	[!Mastery]头脑机灵的人才能说好假话。
-#24740	[!Mastery]추가 기체 강화	[!Mastery]更加强化机械
+#24740	[!Mastery]추가 기체 강화	[!Mastery]附加机体强化
 #24741	[!Mastery]큰 인물은 언제나 목표가 정해져 있다.	[!Mastery]大人物总是有目标的。
-#24742	[!Mastery]추가 기체 최적화	[!Mastery]更加优化机械
+#24742	[!Mastery]추가 기체 최적화	[!Mastery]附加机体最优化
 #24743	[!Mastery]티끌 모아 태산.	[!Mastery]积土成山。
 #24744	[!Mastery]자율 방어 행동 최적화	[!Mastery]优化自律防御行动
 #24745	[!Mastery]적이 쳐들어오지 않기를 바라기보다는 자신을 지키는 준비를 해라.	[!Mastery]与其指望敌人不突进，不如做好保卫自己的准备。
 #24746	[!Mastery]반응 사격 제어 프로그램	[!Mastery]反应射击控制程序
-#24747	[!Mastery]실패하는 노력은 의미가 없다.	[!Mastery]对于失败的努力是没有意义的。
+#24747	[!Mastery]실패하는 노력은 의미가 없다.	[!Mastery]失败的努力是没有意义的。
 #24748	[!Mastery]$ResponsiveAttack$으로 적을 공격할 경우, $Stat$[이] $Value$ 증가합니다.	[!Mastery]以$ResponsiveAttack$攻击敌人时，$Stat$将增加$Value$。
 #24749	[!Mastery]자율 행동 강화 프로그램	[!Mastery]自律行动强化程序
 #24750	[!Mastery]말하지 않아도 알아야 한다.	[!Mastery]不言而喻。
@@ -16549,7 +16549,7 @@
 #24799	[!Ability]천둥 울음	[!Ability]雷鸣
 #24800	[!Buff]$AddBuffName$ 상태가 되면, 해당 상태는 자동 해제됩니다.	[!Buff]进入$AddBuffName$状态时，将自动解除该状态。
 #24801	[!GuideMessage]이미 등록된 회사명 입니다.	[!Ability]是已被登录的公司名称。
-#24802	[!Item]두꺼운 왕도로리 가죽	[!Item]厚重的王多罗利皮
+#24802	[!Item]두꺼운 왕도로리 가죽	[!Item]厚重的多罗利王的皮
 #24803	[!Mastery]체력 훈련	[!Mastery]体力训练
 #24804	[!Mastery]공든 탑이 무너지랴.	[!Mastery]功夫不负有心人。
 #24805	[!Mastery]지원 훈련	[!Mastery]支援训练
@@ -16570,8 +16570,8 @@
 #24820	[!Mastery]강화된 신경망	[!Mastery]强化的神经网
 #24821	[!Mastery]선천적으로 타고난 재능도 노력이 없으면 빛나지 않는다.	[!Mastery]即使有天生的才能，若没有努力是不会发光的。
 #24823	[!Mastery]시야 내 아군이 $Dead$이 되면, 다음과 같은 효과가 발생합니다.	[!Mastery]视野内的友军变$Dead$时，将产生如下效果。
-#24824	[!Mastery]남은 $ActionTime$이 $Value$ 이상인 경우	[!Mastery]残りの$ActionTime$が$Value$以上の場合
-#24825	[!Mastery]남은 $ActionTime$이 $Value$ 미만인 경우	[!Mastery]残りの$ActionTime$が$Value$未満の場合
+#24824	[!Mastery]남은 $ActionTime$이 $Value$ 이상인 경우	[!Mastery]所剩的$ActionTime$在$Value$以上的情况
+#24825	[!Mastery]남은 $ActionTime$이 $Value$ 미만인 경우	[!Mastery]所剩的$ActionTime$不足$Value$的情况
 #24826	[!Mastery]바로 자신의 턴이 됩니다.	[!Mastery]将立即成为自身的回合。
 #24827	[!Mastery]질투의 눈	[!Mastery]嫉妒的目光
 #24828	[!Mastery]사소한 잘못도 놓치지 않겠어!	[!Mastery]一点儿小问题也不会放过！
@@ -16584,7 +16584,7 @@
 #24835	[!Mastery]붉게 물든 그의 입가에는 아직도 마르지 않는 선혈이 가득하지.	[!Mastery]他那被染红的嘴角上，还充满着未干的鲜血。
 #24836	[!Mastery]$BuffGroup$ 계열 상태의 적에게 피해를 입힐 경우, 무작위의 정신적인 상태 효과가 발생합니다.	[!Mastery]$BuffGroup$系列状态的敌人受到攻击时，将产生随机的精神状态效果。
 #24837	[!Mastery]절망의 불꽃	[!Mastery]绝望的火花
-#24838	[!Mastery]게으른 자가 희망을 품으면 절망을 만난다.	[!Mastery]懒人盼有希望，是必定会遇到绝望的。
+#24838	[!Mastery]게으른 자가 희망을 품으면 절망을 만난다.	[!Mastery]懒人所抱有的希望，迟早会变成绝望的。
 #24839	[!Mastery]$BuffGroup$ 계열 상태 이상인 적을 공격할 경우, 적의 $Stat$[이] $Value$ 감소합니다.	[!Mastery]攻击$BuffGroup$系列状态异常的敌人时，敌人的$Stat$将减少$Value$。
 #24840	[!ObjectInfo]황금 날개	[!ObjectInfo]黄金翅膀
 #24842	[!ObjectInfo]황금 어금니	[!Mastery]黄金臼齿
@@ -16605,7 +16605,7 @@
 #24857	[!Mastery]권력이란 인간을 통제하는 힘이다.	[!Mastery]权力是个控制人类的力量。
 #24858	[!Mastery]자신의 시야 내 아군보다 적이 많은 상황에서 적을 공격하여 $Dead$으로 만들면, $ActionTime$이 $Value$ 감소합니다.	[!Mastery]在自身视野内敌军比友军多的情况下攻击敌人并使对方$Dead$的话，$ActionTime$将减少$Value$。
 #24859	[!Mastery]질투의 화신	[!Mastery]嫉妒的化身
-#24860	[!Mastery]내 것이 아닌 것은 모두 의미가 없어!	[!Mastery]非我莫属的东西根本就没有任何意义！
+#24860	[!Mastery]내 것이 아닌 것은 모두 의미가 없어!	[!Mastery]非我莫属的东西若不是我的，就没有任何意义！
 #24861	[!Mastery]자신보다 레벨이 낮은 $Beast$에게 체력의 $Value$이상의 치명타 피해를 입히면, 해당 $Beast$는 $Buff$ 상태가 됩니다.	[!Mastery]向比自己等级低的$Beast$给予体力值的$Value$以上的暴击伤害时，该$Beast$将进入$Buff$状态。
 #24862	[!Mastery]자신의 종족이 $Beast$인 경우, 자신보다 높은 등급의 $Beast$에게는 발동하지 않습니다.	[!Mastery]自己的种族为$Beast$时，是不会向比自己级别更高的$Beast$发动。
 #24863	[!Mastery]백수왕	[!Mastery]百兽之王
@@ -16613,7 +16613,7 @@
 #24865	[!Mastery]자신의 등급보다 낮은 등급의 적과의 전투 시 다음과 같은 효과가 발생합니다.	[!Mastery]与比自己级别更低的敌人战斗时，会产生以下效果。
 #24866	[!Mastery]선혈의 괴수	[!Mastery]鲜血之怪兽
 #24867	[!Mastery]그들이 바라는 것은 그저 살육의 쾌감일 뿐이다.	[!Mastery]他们所希望的只是杀戮的快感。
-#24868	[!Mastery]$BuffGroup$ 계열 상태 이상인 적을 $Dead$ 만들때마다 $SP$가 $Value$ 증가합니다.	[!Mastery]每在使$BuffGroup$系列状态异常的敌人$Dead$时，将增加$Value$的$SP$。
+#24868	[!Mastery]$BuffGroup$ 계열 상태 이상인 적을 $Dead$ 만들때마다 $SP$가 $Value$ 증가합니다.	[!Mastery]每当使$BuffGroup$系列状态异常的敌人$Dead$时，将增加$Value$的$SP$。
 #24869	[!Mastery]노익장	[!Mastery]老当益壮
 #24870	[!Mastery]뜻을 품었으면 어려울수록 굳세어야 하며, 늙을수록 건장해야 한다.	[!Mastery]有志者，愈难愈强，愈老愈壮。
 #24871	[!Mastery]자신보다 레벨이 낮은 적을 공격할 경우, 적에게 주는 피해량이 $Value$ 증가합니다.	[!Mastery]攻击比自己等级低的对象时，给予敌人的伤害量将增加$Value$。
@@ -16669,7 +16669,7 @@
 #24928	[!Mastery]$Overcharge$ 상태가 해제되면 $Overcharge$ 상태에서 $Dead$으로 만든 적 수만큼 $SP$가 증가합니다.	[!Mastery]$Overcharge$的状态被解除的话，根据在$Overcharge$状态下使敌人$Dead$的个数将增加$SP$。
 #24929	[!Ability]잠겨진 상자 열기	[!Ability]打开锁着的箱子
 #24930	[!Ability]열쇠로 열기	[!Ability]使用钥匙打开
-#24931	[!Ability]강제로 열기	[!Ability]强行的打开
+#24931	[!Ability]강제로 열기	[!Ability]强行打开
 #24932	[!Ability]상자를 강제로 엽니다.	[!Ability]强行打开箱子。
 #24933	[!GameSystemMessageFormat]상자에 설치된 함정이 발동하여 상자 안의 물건이 모두 소각되었습니다.	[!GameSystemMessageFormat]因触发了安装在箱子里的陷阱，里面的东西都被烧毁。
 #24934	[!GameSystemMessageFormat]잿더미 야샤 전원 '$State$' 상태가 되었습니다.	[!GameSystemMessageFormat]灰烬夜叉全部进入了'$State$'状态。
