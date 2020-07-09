@@ -40,7 +40,6 @@
 #108	[!Ability]울부짖기	[!Ability]低吼
 #111	[!Ability]소이탄	[!Ability]燃烧弹
 #113	[!Ability]상자 열기	[!Ability]开箱
-#114	[!Ability]금고 열기	[!Ability]开金库
 #115	[!Ability]강철 장벽	[!Ability]钢铁墙壁
 #116	[!Ability]리프어택	[!Ability]跳跃攻击
 #118	[!Ability]번개폭풍	[!Ability]闪电风暴
@@ -360,8 +359,7 @@
 #747	[!GuideMessage]개조 가능한 아이템이 %d 개 있습니다.	[!GuideMessage]有%d个物品可进行改造。
 #749	[!GuideMessage]승급 가능한 아이템이 %d 개 있습니다.	[!GuideMessage]有%d个物品可进行升级。
 #750	[!GuideMessage]더 이상 사용이 불가능합니다.	[!GuideMessage]无法继续使用。
-#751	[!GuideMessage]사용할 수 있는 회사 이름입니다. (주의: 서버에서 중복 검사 후 등록에 실패할 수 있습니다.)	[!GuideMessage]该公司名可用。(注意：服务器端进行重复性检查后，可能会发生登录失败。)
-#756	[!GuideMessage]※ 시나리오 진행에 따라 특정 지역으로 이동이 봉쇄될 수 있습니다.	[!GuideMessage]※根据剧情的进行,向某些特定区域的移动可能会被锁定。
+#756	[!GuideMessage]※ 시나리오 진행에 따라 특정 지역으로 이동이 봉쇄될 수 있습니다.	[!GuideMessage]※ 根据剧情任务的进行，会被锁定特定区域的移动。
 #757	[!GuideMessage]인벤토리를 비우고 아이템을 수령하세요	[!GuideMessage]清空背包后接受物品。
 #758	[!GuideMessage]인벤토리가 가득 찼습니다!	[!GuideMessage]背包已满!
 #760	[!HitRateCondition]기본 명중률	[!HitRateCondition]基础命中率
@@ -2188,7 +2186,6 @@
 #4546	[!Ability]대상의 전원을 끕니다.	[!Ability]切断目标电源。
 #4548	[!Ability]대상을 해킹합니다.	[!Ability]黑客攻击目标。
 #4549	[!Ability]상자를 엽니다.	[!Ability]打开箱子。
-#4550	[!Ability]금고을 엽니다.	[!Ability]打开金库。
 #4552	[!Ability]대상을 구출합니다.	[!Ability]营救目标。
 #4553	[!Ability]대상을 수리합니다.	[!Ability]修理目标。
 #4554	[!Ability]대상을 구조합니다.	[!Ability]救出目标。
@@ -2458,7 +2455,6 @@
 #4953	[!Mastery]정보란 나는 알고 넌 알지 못할 때 가치를 지닌다.	[!Mastery]信息这东西在我知而你不知时就拥有了价值。
 #4954	[!Mastery]정보원	[!Mastery]情报员
 #4958	[!ObjectInfo]시민	[!ObjectInfo]市民
-#4968	[!ObjectInfo]라베스카	[!ObjectInfo]拉维斯卡
 #4969	[!ObjectInfo]회사원	[!ObjectInfo]公司职员
 #4970	[!ObjectInfo]미키	[!ObjectInfo]米琪
 #4971	[!Ability]아군에게 전투 상황을 알립니다.	[!Ability]向队友传送战斗现况。
@@ -4461,7 +4457,7 @@
 #8061	[!Loading]114 번 외곽 도로	[!Loading]114号外围道路
 #8063	[!Loading]악당과 포식자	[!Loading]恶徒和捕食者
 #8065	[!Loading]은빛 토끼 공원	[!Loading]银兔公园
-#8067	[!Loading]하염 없이 내리는 빗줄기	[!Loading]飘落不止的雨幕
+#8067	[!Loading]하염없이 내리는 빗줄기	[!Loading]飘落不止的雨幕
 #8069	[!Mission]무장 강도들을 소탕하시오.	[!Mission]请扫荡武装强盗。
 #8070	[!OptionInterface]드래그를 이용한 카메라 이동	[!OptionInterface]使用滚轮移动镜头
 #8071	[!OptionVideo]창 테두리 없음	[!OptionVideo]无边框
@@ -5115,7 +5111,7 @@
 #8978	[!Troublebook]113번 도로	[!Troublebook]113号外城道路
 #8979	[!Troublebook]국경 외곽 도로	[!Troublebook]国境外围道路
 #8980	[!Troublebook]까마귀부리 정류장	[!Troublebook]乌鸦喙停车场
-#8981	[!Troublebook]하염 없이 내리는 빗줄기	[!Troublebook]飘落不止的雨幕
+#8981	[!Troublebook]하염없이 내리는 빗줄기	[!Troublebook]飘落不止的雨幕
 #8982	[!Troublebook]제 1 장. 트러블슈터입니다.	[!Troublebook]第一章。我是纷争终结者。
 #8984	[!Troublebook]푸고 상점가	[!Troublebook]府谷商店街
 #8985	[!Troublebook]조각 맞추기	[!Troublebook]拼图
@@ -5145,7 +5141,7 @@
 #9010	[!Troublebook]아이린 출동!	[!Troublebook]艾琳出击!
 #9011	[!Troublebook]티마는 철의 숲 최상위 포식자였으나 인간이 철의 숲에 도로를 내면서 오랜 분쟁이 시작되었다. 이 분쟁은 한때 인간이 승리하는 것처럼 보였으나 한 차례의 세계 대전과 발할라 건국 등으로 인해 철의 숲 개발이 인간들의 관심사에서 멀어지되자 그 틈을 타 티마 무리는 살아남아 다시금 거대한 군락을 이룬다.	[!Troublebook]蒂玛曾是铁森林中最高级捕猎者，但是自从人类在铁森林里开了道路，就引发了长久的纷争。一时间，这种纷争由人类取得了胜利，但是后来经过一次世界大战和巴赫拉建国等事件，铁森林的开发逐渐从人们的视线中淡出时，蒂玛趁着这个机会存活了下来，并组成了巨大的群落。
 #9012	[!Troublebook]야수 티마	[!Troublebook]野兽蒂玛
-#9013	[!Troublebook]현장의 사람들은 이 날만큼은 범죄자들을 제압하여 발할라의 치안을 지켜낸 것을 기뻐할 수 없었다. 아무리 발달한 의료 기술이라도 이미 생을 달리한 사람을 살릴 수 는 없기 때문이다.	[!Troublebook]这一天现场的人们却无法因为制服罪犯并维护了巴赫拉的治安而高兴起来。因为就算是发达的医疗技术也无法挽回已经逝去的人们。
+#9013	[!Troublebook]현장의 사람들은 이날만큼은 범죄자들을 제압하여 발할라의 치안을 지켜낸 것을 기뻐할 수 없었다. 아무리 발달한 의료 기술이라도 이미 생을 달리한 사람을 살릴 수는 없기 때문이다.	[!Troublebook]这一天现场的人们却无法因为制服罪犯并维护了巴赫拉的治安而高兴起来。因为就算是发达的医疗技术也无法挽回已经逝去的人们。
 #9014	[!Troublebook]발할라의 빛이 되리라	[!Troublebook]成为巴赫拉之光
 #9015	[!Troublebook]빈민가 '앨리' 출신의 카터, 레톤, 레이, 헤이싱. 네 명의 친구들은 서로의 강한 운명의 끈을 따라 다시금 모이게 된다.	[!Troublebook]贫民街'艾丽'出身的卡特、莱顿、雷伊、黑星。这四位朋友依着各自的强大的命运之线，重新汇聚在一起。
 #9016	[!Troublebook]다시 만난 친구들	[!Troublebook]再会的朋友们
@@ -5552,7 +5548,7 @@
 #9636	[!Ability]불덩어리를 낙하시켜 목표 범위 내 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]投下火球给目标范围内的目标造成$DamageAmount$的$DamageType$伤害。
 #9637	[!Ability]최대 3개의 화염병을 동시에 던져 목표 범위 내 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]投掷至多3个火焰瓶给目标范围内的对象造成$DamageAmount$的$DamageType$伤害。
 #9638	[!Ability]전방의 적을 향해 강력한 검풍을 날려 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]向前方的敌人使用强烈的剑风造成$DamageAmount$的$DamageType$伤害。
-#9639	[!Ability]불꽃에 휩쌓인 발차기를 쉴 새 없이 연타하여 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]连续使用火花绕踢造成$DamageAmount$的$DamageType$伤害。
+#9639	[!Ability]불꽃에 휩싸인 발차기를 쉴 새 없이 연타하여 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]连续使用火花绕踢造成$DamageAmount$的$DamageType$伤害。
 #9640	[!Ability]번개 물결을 $Target$에게 날려 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]向$Target$飞出闪电水波造成$DamageAmount$的$DamageType$伤害。
 #9641	[!Ability]전방을 향한 강력한 태클로 돌진 방향의 모든 대상에게 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]向前方突进的强力的抢断攻击给该方向上的所有目标造成$DamageAmount$的$DamageType$伤害。
 #9642	[!Ability]땅을 박차고 튀어오르는 강력한 박치기로 $DamageAmount$의 $DamageType$ 피해를 입힙니다.	[!Ability]平地而起的强力的冲撞造成$DamageAmount$的$DamageType$伤害。
@@ -5825,7 +5821,7 @@
 #9992	[!WordCollection]특성판	[!WordCollection]天赋版
 #9993	[!WordCollection]추가	[!WordCollection]追加
 #9996	[!WordCollection]이름 변경	[!WordCollection]改变名字
-#9997	[!GuideMessage]현재 캐릭터의 특성판을 추가하려면 [colour='FFFFE959']$ItemName$[colour='FFFFFFFF'] 아이템이 $ItemCount$ 개 소모됩니다. 계속 진행하시겠습니까?	[!GuideMessage]你需要$ItemCount$个[colour='FFFFE959']$ItemName$[colour='FFFFFFFF']来为这个角色添加天赋版。要继续吗?
+#9997	[!GuideMessage]현재 캐릭터의 특성판을 추가하려면 [colour='FFFFE959']$ItemName$[colour='FFFFFFFF'] 아이템이 $ItemCount$ 개 소모됩니다. 계속 진행하시겠습니까?	[!GuideMessage]该角色添加天赋版需要消耗$ItemCount$个[colour='FFFFE959']$ItemName$[colour='FFFFFFFF']。要继续吗？
 #9998	[!WordCollection]새로운 특성판 추가	[!WordCollection]新的天赋版
 #9999	[!Item]자홍빛 파수꾼 자켓의 강화된 버전. 이능력에 대한 저항 처리가 탁월하다.	[!Item]守备军夹克的加强版。异能抗性尤为卓越。
 #10000	[!Item]자홍빛 야샤 운동화	[!Item]藏蓝色夜叉运动鞋
@@ -7207,7 +7203,7 @@
 #12079	[!BattleFormulaSharedCondition]온도: $Temperature$	[!BattleFormulaSharedCondition]温度: $Temperature$
 #12080	[!GuideMessage]야수와 같이 전투를 하면서 야수를 효과적으로 훈련하는 방법을 깨달았습니다.	[!GuideMessage]经过和野兽对战，领悟到更加有效地训练野兽的方法。
 #12081	[!GuideMessage]습득한 특성 $MasteryCount$ 개를 모두 추출합니다.	[!GuideMessage]提取全部$MasteryCount$个学习到的天赋。
-#12082	[!GuideMessage]계속 진행하시겠습니까?	[!GuideMessage]你想继续吗？
+#12082	[!GuideMessage]계속 진행하시겠습니까?	[!GuideMessage]要继续吗？
 #12083	[!GuideMessage]$NeedItem$ 아이템이 총 $NeedCount$ 개 소모됩니다.	[!GuideMessage]消耗$NeedItem$物品共$NeedCount$个。
 #12084	[!Item]드레이크 A의 강화형 버전. 사용성을 강화하였다.	[!Item]是德雷克A的加强版。提升了实用性。
 #12085	[!Item]드레이크 A	[!Item]德雷克A
@@ -7632,7 +7628,7 @@
 #13263	[!Mastery]강철의 야수	[!Mastery]钢铁野兽
 #13265	[!Mastery]나의 자부심이다.	[!Mastery]这是我的自豪。
 #13266	[!Mastery]이것이 나의 총이다.	[!Mastery]这是我的枪。
-#13267	[!Mastery]큰 그릇을 만드는 데는 시간이 오래 걸린다.	[!Mastery]制作一大碗需要很长的时间。
+#13267	[!Mastery]큰 그릇을 만드는 데는 시간이 오래 걸린다.	变得巨大化需要很长的时间。
 #13268	[!Mastery]대형종	[!Mastery]巨型种
 #13270	[!Mastery]강자이면 된다.	[!Mastery]只要能变成强者就行。
 #13271	[!Mastery]약육강식	[!Mastery]弱肉强食
@@ -8417,7 +8413,7 @@
 #14357	[!Buff]다음 공격 어빌리티에 피격된 대상은 $AddBuffName$ 상태가 됩니다.	[!Buff]下一次的攻击技能攻击的目标将会进入$AddBuffName$状态。
 #14358	[!Buff]$Yellow$공격 어빌리티 사용 시, 적이 전투불능이 되면 성공 여부와 상관없이 해제됩니다.	[!Buff]$Yellow$使用攻击技能时，若将敌人变为无法战斗，则无论成功与否均会被解除。
 #14359	[!Buff]먹이를 낚았습니다.	[!Buff]钓到猎物。
-#14361	[!Buff]적을 전투 불능으로 만들면, 다음 턴 대기 시간이 $ApplyAmountValue$ 감소합니다.	[!Buff]令敌人无法战斗，则回合冷却时间减少$ApplyAmountValue$。
+#14361	[!Buff]적을 전투 불능으로 만들면, 다음 턴 대기 시간이 $ApplyAmountValue$ 감소합니다.	[!Buff]若使敌人无法战斗时，则下个回合冷却时间将减少$ApplyAmountValue$。
 #14362	[!Buff]얼음 속성 피해를 입을 시 $AddBuffName$ 상태가 됩니다. 넉백 시, $ApplyAmountValue$칸 더 밀려납니다. 	[!Buff]受到寒冰属性的伤害时进入$AddBuffName$状态。发生击退时，额外再击退$ApplyAmountValue$格。
 #14363	[!Buff]분노의 불꽃	[!Buff]愤怒的火焰
 #14364	[!Buff]분노의 한기	[!Buff]愤怒的寒气
@@ -8630,7 +8626,7 @@
 #14699	[!ReputationPolicy]$Sector$ 임무 완료 시, 모든 지구의 평판이 $ApplyAmountValue$ 상승합니다.	[!ReputationPolicy]完成$Sector$的任务时，所有地区的评判上升$ApplyAmountValue$。
 #14700	[!ReputationPolicy]바람장벽 지구의 $SectorCitizen$들은 $Sector$를 통해 많은 범죄자들이 유입된다고 믿고 있습니다.	[!ReputationPolicy]风之墙壁地区的$SectorCitizen$们相信是通过$Sector$涌入大量的犯罪者。
 #14701	[!ReputationPolicy]검문	[!ReputationPolicy]检查
-#14702	[!ReputationPolicy]$Division$ 임무 수행 시, 트러블슈터 적 정보 획득률이 $ApplyAmountValue$ 증가합니다. 또한 미니맵에 영웅 등급 이상의 적 유닛의 위치가 표시됩니다.	[!ReputationPolicy]进行$Division$的任务时，纷争终结者的敌人信息获得率将增加$ApplyAmountValue$。并且会在小地图上标记出大于英雄级别的敌人单位位置。
+#14702	[!ReputationPolicy]$Division$ 임무 수행 시, 트러블슈터 적 정보 획득률이 $ApplyAmountValue$ 증가합니다. 또한 미니맵에 영웅 등급 이상의 적 유닛의 위치가 표시됩니다.	[!ReputationPolicy]$Division$任务进行时，纷争终结者敌人信息获得概率增加$ApplyAmountValue$。并且在小地图标记大于英雄级别的敌人单位位置。
 #14703	[!ReputationPolicy]$Sector$의 $SectorCitizen$들은  자신들이 목격한 정보를 $Troubleshooter$에게 적극적으로 제공합니다.	[!ReputationPolicy]$Sector$的$SectorCitizen$们将给$Troubleshooter$积极提供自己目击到的信息。
 #14704	[!ReputationPolicy]시민 제보	[!ReputationPolicy]市民举报
 #14705	[!ReputationPolicy]$Division$ 임무 완료 시, 모든 거주구의 평판이 $ApplyAmountValue$ 상승합니다.	[!ReputationPolicy]完成$Division$的任务时，所有居民区的评判上升$ApplyAmountValue$。
@@ -9566,7 +9562,7 @@
 #16026	[!GuideMessage]최대 출력이 부족해지므로 해제할 수 없습니다.	[!GuideMessage]最大功率不足，无法解除。
 #16027	[!GuideMessage]최대 출력을 초과했습니다.	[!GuideMessage]已超过最大功率。
 #16030	[!Item]고속 호버 장치 - 회피	[!Item]高速盘旋装置 - 闪避
-#16031	[!Loading]과거는 묻어두고...	[!Loading]埋没过去......
+#16031	[!Loading]과거는 묻어두고...	[!Loading]埋没过去...
 #16032	[!ObjectInfo]마츠우라	[!ObjectInfo]松浦
 #16033	[!ObjectInfo]아스카	[!ObjectInfo]明日香
 #16034	[!ObjectInfo]롱췐	[!ObjectInfo]龙泉
@@ -9762,9 +9758,9 @@
 #16262	[!Buff]해당 상태에서 턴 종료 시, $AddBuffName$ 상태가 됩니다.	[!Buff]该状态下结束回合时，会进入$AddBuffName$状态。
 #16263	[!Buff]부식독	[!Buff]腐蚀毒
 #16264	[!Buff]흉폭한 티마	[!Buff]凶暴的蒂玛
-#16265	[!Buff]돌진 이동을 하거나 돌진 공격으로 $ApplyAmountValue$칸 이상 이동하면 다음 턴 대기 시간이 $ApplyAmountValue2$만큼 줄어듭니다.	[!Mastery]以突击移动或突进攻击移动了$ApplyAmountValue$格以上时，回合冷却时间减少$ApplyAmountValue2$。
+#16265	[!Buff]돌진 이동을 하거나 돌진 공격으로 $ApplyAmountValue$칸 이상 이동하면 다음 턴 대기 시간이 $ApplyAmountValue2$만큼 줄어듭니다.	[!Mastery]以突击移动或突进攻击移动了$ApplyAmountValue$格以上时，下个回合冷却时间减少$ApplyAmountValue2$。
 #16266	[!Buff]재빠른 티마	[!Buff]敏捷的蒂玛
-#16267	[!Buff]적 공격 회피 시, 다음 턴 대기 시간이 $ApplyAmountValue$만큼 줄어듭니다.	[!Buff]闪避了敌人的攻击时，回合冷却时间减少$ApplyAmountValue$。
+#16267	[!Buff]적 공격 회피 시, 다음 턴 대기 시간이 $ApplyAmountValue$만큼 줄어듭니다.	[!Buff]闪避了敌人的攻击时，下个回合冷却时间减少$ApplyAmountValue$。
 #16268	[!Buff]영리한 티마	[!Buff]伶俐的蒂玛
 #16269	[!Buff]적에게 입는 피해량이 $ApplyAmountValue$ 감소합니다.	[!Mastery]敌人造成的伤害减少$ApplyAmountValue$。
 #16270	[!Buff]굳건한 티마	[!Buff]健壮的蒂玛
@@ -9895,11 +9891,9 @@
 #16442	[!Loading]꼬리 자르기	[!Loading]断尾求生
 #16443	[!Mastery]극풍	[!Mastery]极风
 #16444	[!Mission]메트로디움 거주구	[!Site]梅特罗迪翁居民区
-#16445	[!Mission]그림자 장벽 지하수로	[!Mission]影之墙壁地沟
 #16446	[!ObjectInfo]거미줄 드론	[!ObjectInfo]蜘蛛网无人机
 #16447	[!ObjectInfo]스푼교 폭풍술사	[!ObjectInfo]勺子教暴风术师
 #16450	[!Ability]제어권 해제	[!Ability]控制权解除
-#16451	[!Buff]모든 피해량에 대해 자신의 최대 체력보다 낮으면 피해를 입지 않습니다. 해당 상태가 해제되면 $Dead$이 됩니다.<br><br>$AddBuffName$$Perano$ 상태에 면역이 됩니다.	[!Buff]所有的伤害量比自己的最大体力值小的话不会受到伤害。该状态被解除时会$Dead$。<br><br>免疫$AddBuffName$$Perano$。
 #16452	[!ChatSubCategory]제작 방법 획득	[!ChatSubCategory]制作方法获得
 #16453	[!GuideMessage]해당 적이 보유한 아이템 중 일부를 제작할 수 있습니다.	[!GuideMessage]你可以制作这个怪物持有的一些道具。
 #16454	[!GuideMessage]이미 해당 몬스터로부터 얻을 수 있는 제작 가능한 아이템을 모두 제작할 수 있습니다.	[!GuideMessage]你已经能够制作这个怪物的所有道具了。
@@ -9981,7 +9975,6 @@
 #16571	[!ObjectInfo]잿더미 야샤	[!ObjectInfo]灰烬夜叉
 #16572	[!ObjectInfo]야수 관리인	[!ObjectInfo]野兽管理人
 #16573	[!ObjectInfo]작업대	[!WordCollection]工作台
-#16574	[!SystemMessage]오프라인 모드를 시작하지 못했습니다. 문제가 지속될 경우 system@dandylion.co.kr로 문의 부탁드립니다	[!SystemMessage]无法启动离线模式。若问题持续时，请向system@dandylion.co.kr质疑。
 #16575	[!SystemMenu]갤러리	[!SystemMenu]画廊
 #16576	[!WordCollection]야수 관리하기	[!WordCollection]管理野兽
 #16577	[!WordCollection]야수 데려오기	[!WordCollection]取回野兽
@@ -10118,7 +10111,7 @@
 #16731	[!GameSystemMessageFormat]주변의 지휘관을 잃은 백호파가 피로 상태가 됩니다.	[!Sentence][!FrontMessage]失去指挥官的白虎组成员进入疲劳状态。
 #16732	[!GameSystemMessageFormat]시온과 알버스의 체력이 50 감소하였습니다.	[!Sentence][!FrontMessage]席翁和阿尔伯斯的体力减少了50。
 #16733	[!GameSystemMessageFormat]알버스가 음료수를 사기 위해 1 Vill을 사용합니다.	[!Sentence][!FrontMessage]阿尔伯斯为购买饮料花费了1Vill。
-#16734	[!GameSystemMessageFormat]알버스가 음료수를 사서 운송업자 리에게 건네줍니다.	[!Sentence][!FrontMessage]阿尔伯斯买来饮料递给运输业从业者李。
+#16734	[!GameSystemMessageFormat]알버스가 음료수를 사서 운송업자 리에게 건네줍니다.	[!Sentence][!FrontMessage]阿尔伯斯买来饮料递给配送人员李。
 #16735	[!GameSystemMessageFormat]시온을 발견한 스푼교도가 겁에 질려 공포 상태가 되었습니다.	[!Sentence][!FrontMessage]勺子教教徒发现了席翁后因为恐惧而变成了恐怖状态。
 #16736	[!GameSystemMessageFormat]현장의 모든 적을 제압하였습니다.	[!Sentence][!FrontMessage]制服了现场的所有敌人。
 #16737	[!GameSystemMessageFormat]시민 구조에 실패하였습니다.	[!Sentence][!FrontMessage]救助市民失败。
@@ -10723,19 +10716,19 @@
 #17567	[!Ability]불꽃 베기	[!Ability]火花斩
 #17568	[!Ability]불꽃 파괴검	[!Ability]火花破坏剑
 #17569	[!Item]칠흑의 펄스 블레이드	[!Item]漆黑的脉冲剑
-#17570	[!Item]동방 연합으로 원정 도박을 와 많은 돈을 잃고 사채를 끌어다 쓴 아테르 제국 기사단장이 모든 것이 사기라며 난동을 부리자 도박장의 관리를 총괄하던 육연향은 기사단장을 막아선다. 흥분한 기사단장은 황제가 하사한 검은 색의 펄스 블레이드를 꺼내 육연향을 베려고 했으나 그의 팔은 순식간에 그의 어깨에서 떨어져 땅에 툭 하고 떨어진다. "정말 좋은 검이군. 준다면 내가 쓰지."	从东方联盟远征来赌博，却输了很多的钱并借了高利贷的阿泰尔帝国骑士团长大发雷霆，闹事捣乱，声称一切都是诈骗，导致管理赌场的肉烟香不得不来阻止。激动过头的骑士团长拿出皇帝赐予的漆黑的脉冲剑，准备砍向肉烟香，但他的手臂瞬间从他的肩膀上掉下来，啪啪地掉在地上。"真是把好剑，让我来用吧。"
+#17570	[!Item]동방 연합으로 원정 도박을 와 많은 돈을 잃고 사채를 끌어다 쓴 아테르 제국 기사단장이 모든 것이 사기라며 난동을 부리자 도박장의 관리를 총괄하던 육연향은 기사단장을 막아선다. 흥분한 기사단장은 황제가 하사한 검은 색의 펄스 블레이드를 꺼내 육연향을 베려고 했으나 그의 팔은 순식간에 그의 어깨에서 떨어져 땅에 툭 하고 떨어진다. "정말 좋은 검이군. 준다면 내가 쓰지."	到东方联盟远征来赌博，却输了很多的钱并借了高利贷的阿泰尔帝国骑士团长大发雷霆，闹事捣乱，声称一切都是诈骗，导致管理赌场的陆延香不得不来阻止。激动过头的骑士团长拿出皇帝赐予的漆黑的脉冲剑，准备砍向陆延香，但他的手臂瞬间从他的肩膀上掉下来，啪啪地掉在地上。"真是把好剑，让我来用吧。"
 #17571	[!Mastery]마검 제어	[!Mastery]控制魔剑
 #17572	[!Mastery]승부는 찰나.	[!Mastery]胜负在刹那。
 #17574	[!Mastery]마검 장막	[!Mastery]魔剑帷幕
 #17575	[!Mastery]마력을 담은 검은 이능조차 베어버린다.	[!Mastery]附有魔力的剑连异能也砍的掉。
 #17577	[!Mastery]상처 태우기	[!Mastery]烧掉伤口
 #17578	[!Mastery]고통은 배가 되리라.	[!Mastery]痛苦将加倍。
-#17580	[!ObjectInfo]육연향	肉烟香
+#17580	[!ObjectInfo]육연향	陆延香
 #17581	[!ObjectInfo]체체	[!ObjectInfo]采采
-#17582	[!NamedEvent]갈취의 육연향	巧取豪夺的肉烟香
+#17582	[!NamedEvent]갈취의 육연향	巧取豪夺的陆延香
 #17583	[!NamedEvent]쓸만한 걸 가지고 있겠지?	[!NamedEvent]你身上带着值钱的东西吧？
 #17584	[!NamedEvent]네 목숨 값은 비싸게 계산해야겠군.	[!NamedEvent]你的命应该挺值钱的。
-#17585	[!GameSystemMessageFormat]육연향이 카일리를 최우선 목표로 삼습니다.	肉烟香把凯利当作最优先目标。
+#17585	[!GameSystemMessageFormat]육연향이 카일리를 최우선 목표로 삼습니다.	陆延香把凯利当作最优先目标。
 #17586	[!Mastery]마검술사	[!Mastery]魔剑术师
 #17587	[!Mastery]마검은 스스로 주인을 선택한다.	[!Mastery]魔剑己选择主人。
 #17589	[!Ability]물의 가호를 받은 아군은 $ApplyBuff$ 상태가 됩니다.	[!Ability]得到水之护佑的队友将进入$ApplyBuff$状态。
@@ -11231,7 +11224,6 @@
 #18123	[!Mastery]재빠른 준비	[!Mastery]迅速的准备
 #18124	[!Mastery]최고의 결과를 위해 미리 준비한다.	[!Mastery]为了最好的结果而提前准备。
 #18126	[!Mastery]반이능탄	[!Mastery]反异能弹
-#18127	[!Mastery]적을 알고 나를 알면 백전 백승.	[!Mastery]知彼知己，百战不殆
 #18128	[!Mastery]시간차 투척	[!Mastery]时间差投掷
 #18129	[!Mastery]한계를 인정하는 순간 새로운 기회가 주어진다.	[!Mastery]承认界限的瞬间就会有新的机会。
 #18132	[!ObjectInfo]스푼교 척탄병	[!ObjectInfo]勺子教掷弹兵
@@ -11383,10 +11375,10 @@
 #18339	[!PerformanceEffect]정교한 춤	[!PerformanceEffect]精巧的舞法
 #18340	[!PerformanceEffect]경쾌한 춤	[!PerformanceEffect]轻快的舞法
 #18342	[!PerformanceEffect]화려한 춤	[!PerformanceEffect]华丽的舞法
-#18343	[!PerformanceFinish]반경 $ApplyAmountValue$칸 내, 적은 다음 턴 대기 시간이 $ApplyAmountValue2$ 증가합니다.	[!PerformanceFinish]半径$ApplyAmountValue$格内，敌人的回合冷却时间将增加$ApplyAmountValue2$。
+#18343	[!PerformanceFinish]반경 $ApplyAmountValue$칸 내, 적은 다음 턴 대기 시간이 $ApplyAmountValue2$ 증가합니다.	[!PerformanceFinish]半径$ApplyAmountValue$格内，敌人的下个回合冷却时间将增加$ApplyAmountValue2$。
 #18344	[!PerformanceFinish]반경 $ApplyAmountValue$칸 내, 적의 SP가 $ApplyAmountValue2$ 감소합니다.	[!PerformanceFinish]半径$ApplyAmountValue$格内，敌人的SP将减少$ApplyAmountValue2$点。
 #18345	[!PerformanceFinish]반경 $ApplyAmountValue$칸 내, 적은 $ApplyBuffName$ 상태가 됩니다.	[!PerformanceFinish]半径$ApplyAmountValue$格内，敌人将进入$ApplyBuffName$状态。
-#18346	[!PerformanceFinish]반경 $ApplyAmountValue$칸 내, 아군의 다음 턴 대기 시간이 $ApplyAmountValue2$ 감소합니다.	[!PerformanceFinish]半径$ApplyAmountValue$格内，队友的回合冷却时间将减少$ApplyAmountValue2$。
+#18346	[!PerformanceFinish]반경 $ApplyAmountValue$칸 내, 아군의 다음 턴 대기 시간이 $ApplyAmountValue2$ 감소합니다.	[!PerformanceFinish]半径$ApplyAmountValue$格内，队友的下个回合冷却时间将减少$ApplyAmountValue2$。
 #18347	[!PerformanceFinish]반경 $ApplyAmountValue$칸 내, 아군의 SP가 $ApplyAmountValue2$ 증가합니다.	[!PerformanceFinish]半径$ApplyAmountValue$格内，队友的SP将增加$ApplyAmountValue2$点。
 #18348	[!PerformanceFinish]반경 $ApplyAmountValue$칸 내, 아군은 $ApplyBuffName$ 상태가 됩니다.	[!PerformanceFinish]半径$ApplyAmountValue$格内，队友将进入$ApplyBuffName$状态。
 #18349	[!PerformanceGreat]놀람	[!PerformanceGreat]惊讶
@@ -11397,7 +11389,7 @@
 #18355	[!PerformanceGreat]위압	[!PerformanceGreat]威压
 #18356	[!PerformanceGreat]현란	[!PerformanceGreat]绚烂
 #18357	[!PerformanceGreat]폭발	[!AbilityDamageType]爆炸
-#18358	[!PerformanceGreat]두 개의 공연 효과가 교차 반복할 경우, 반경 $ApplyAmountValue$칸 내, 적은 다음 턴 대기 시간이 $ApplyAmountValue2$ 증가합니다.	[!PerformanceGreat]两个演出属性交替反复时，半径$ApplyAmountValue$格内敌人的回合冷却时间将增加$ApplyAmountValue2$。
+#18358	[!PerformanceGreat]두 개의 공연 효과가 교차 반복할 경우, 반경 $ApplyAmountValue$칸 내, 적은 다음 턴 대기 시간이 $ApplyAmountValue2$ 증가합니다.	[!PerformanceGreat]两个演出属性交替反复时，半径$ApplyAmountValue$格内敌人的下个回合冷却时间将增加$ApplyAmountValue2$。
 #18359	[!Status]공연 슬롯	[!Status]演出栏
 #18360	[!Status][!Short]공연 슬롯	[!Status]演出栏
 #18361	[!Troublebook]까마귀폐허 지하수로	[!Troublebook]乌鸦废墟地沟
@@ -12716,8 +12708,6 @@
 #19968	[!Mastery]하나가 꺼지면 또 하나의 불꽃이 타오른다.	[!Mastery]一个火花熄灭，另一个又会重新点燃。
 #19970	[!Mastery]맹장의 기백	[!Mastery]猛将的气魄
 #19971	[!Mastery]대중을 열광시키기 위한 사람은 단 한 명이면 충분하다.	[!Mastery]让大众狂热的只要一个人就够了。
-#19973	[!Mastery]절정의 기백	[!Mastery]绝顶的气魄
-#19974	[!Mastery]이 순간을 위해 살아왔다.	[!Mastery]为了这一瞬间而活着。
 #19977	[!SnipeType]센서	[!ItemType]传感器
 #19978	[!Craft]전체	[!WordCollection]全体
 #19979	[!Craft_Machine]전체	[!WordCollection]全体
@@ -12765,7 +12755,7 @@
 #20061	[!Buff]매우 기운참	[!Buff]很有干劲
 #20062	[!Buff]완전 기운참	[!Buff]充满干劲
 #20063	[!Buff]즐거움	[!Buff]愉快
-#20064	[!Buff]아이템, 특성 획득률이 $ApplyAmountValue$ 증가합니다.	[!Buff]物品和天赋的获得率将增加$ApplyAmountValue$。
+#20064	[!Buff]아이템, 특성 획득률이 $ApplyAmountValue$ 증가합니다.	[!Buff]物品和天赋的获得概率将增加$ApplyAmountValue$。
 #20065	[!Buff]매우 즐거움	[!Buff]很愉快
 #20066	[!Buff]완전 즐거움	[!Buff]非常愉快
 #20067	[!Buff]상쾌함	[!Buff]舒畅
@@ -13006,13 +12996,9 @@
 #20456	[!Quest]어둠 속의 불청객	[!Quest]黑暗中的不速之客
 #20457	[!Quest]지하 주차장의 야샤를 처리하시오.	[!Quest]处理地下停车场的夜叉。
 #20462	[!QuestDesc]$Person(Roberto)$[은] 은빛 구름 지하 주차장에 나타난 $Job(Yasha)$를 처리하는 데 협력해달라고 요청한다.	[!QuestDesc]$Person(Roberto)$请求协助处理银色云彩地下停车场出现的$Job(Yasha)$。
-#20463	[!QuestDesc]$JPerson(AL)$[은] 철의 숲에 서식하는 $Monster(Beast_Tima_Magma)$의 불타는 용암 가죽을 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(AL)$要求从铁森林栖息的$Monster(Beast_Tima_Magma)$身上采取燃烧的熔岩皮革。
-#20464	[!QuestDesc]$JPerson(AL)$[은] 철의 숲에 서식하는 $Monster(Beast_Tima_Spark)$의 빛나는 번개 가죽을 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(AL)$要求从铁森林栖息的$Monster(Beast_Tima_Spark)$身上采取明亮的闪电皮革。
-#20465	[!QuestDesc]$JPerson(AL)$[은] 철의 숲에 서식하는 $Monster(Beast_Tima_Glacier)$의 온전한 얼음 가죽을 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(AL)$要求从铁森林栖息的$Monster(Beast_Tima_Glacier)$身上采取完整的寒冰甲。
 #20466	[!Site]은빛 구름 지하주차장	[!Site]银色云彩地下停车场
 #20467	[!Ability]바람의 힘을 이용해 원하는 지점으로 빠르게 이동합니다.	[!Ability]利用风之力迅速移动到目标地点。
 #20468	[!Ability]번개가 되어 원하는 지점으로 순간 이동합니다.	[!Ability]]化作闪电瞬间移动至想要去的地点。
-#20469	[!Ability]다리에 힘을 집중하여 순간적으로 목표 지점까지 빠른 이동을 합니다. 이동 시 비전투 상태 적의 대기, 순찰, 감시 등의 상태의 적에게 발각되어도 적은 회피 이동을 할 수 없습니다.	[!Ability]汇聚风的力量,瞬间快速移动到目标地点。移动过程中，就算被等待、巡逻、监视状态中的非战斗状态敌人发现，对方也不能进行闪避移动。
 #20470	[!Ability]원하는 지점으로 덤블링하여 이동합니다.	[!Ability]空翻移动至想要去的地点。
 #20471	[!Ability]드론의 힘을 이용해 원하는 지점으로 빠르게 이동합니다.	[!Ability]利用无人机来快速移动到想要的位置。
 #20472	[!Ability]날아올라 원하는 지점으로 빠르게 이동합니다.	[!Ability]飞起并迅速移动到目标地点。
@@ -13503,7 +13489,6 @@
 #21033	[!Mastery]모든 장비한 아이템 어빌리티의 사용 가능 횟수가 $Value$ 증가합니다.	[!Mastery]所有装备物品技能的可使用次数将增加$Value$。
 #21034	[!Mastery]$Mastery$ 발동 시, 사용 제한 회수가 $Value$ 추가 증가합니다.	[!Mastery]$Mastery$发动时，使用限制次数将额外增加$Value$。
 #21035	[!Mastery]$CounterAttack$ 혹은 $ResponsiveAttack$이 발동하면, $ActionTime$이 $Value$ 감소합니다.	[!Mastery]$CounterAttack$或$ResponsiveAttack$发动时，$ActionTime$将减少$Value$。
-#21036	[!Mastery]적과의 전투 시, 다음 특성에 대한 추가 보너스 상태를 획득합니다.	[!Mastery]与敌人战斗时，以下天赋将获得的额外奖励效果。
 #21037	[!Mastery]반경 $Value$칸 범위 내 아군이 없는 상황에서 적을 공격하면, $ActionTime$이 $Value2$ 감소합니다.	[!Mastery]半径$Value$格范围内不存在友军的情况下攻击敌人时，$ActionTime$将减少$Value2$。
 #21038	[!Mastery]반경 $Value$칸 범위 내 아군이 없는 상황에서 적에게 공격을 당할 경우, 자신이 받는 피해량이 $Value2$ 감소합니다.	[!Mastery]半径$Value$格范围内不存在友军的情况下受到敌人的攻击时，自身所受到的伤害量将减少$Value2$。
 #21040	[!Mastery]$Buff2$ 발생 효과가 $Buff$ 발생 효과로 변경되며 발생 확률이 $Value$ 증가합니다.	[!Mastery]$Buff2$效果将变成$Buff$效果，并且使触发几率提高$Value$。
@@ -13590,7 +13575,7 @@
 #21128	[!Mastery]$Ability$로 $Machine$ 혹은 $HeavyArmored$에게 공격을 적중시키면, 해당 적은 $Buff$ 상태가 됩니다.	[!Mastery]使用$Ability$攻击击中$Machine$或$HeavyArmored$时，该敌人将触发$Buff$状态。
 #21129	[!Mastery]중갑을 입은 적	[!Mastery]穿重甲的敌人
 #21130	[!Mastery]$Ability$로 $Machine$ 혹은 $HeavyArmored$에게 공격할 경우, $Stat$[이] $Value$ 증가합니다.	[!Mastery]使用$Ability$攻击$Machine$或$HeavyArmored$时，$Stat$将增加$Value$。
-#21132	[!Mastery]적의 공격으로부터 엄폐가 적용 될 경우, 자신이 받는 피해량이 $Value$ 감소합니다.	[!Mastery]受到敌人攻击且隐蔽效果生效时，自身受到的伤害量将减少$Value$。
+#21132	[!Mastery]적의 공격으로부터 엄폐가 적용 될 경우, 자신이 받는 피해량이 $Value$ 감소합니다.	[!Mastery]隐蔽适用于敌人的攻击时，自身受到的伤害量将减少$Value$。
 #21133	[!Mastery]$Mastery$의 발동 가능 횟수가 $Value$회 증가합니다.	[!Mastery]$Mastery$的可发动次数将增加$Value$回。
 #21134	[!Mastery]적의 공격으로부터 엄폐가 적용되는 위치에서 해당 적을 공격할 경우, 자신이 주는 피해량이 $Value$ 증가합니다.	[!Mastery]自身处在被敌人攻击时隐蔽效果生效的位置时，自身对该敌人造成的伤害量将增加$Value$。
 #21136	[!Mastery]$Ability$ 사용 시, 해당 대상은 $Vigor$을 $Value$ 추가 회복합니다.	[!Mastery]使用$Ability$时，目标将额外恢复$Value$的$Vigor$。
@@ -13711,8 +13696,6 @@
 #21271	[!Mastery]물 공격 어빌리티	[!Mastery]水攻击技能
 #21272	[!Mastery]$BuffGroup$ 계열 상태 이상인 적을 $Dead$ 만들 때마다 $ActionTime$이 $Value$ 감소하며 어빌리티 재사용 대기 시간이 $Value2$턴 감소합니다.	[!Mastery]每当使$BuffGroup$系列异常状态的敌人$Dead$时，将减少$Value$的$ActionTime$并减少$Value2$回合的技能冷却时间。
 #21275	[!Mastery]자신보다 레벨이 낮은 적에게 치명타를 적중시키면, 해당 적의 $SP$가 $Value$ 감소합니다.	[!Mastery]对比自己等级低的敌人造成暴击时，该敌人的$SP$将减少$Value$。
-#21276	[!Mastery]자신의 턴이 시작할 때마다 현재 사용하고 있는 $Type$ 특성 개수만큼 $SP$가 증가합니다.	[!Mastery]每当开始自己的行动回合时，将根据现在所使用的$Type$天赋的个数来增加$SP$。
-#21277	[!Mastery]$Overcharge$ 상태가 해제되면 $Overcharge$ 상태에서 $Dead$으로 만든 적 수만큼 $SP$가 증가합니다.	[!Mastery]$Overcharge$状态被解除时，根据在$Overcharge$期间使敌人$Dead$的人数来增加$SP$。
 #21278	[!Mastery]다음 모듈에 대한 추가 보너스 상태를 획득합니다.	[!Mastery]以下模块获得额外加成效果。
 #21279	[!Mastery]$RushMove$ 혹은 $RushAttack$으로 $Value$칸 이상 이동할 경우, 모든 $ResponsiveAttack$을 회피합니다.	[!Mastery]使用$RushMove$或$RushAttack$要移动$Value$格以上时，将回避所有的$ResponsiveAttack$。
 #21280	[!Mastery]돌진 이동	[!Help]突进移动
@@ -13803,7 +13786,7 @@
 #21377	[!Mastery]$Fuel$가 고갈되면 $Buff$ 상태가 됩니다.	[!Mastery]$Fuel$枯竭后，将进入$Buff$状态。
 #21378	[!Mastery]적 정보량에 따른 전투 효과가 $Value$ 증가합니다.	[!Mastery]根据敌人的情报量阶段而获得的战斗加成效果将增加$Value$。
 #21379	[!Mastery]자신이 받는 피해의 속성과 이전에 받은 피해의 속성이 동일하면, 현재 자신이 받는 피해량이 $Value$ 감소합니다.	[!Mastery]自己受到的伤害属性与之前相同时，现在自身所受到的伤害量将减少$Value$。
-#21380	[!Mastery]아군의 이전 공격을 회피 혹은 방어한 적을 공격할 경우, $Stat$, $Stat2$[이] $Value$ 증가합니다.	[!Mastery]攻击闪避或格挡了队友攻击的敌人时，$Stat$、$Stat2$将增加$Value$。
+#21380	[!Mastery]아군의 이전 공격을 회피 혹은 방어한 적을 공격할 경우, $Stat$, $Stat2$[이] $Value$ 증가합니다.	[!Mastery]攻击闪避或格挡了友军攻击的敌人时，$Stat$、$Stat2$将增加$Value$。
 #21382	[!Mastery]$ActionPoint$을 $Value$ 회복합니다.	[!Mastery]将恢复$Value$的$ActionPoint$。
 #21383	[!Mastery]모든 어빌리티 재사용 대기 시간이 $Value$ 감소합니다	[!Mastery]所有技能冷却时间将减少$Value$。
 #21384	[!Mastery]$Fuel$를 $Value$ 소모합니다.	[!Mastery]将消耗$Value$的$Fuel$。
@@ -13909,7 +13892,6 @@
 #21504	[!Mastery]엄폐 상태에서 적의 공격을 회피하면, $ActionTime$이 $Value$ 감소합니다.	[!Mastery]隐蔽状态下闪避敌人的攻击时，$ActionTime$将减少$Value$。
 #21505	[!Mastery]$Ability$ 사용 시, $Vigor$을 $Value$ 회복합니다.	[!Mastery]使用$Ability$时，将恢复$Value$的$Vigor$。
 #21506	[!Mastery]대기 어빌리티	[!Mastery]等待技能
-#21507	[!Mastery]시야 내 아군이 $Dead$이 되면, 바로 자신의 턴이 됩니다.	[!Mastery]视野内的队友$Dead$时，立刻获得自己的行动回合。
 #21510	[!Mastery]매 $Value$턴마다 $Buff$ 상태가 됩니다.	[!Mastery]每$Value$回合进入$Buff$状态。
 #21511	[!Mastery]$Type$ 계열 아이템 등급에 따라 다음과 같은 효과가 발생합니다.	[!Mastery]根据$Type$系列物品的级别将产生如下效果。
 #21512	[!Mastery]$Rank$ 등급 이상의 아이템 습득 확률이 $Value$ 증가합니다.	[!Mastery]$Rank$品质以上的物品获得率将增加$Value$。
@@ -14146,7 +14128,7 @@
 #21788	[!Mastery]$Ability$로 적에게 치명타를 적중시키면, 해당 적은 모든 $Ability2$의 재사용 대기 시간이 $Value$턴 증가합니다.	[!Mastery]$Ability$对敌人造成暴击时，该对象的所有$Ability2$的冷却时间将增加$Value$回合。
 #21790	[!Mastery]$Explosion$에 의해 피해를 입은 대상은 폭발한 대상이 가지고 있던 $BuffGroup$ 계열 상태 이상에 감염됩니다.	[!Mastery]因$Explosion$受到伤害的对象会被爆炸对象所携带的$BuffGroup$系列状态所感染。
 #21791	[!Mastery]자신보다 레벨이 낮은 적을 공격할 경우, 적의 $Stat$[와] $Stat2$[이] $Value$ 감소합니다.	[!Mastery]攻击比自己等级低的敌人时，该敌人的$Stat$和$Stat2$将减少 $Value$。
-#21793	[!Mastery]$Beast$인 적으로부터 받는 피해량이 $Value$ 감소합니다.	[!Mastery]从$Beast$类敌人处受到的伤害量将减少$Value$。
+#21793	[!Mastery]$Beast$인 적으로부터 받는 피해량이 $Value$ 감소합니다.	[!Mastery]从$Beast$类敌人受到的伤害将减少$Value$。
 #21795	[!Mastery]$WeatherEffect$의 상태 이상에 면역이 됩니다.	[!Mastery]将免疫$WeatherEffect$的异常状态。
 #21796	[!Mastery]날씨 효과	[!LoadingDesc]天气效果
 #21797	[!Mastery]$Type$ 아이템의 사용 가능 횟수가 $Value$ 증가합니다.	[!Mastery]$Type$物品的可使用的次数将增加$Value$。
@@ -14216,7 +14198,7 @@
 #21874	[!Mastery]$Ability$로 적을 공격할 경우, 다음과 같은 효과가 발생합니다.	[!Mastery]用$Ability$攻击敌人时，将发生如下效果。
 #21875	[!Mastery]남은 $Stat$ $Value$ 당 $Stat2$[이] $Value2$ 증가합니다.	[!Mastery]每$Value$剩下的$Stat$，$Stat2$将增加$Value2$。
 #21876	[!Mastery]남은 $Stat$ $Value$ 당 $Stat2$[이] $Value2$ 감소합니다.	[!Mastery]每$Value$剩下的$Stat$，$Stat2$将减少$Value2$。
-#21877	[!Mastery]자신의 턴이 아닌 상황에서 적이 자신의 반경 $Value$칸 안으로 이동해 오거나 근접한 적이 $Ability$를 사용할 경우, $Value$회에 한하여 해당 적에게 $ResponsiveAttack$을 합니다.	[!Mastery]非自身回合的状态下敌人接近到周围半径$Value$格内或该范围内的敌人使用$Ability$时，发动$ResponsiveAttack$攻击该敌人，至少可发动$Value$次。
+#21877	[!Mastery]자신의 턴이 아닌 상황에서 적이 자신의 반경 $Value$칸 안으로 이동해 오거나 근접한 적이 $Ability$를 사용할 경우, $Value$회에 한하여 해당 적에게 $ResponsiveAttack$을 합니다.	[!Mastery]非自身回合的状态下敌人接近到周围半径$Value$格内或该范围内的敌人使用$Ability$时，发动$ResponsiveAttack$攻击该敌人，最多可发动$Value$次。
 #21878	[!Mastery]다음 레벨 상승을 위해 필요로 하는 경험치량의 $Value$ 이상 획득 시	[!Mastery]获得升到下一级所需要的经验值中的$Value$以上经验时
 #21879	[!Mastery]$Ability$로 주는 피해량이 현재 사용하고 있는 $Type$ 특성 $Value$개 당 $Value2$ 증가합니다.	[!Mastery]每$Value$个现在所使用的$Type$天赋将增加$Value2$的$Ability$所造成的伤害量。
 #21880	[!Mastery]$BuffGroup$ 계열 상태 이상인 적에게 주는 피해량이 $Value$ 증가합니다.	[!Mastery]向$BuffGroup$系列异常状态的敌人给予的伤害量将增加$Value$。
@@ -14269,7 +14251,6 @@
 #21931	[!Mastery]$Buff$ 상태에서 $Group$ 소속의 적을 공격하여 $Dead$으로 만들때마다 $Value$ 확률로 무작위의 상태 효과가 발생합니다.	[!Mastery]在$Buff$状态时攻击属于$Group$的敌人并使其$Dead$时， 将以$Value$的几率触发随机正面状态效果。
 #21932	[!Mastery]무작위의 상태 효과가 됩니다.	[!Mastery]将触发随机的正面状态效果。
 #21933	[!Mastery]현재 사용하고 있는 $Type$ 특성 $Value$개 당 $Stat$, $Stat2$[이] $Value2$ 증가합니다.	[!Mastery]每$Value$个现在所使用的$Type$天赋将增加$Value2$的$Stat$, $Stat2$。
-#21934	[!Mastery]시야 내 아군이 없는 상황에서 적으로부터 공격을 받으면, 현재 사용하고 있는 $Type$ 특성 $Value$개 당 $Stat$[이] $Value2$ 증가합니다.	[!Mastery]视野内不存在友军的状态下受到敌人的攻击时，每$Value$个$Type$天赋将增加$Value2$的$Stat$。
 #21935	[!Mastery]자신의 잃은 체력 $Value$ 당 $ActionTime$이 $Value2$ 감소합니다.	[!Mastery]每$Value$的自身所损失的体力将减少$Value2$的$ActionTime$。
 #21936	[!Mastery]$ActionTime$이 $Value$ 이상이면 무작위의 상태 효과가 됩니다.	[!Mastery]$ActionTime$超过$Value$时, 将触发随机的正面状态效果。
 #21937	[!Mastery]$Buff$ 지형 페널티를 받지 않습니다.	[!Mastery]不受$Buff$地形限制。
@@ -14340,7 +14321,6 @@
 #22002	[!Mastery]근접한 적이 자신이 아닌 아군을 공격할 경우, 해당 적에게 $ResponsiveAttack$을 합니다.	[!Mastery]近身的敌人攻击其他队友时，将会发动$ResponsiveAttack$该敌人。
 #22003	[!Mastery]$Buff$ 상태에서 적에게 발각되면, 해당 적에게 $ResponsiveAttack$을 합니다.	[!Mastery]在$Buff$状态下被敌人发现时，将会对该敌人发动$ResponsiveAttack$。
 #22004	[!Mastery]$Ability$, $Ability2$, $Ability3$ 사용 시, 자신과 먹잇감이 비전투 상태 적의 $State$, $State2$, $State3$ 등의 영역에 노출되어도 발각되지 않습니다.	[!Mastery]使用$Ability$、$Ability2$、$Ability3$技能时，即使身处敌人的$State$、$State2$、$State3$范围内，自身和猎物也不会被发觉。
-#22005	[!SystemMessage]<br><tab><br>문제 상황이 지속되는 경우 개발팀 공식 메일 (system@dandylion.co.kr)을 통해서 알려주시거나<br><br>$SteamDiscussionLink$에 문의해 주시면 바로 문제 해결에 도움을 드리겠습니다. <br><br>불편을 드려 대단히 죄송합니다.	[!SystemMessage]<br><tab><br>如果问题持续存在，请通过开发组官方邮箱(system@dandylion.co.kr)告知<br><br>或向$SteamDiscussionLink$咨询即可帮助解决问题。<br><br>给您带来不便，真是万分抱歉。
 #22006	[!SystemMessage]스팀 포럼 페이지	[!SystemMessage]Steam页面
 #22007	[!Mastery]빗나간 죽음	[!Mastery]避开的死亡
 #22008	[!Mastery]오래 살려면 운이 좋아야 해.	[!Mastery]要想活得长久，就得运气好。
@@ -15216,8 +15196,6 @@
 #22930	[!Quest]보석 확보 요청 - $TargetItem$	[!Quest]要求确保宝石 - $TargetItem$
 #22931	[!QuestDesc]$Person(Roberto)$[은] $Person(Irene)$의 능력을 시험해 보고 싶어한다.	[!QuestDesc]$Person(Roberto)$想要测试$Person(Irene)$的实力。
 #22932	[!QuestDesc]$Person(Roberto)$[은] $Person(Anne)$의 능력을 시험해 보고 싶어한다.	[!QuestDesc]$Person(Roberto)$想要测试$Person(Anne)$的实力。
-#22937	[!QuestDesc]$JPerson(AL)$[은] 철의 숲에 서식하는 $Monster(Beast_Spider_Poison2_Mutation)$의 돌연변이 맹독 가죽을 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(AL)$要求取到栖息在铁森林的$Monster(Beast_Spider_Poison2_Mutation)$的突变剧毒皮。
-#22939	[!QuestDesc]$JPerson(AL)$[은] 철의 숲에 서식하는 $Monster(Beast_Bat_Wind_Leader)$의 오색 왕도로리 가죽을 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(AL)$要求取到栖息在铁森林的$Monster(Beast_Bat_Wind_Leader)$的五色多罗利王的皮。
 #22940	[!QuestDesc]$JPerson(Oleg)$[는] 메트로디움 거주구로 흘러 들어간 자신의 화물을 회수해 달라고 요청한다.	[!QuestDesc]$JPerson(Oleg)$要求回收自己的流入梅特罗迪翁居民区的货物。
 #22941	[!QuestDesc]$JPerson(Hundred)$[는] 자홍 거리에 방치된 폐기된 강화 드론의 부품을 회수해 달라고 요청한다.	[!QuestDesc]$JPerson(Hundred)$要求回收放置在紫红街的被废弃的强化无人机的部件。
 #22944	[!QuestDesc]$JPerson(Dembel)$[는] $Org(Spoon)$[로] 입교한 $Org(AngryBull)$ 조직원이 가지고 있는 시곗줄을 찾아달라고 부탁한다.<br><br>목표 대상: $Monster(Gangster_SpoonFighter)$, $Monster(Gangster_SpoonSword)$, $Monster(Gangster_SpoonGun)$	[!QuestDesc]$JPerson(Dembel)$要求找到进入$Org(Spoon)$的$Org(AngryBull)$组员所拿着的表链。<br><br>目标对象: $Monster(Gangster_SpoonFighter)$, $Monster(Gangster_SpoonSword)$, $Monster(Gangster_SpoonGun)$
@@ -15249,12 +15227,10 @@
 #23407	[!SystemMessage]원문에 들어있는 포맷인자가 빠졌습니다. \[$Args$\]	[!SystemMessage]缺失原文的格式标签。\[$Args$\]
 #23408	[!SystemMessage]번역문에 한국어가 포함되어 있습니다. \[$Kor$\]	[!SystemMessage]翻译文含有韩文。\[$Kor$\]
 #23409	[!SystemMessage]유효하지 않은 포맷 태그가 포함되었습니다. \[$Tag$\]	[!SystemMessage]存在无效的格式标签。\[$Tag$\]
-#23410	[!QuestDesc]$JPerson(Hundred)$[는] 초전도 케이블을 확보해 달라고 요청한다.<br><br>목표 대상: $Monster(Drone_Sprinkler_Rust)$, $Monster(Drone_Sprinkler)$, $Monster(Drone_Sprinkler_Enhanced)$	[!QuestDesc]$JPerson(Hundred)$要求获取超导体电缆。<br><br>目标对象: $Monster(Drone_Sprinkler_Rust)$，$Monster(Drone_Sprinkler)$，$Monster(Drone_Sprinkler_Enhanced)$
-#23411	[!QuestDesc]$JPerson(Hundred)$[는] $Monster(Drone_Sprinkler_Rust)$으로부터 초전도 케이블을 회수해 달라고 요청한다.	[!QuestDesc]$JPerson(Hundred)$要求从$Monster(Drone_Sprinkler_Rust)$回收超导体电缆。
 #23412	[!QuestType_CollectItem_Kill]초전도 케이블	[!QuestType_CollectItem_Kill]超导体电缆
 #23413	[!Buff]$Perano$해당 효과는 최후의 저항 특성 발동을 제외한 모든 전투 상황에서 우선합니다.	[!Buff]$Perano$效果在除了最后的顽抗天赋以外的所有战斗情况下，将无视其他的天赋效果。
 #23414	[!LayoutKeyword]텍스트 검색	[!LayoutKeyword]文本搜索
-#23415	[!LayoutKeyword]최근 메시지	[!LayoutKeyword]最近的信息
+#23415	[!LayoutKeyword]최근 메시지	[!LayoutKeyword]最近的文章
 #23416	[!LayoutKeyword]제출	[!LayoutKeyword]提交
 #23417	[!LayoutKeyword]구문 목록	[!LayoutKeyword]翻译目录
 #23418	[!LayoutKeyword]다른 유저의 제안	[!LayoutKeyword]其他用户的建议
@@ -15850,7 +15826,7 @@
 #24043	[!ObjectVoiceSound][!speaker:Irene]으햐아아.. 안풀리네~!	[!ObjectVoiceSound][!speaker:Irene]啊啊啊...真是糟透了~!
 #24044	[!ObjectVoiceSound][!speaker:Irene]칫.. 피하다니!	[!ObjectVoiceSound][!speaker:Irene]切... 竟然躲开了！
 #24045	[!ObjectVoiceSound][!speaker:Irene]뭐야!? 빗나갔어!	[!ObjectVoiceSound][!speaker:Irene]什么啊!?竟然没命中！
-#24046	[!ObjectVoiceSound][!speaker:Irene]이 악당녀석! 비것하다!	[!ObjectVoiceSound][!speaker:Irene]这个恶徒！真卑鄙！
+#24046	[!ObjectVoiceSound][!speaker:Irene]이 악당 녀석! 비겁하다!	[!ObjectVoiceSound][!speaker:Irene]这个恶徒！真卑鄙！
 #24047	[!ObjectVoiceSound][!speaker:Irene]사악한 녀석..!	[!ObjectVoiceSound][!speaker:Irene]真是邪恶...!
 #24048	[!ObjectVoiceSound][!speaker:Irene]아직 끝나지 않았다!	[!ObjectVoiceSound][!speaker:Irene]还没结束！
 #24049	[!ObjectVoiceSound][!speaker:Irene]아직 물러설 수 없다~!	[!ObjectVoiceSound][!speaker:Irene]还不能退缩~!
@@ -16488,3 +16464,276 @@
 #24712	[!Mastery]끊이지 않는 노래	[!Mastery]不断的歌曲
 #24713	[!Mastery]내가 또 부른다.	[!Mastery]我又再唱。
 #24714	[!Notice]<br><br>유럽 서버가 추가되었습니다. 유럽에서 게임을 하는 분들은 유럽 서버를 이용하는 것을 권합니다.<br><br>유럽 서버는 2020년 6월 5일까지의 북미 서버의 데이터를 사용하므로 이전에 북미 서버를 사용했던 분들은 사용하던 데이터 그대로 유럽 서버에서 게임을 이어서 할 수 있습니다.<br><br>그러나 2020년 6월 5일 이후부터는 북미 서버와 유럽 서버는 데이터가 공유되지 않으므로 이 점 주의하시기 바랍니다.	[!Notice]<br><br>欧洲服务器正式开启。建议在 欧洲玩的玩家使用欧洲地区服务器。<br><br> 欧洲服务器使用截至2020年6月5号的北美服务器数据，因此之前使用过北美服务器的玩家们可直接在欧洲区域继续游玩。<br><br>但要特别注意，在2020年6月5号以后的欧洲服务器是将不再会与北美服务器共享数据。
+#24715	[!AbilityGuideRange_Sight]시야	[!ObjectInfo]视野
+#24716	[!Buff]모든 피해량에 대해 자신의 최대 체력보다 낮으면 피해를 입지 않습니다. 해당 상태가 해제되면 $Dead$이 됩니다.	[!Buff]所有比自己最大体力值小的伤害量是不会造成伤害。若该状态被解除时，会变成$Dead$。
+#24717	[!Buff]$AddBuffName$ 상태에 면역이 됩니다.	[!Buff]将对$AddBuffName$状态免疫。
+#24718	[!Buff]정보 변조	[!Buff]信息变调
+#24719	[!Buff]기계인 적에게 위협 수치가 $ApplyAmountValue$ 감소합니다. 자신이 받는 피해의 속성과 이전에 받은 피해의 속성이 동일하면, 현재 자신이 받는 피해량이 $ApplyAmountValue2$ 감소합니다. 	[!Buff]对机械敌人产生的威胁数值将减少$ApplyAmountValue$。自己受到的伤害属性与之前相同时，现在自身所受到的伤害量将减少$ApplyAmountValue2$。
+#24720	[!Buff]정보 공유	[!Buff]共享情报
+#24721	[!Buff]아군의 이전 공격을 회피 혹은 방어한 적을 공격할 경우, 명중률, 치명타 적중률이 $ApplyAmountValue$ 증가합니다.	[!Buff]]攻击闪避或格挡了友军攻击的敌人时，命中率和暴击率将一同增加$ApplyAmountValue$。
+#24722	[!Job]산술사	[!Job]算术士
+#24723	[!Job]도박사	[!Job]赌博师
+#24724	[!Job]점성술사	[!Job]占星术士
+#24725	[!Mastery]맹독 괴수	[!Mastery]剧毒怪兽
+#24726	[!Mastery]단 한 방울이면 충분해.	[!Mastery]一滴就足够了。
+#24727	[!Mastery]$BuffGroup$ 계열 상태 이상인 적에게 치명타를 적중시키면, 해당 적은 $Buff$ 상태가 됩니다.	[!Mastery]对$BuffGroup$系列异常状态的敌人造成暴击时，该敌人将进入$Buff$状态。
+#24728	[!Mastery]$BuffGroup$ 계열 상태 이상인 적으로부터 받는 피해량이 $Value$ 감소합니다.	[!Mastery]从$BuffGroup$系列异常状态的敌人受到的伤害将减少$Value$。
+#24729	[!Mastery]떠돌이 싸움꾼	[!Mastery]流浪战斗专家
+#24730	[!Mastery]실천이 없으면 증명할 수 없고, 증명이 없으면 신용받을 수 없고, 신용이 없으면 존경받을 수 없다.	[!Mastery]没有实践，就不能证明；没有证明，就无法得到信用；没有信用，就得不到尊重。
+#24731	[!Mastery]반경 $Value$칸 범위 내 아군이 없는 상황에서 턴을 종료하면, $ActionTime$이 $Value2$ 감소합니다.	[!Mastery]在半径$Value$格范围内不存在友军的情况下结束回合时，将减少$Value2$的$ActionTime$。
+#24732	[!Mastery]반경 $Value$칸 범위 내 아군이 없는 상황에서 적을 공격하여 $Dead$으로 만들면, $Buff$ 상태가 됩니다.	[!Mastery]半径$Value$格范围内不存在友军的情况下攻击并使敌人变成$Dead$时，将进入$Buff$状态。
+#24733	[!Mastery]반복적인 검술 훈련	[!Mastery]反复的剑术训练
+#24734	[!Mastery]반복적인 훈련에서는 가장 중요한 것은 인내심이다.	[!Mastery]在反复的训练中，最重要的是耐心。
+#24735	[!Mastery]강화 디스크 레이돔	[!Mastery]强化磁盘整流罩
+#24736	[!Mastery]대충 아는 것은 모르는 것보다 못하다.	[!Mastery]粗知不如无知。
+#24737	[!Mastery]범위 내 적용되는 $Buff$ 상태가 $Buff2$ 상태로 변경됩니다.	[!Mastery]范围内所适应的$Buff$状态将成为$Buff2$状态。
+#24738	[!Mastery]강화 정보 교란기	[!Mastery]强化信息干扰器
+#24739	[!Mastery]머리가 좋아야 거짓 말도 잘한다. 	[!Mastery]头脑机灵的人才能说好假话。
+#24740	[!Mastery]추가 기체 강화	[!Mastery]更加强化机械
+#24741	[!Mastery]큰 인물은 언제나 목표가 정해져 있다.	[!Mastery]大人物总是有目标的。
+#24742	[!Mastery]추가 기체 최적화	[!Mastery]更加优化机械
+#24743	[!Mastery]티끌 모아 태산.	[!Mastery]积土成山。
+#24744	[!Mastery]자율 방어 행동 최적화	[!Mastery]优化自律防御行动
+#24745	[!Mastery]적이 쳐들어오지 않기를 바라기보다는 자신을 지키는 준비를 해라.	[!Mastery]与其指望敌人不突进，不如做好保卫自己的准备。
+#24746	[!Mastery]반응 사격 제어 프로그램	[!Mastery]反应射击控制程序
+#24747	[!Mastery]실패하는 노력은 의미가 없다.	[!Mastery]对于失败的努力是没有意义的。
+#24748	[!Mastery]$ResponsiveAttack$으로 적을 공격할 경우, $Stat$[이] $Value$ 증가합니다.	[!Mastery]以$ResponsiveAttack$攻击敌人时，$Stat$将增加$Value$。
+#24749	[!Mastery]자율 행동 강화 프로그램	[!Mastery]自律行动强化程序
+#24750	[!Mastery]말하지 않아도 알아야 한다.	[!Mastery]不言而喻。
+#24751	[!Mastery]$Mastery$ 발동 시, 바로 자신의 턴이 됩니다.	[!Mastery]$Mastery$发动，将立马成为自己的回合。
+#24752	[!Mastery]반경 $Value$칸 범위 내 아군이 없는 상황에서 전투 시, 다음과 같은 효과가 발생합니다.	[!Mastery]半径$Value$格范围内不存在友军的情况下战斗时，将产生如下效果。
+#24753	[!Mastery]현재 사용하고 있는 $Type$ 특성 $Value$개 당 적에게 주는 피해량이 $Value2$ 증가합니다.	[!Mastery]每$Value$个现在所使用的$Type$天赋，给予敌人的伤害量将增加$Value2$。
+#24754	[!SystemMessage]<br><tab><br>문제 상황이 지속되는 경우 $ErrorReport$기능을 이용해서 문제상황을 알려주시면 바로 문제 해결에 도움을 드리겠습니다.<br><br>불편을 드려 대단히 죄송합니다.<br>($VersionInfo$)	[!SystemMessage]<br><tab><br>问题持续发生时，请使用$ErrorReport$功能告知问题情况，即可帮助解决问题。<br><br>很抱歉带来了不便。<br>($VersionInfo$)
+#24755	[!SystemMessage]오류 보고	[!SystemMessage]错误报告
+#24756	[!SystemMessage]오프라인 모드를 시작하지 못했습니다.<br><br>오프라인 모드는 내부적으로 실행해되는 프로세스와의 연결을 통해서 진행됩니다.<br><br>안티 바이러스나 기타 프로그램간의 내부통신에 지장을 주는 프로세스가 시스템에 존재하는 경우 오프라인 플레이에 문제가 발생할 수 있습니다.<br><br>관련 프로그램을 종료한 후 다시 실행해 보시기 바랍니다.	[!SystemMessage]没能开始离线模式。<br><br>在离线模式是通过与内部运行的程序连接进行的。<br><br>系统中存在影响抗病毒或其他程序内部通信的程序时，可能会发生问题。<br><br>请在结束相关程序后重新执行。
+#24757	[!WordCollection]기본	[!MasteryCategory]普通
+#24758	[!WordCollection]시야 확인	[!WordCollection]确认视野
+#24759	[!CitizenGenSet]베보	[!CitizenGenSet]贝博
+#24760	[!CitizenGenSet]해당 유닛의 근처에 다가가 주위의 안전을 확보하면 스스로 도망칩니다.	[!CitizenGenSet]移动至该市民附近后，使周围变得安全时，市民就会安全逃离。
+#24761	[!CitizenGenSet]운송업자 리	[!ObjectInfo]配送人员老李
+#24762	[!CitizenGenSet]미키	[!CitizenGenSet]咪奇
+#24763	[!LayoutKeyword]이전	[!WordCollection]上一个
+#24764	[!Loading]요란한 불청객	[!Loading]嘈杂的不速之客
+#24765	[!Loading]황금손 거주구	[!Site]黄金之手居民区
+#24766	[!Mission]황금손 거주구	[!Site]黄金之手居民区
+#24767	[!ObjectInfo]마슬로바	[!ObjectInfo]玛丝洛娃
+#24768	[!Quest]요란한 불청객	[!Quest]嘈杂的不速之客
+#24769	[!Quest]황금손 거주구에 나타난 네구리를 처리하시오.	[!Quest]处理出现在黄金之手居住区的呐故立。
+#24770	[!Quest]$TargetCivilName$[를] 구출하시오.	[!Quest]救出$TargetCivilName$。
+#24771	[!QuestDesc]$JPerson(Bruna)$[은] 자신의 집 앞 수로에 나타난 $Job(Neguri)$를 처리해 달라고 부탁한다.	[!QuestDesc]$JPerson(Bruna)$请求处理出现在自己家前水道的$Job(Neguri)$。
+#24772	[!QuestDesc]$JPerson(AL)$[은] 철의 숲에 서식하는 $Monster(Beast_Tima_Magma)$의 $TargetItem$[을] 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(AL)$请求获得在铁森林栖息的$Monster(Beast_Tima_Magma)$的$TargetItem$。
+#24773	[!QuestDesc]$JPerson(AL)$[은] 철의 숲에 서식하는 $Monster(Beast_Tima_Spark)$의 $TargetItem$[을] 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(AL)$请求获得在铁森林栖息的$Monster(Beast_Tima_Spark)$的$TargetItem$。
+#24774	[!QuestDesc]$JPerson(AL)$[은] 철의 숲에 서식하는 $Monster(Beast_Tima_Glacier)$의 $TargetItem$[을] 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(AL)$请求获得在铁森林栖息的$Monster(Beast_Tima_Glacier)$的$TargetItem$。
+#24775	[!QuestDesc]$JPerson(AL)$[은] 철의 숲에 서식하는 $Monster(Beast_Spider_Poison2_Mutation)$의 $TargetItem$[을] 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(AL)$请求获得在铁森林栖息的$Monster(Beast_Spider_Poison2_Mutation)$的$TargetItem$。
+#24776	[!QuestDesc]$JPerson(AL)$[은] 철의 숲에 서식하는 $Monster(Beast_Bat_Wind_Leader)$의 $TargetItem$[을] 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(AL)$请求获得在铁森林栖息的$Monster(Beast_Bat_Wind_Leader)$的$TargetItem$。
+#24777	[!QuestDesc]$JPerson(AL)$[은] 별빛 사거리에 고립된 $TargetCivilName$[을] 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(AL)$请求救出被孤立在星光十字路口的$TargetCivilName$。
+#24778	[!QuestDesc]$JPerson(Oleg)$[는] 별빛 사거리에 고립된 $TargetCivilName$[을] 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(Oleg)$请求救出被孤立在星光十字路口的$TargetCivilName$。
+#24779	[!QuestDesc]$JPerson(Hundred)$[는] $TargetItem$[을] 확보해 달라고 요청한다.<br><br>목표 대상: $Monster(Drone_Sprinkler_Rust)$, $Monster(Drone_Sprinkler)$, $Monster(Drone_Sprinkler_Enhanced)$	[!QuestDesc]$JPerson(Hundred)$请求获取$TargetItem$。<br><br>目标对象：$Monster(Drone_Sprinkler_Rust)$、$Monster(Drone_Sprinkler)$、$Monster(Drone_Sprinkler_Enhanced)$
+#24780	[!QuestDesc]$JPerson(Hundred)$[는] $TargetItem$[을] 회수해 달라고 요청한다.	[!QuestDesc]$JPerson(Hundred)$要求回收$TargetItem$。
+#24781	[!QuestDesc]$JPerson(Dembel)$[는] 별빛 사거리에 고립된 $TargetCivilName$[을] 구해 달라고 부탁한다.	[!QuestDesc]$JPerson(Dembel)$请求救出被孤立在星光十字路口的$TargetCivilName$。
+#24782	[!ArrestSet]탈주한 수송 드론	[!ArrestSet]逃离的运输无人机
+#24783	[!ArrestSet]$Killer$[이] $Unit$[을] 회수하였습니다.	[!ArrestSet]$Killer$回收了$Unit$。
+#24784	[!ArrestSet]해당 유닛이 전투불능이 되면 회수됩니다.	[!ArrestSet]将该单位变无法战斗，则可进行回收。
+#24785	[!ArrestSet]『 경고: 외부 위협 접근 』	[!NamedEvent]『 警告: 外部威胁接近 』
+#24786	[!ItemSet]전문 조련사	[!ItemSet]专业训练师
+#24787	[!Mission]그림자 장벽 지하수로 남단	[!Mission]影之墙壁地沟南端
+#24788	[!Mission]그림자 장벽 지하수로 북단	[!Mission]影之墙壁地沟北端
+#24790	[!ObjectInfo]붉은 도로리	[!ObjectInfo]赤色多罗利
+#24791	[!ObjectInfo]붉은 왕도로리	[!ObjectInfo]赤色多罗利王
+#24792	[!ObjectInfo]새끼 잿더미 야샤	[!ObjectInfo]灰烬夜叉幼崽
+#24793	[!ObjectInfo]작은 잿더미 야샤	[!ObjectInfo]小型灰烬夜叉
+#24794	[!ObjectInfo]탈주한 수송 드론	[!ObjectInfo]逃离的运输无人机
+#24795	[!QuestDesc]$JPerson(Hundred)$[는] $Monster(Gangster_Javer)$[를] 회수해 달라고 요청합니다.	[!QuestDesc]$JPerson(Hundred)$要求回收$Monster(Gangster_Javer)$。
+#24797	[!Ability]칼날 날갯짓	[!Ability]刀刃振翅 
+#24798	[!Ability]커다란 칼날 날갯짓	[!Ability]巨大的刀刃振翅 
+#24799	[!Ability]천둥 울음	[!Ability]雷鸣
+#24800	[!Buff]$AddBuffName$ 상태가 되면, 해당 상태는 자동 해제됩니다.	[!Buff]进入$AddBuffName$状态时，将自动解除该状态。
+#24801	[!GuideMessage]이미 등록된 회사명 입니다.	[!Ability]是已被登录的公司名称。
+#24802	[!Item]두꺼운 왕도로리 가죽	[!Item]厚重的王多罗利皮
+#24803	[!Mastery]체력 훈련	[!Mastery]体力训练
+#24804	[!Mastery]공든 탑이 무너지랴.	[!Mastery]功夫不负有心人。
+#24805	[!Mastery]지원 훈련	[!Mastery]支援训练
+#24806	[!Mastery]부족한 것은 보완하면 그만이다.	[!Mastery]不足之处只要去弥补就行了。
+#24807	[!Mastery]제압 훈련	[!Mastery]压制训练
+#24808	[!Mastery]한 번에 할 일을 두 번에 하지 마라.	[!Mastery]一次就可以做好的事不要重复去做。
+#24809	[!Mastery]회피 훈련	[!Mastery]回避训练
+#24810	[!Mastery]위험은 피하고 두려움에는 맞서라.	[!Mastery]避免危险，对抗恐惧。
+#24811	[!Mastery]기술 훈련	[!Mastery]技术训练
+#24812	[!Mastery]축적된 노력의 결과를 기술이라고 말한다.	[!Mastery]积累起的努力所带来的结果叫做技术。
+#24813	[!Mastery]발광	[!Mastery]发光
+#24814	[!Mastery]빛이 있기에 나아갈 수 있다.	[!Mastery]有光才能向前前进。
+#24815	[!Mastery]반경 $Value$칸 내의 대상은 $Time$, $Time2$, $Time3$의 부정적인 효과와 $Buff$ 상태에 면역이 됩니다.	[!Mastery]半径$Value$格内的对象将免疫$Time$，$Time2$，$Time3$的负面效果和$Buff$的状态。
+#24816	[!Mastery]해당 대상이 적인 경우, 해당 적은 $Buff$ 상태가 됩니다.	[!Mastery]该对象为敌人时，对象将进入$Buff$状态。
+#24817	[!Mastery]초열	[!Mastery]超焱
+#24818	[!Mastery]모든 것이 사라지리라.	[!Mastery]一切都会消失。
+#24819	[!Mastery]$BuffGroup$ 계열 상태 이상인 적을 공격할 경우, 적의 $Stat$[이] $Value$ 추가 감소합니다.	[!Mastery]攻击$BuffGroup$系列状态异常的敌人时，敌人的$Stat$将额外减少$Value$。
+#24820	[!Mastery]강화된 신경망	[!Mastery]强化的神经网
+#24821	[!Mastery]선천적으로 타고난 재능도 노력이 없으면 빛나지 않는다.	[!Mastery]即使有天生的才能，若没有努力是不会发光的。
+#24823	[!Mastery]시야 내 아군이 $Dead$이 되면, 다음과 같은 효과가 발생합니다.	[!Mastery]视野内的友军变$Dead$时，将产生如下效果。
+#24824	[!Mastery]남은 $ActionTime$이 $Value$ 이상인 경우	[!Mastery]残りの$ActionTime$が$Value$以上の場合
+#24825	[!Mastery]남은 $ActionTime$이 $Value$ 미만인 경우	[!Mastery]残りの$ActionTime$が$Value$未満の場合
+#24826	[!Mastery]바로 자신의 턴이 됩니다.	[!Mastery]将立即成为自身的回合。
+#24827	[!Mastery]질투의 눈	[!Mastery]嫉妒的目光
+#24828	[!Mastery]사소한 잘못도 놓치지 않겠어!	[!Mastery]一点儿小问题也不会放过！
+#24829	[!Mastery]적을 공격할 경우, 적의 상태 효과 $Value$개 당 $Stat$[이] $Value2$ 증가합니다.	[!Mastery]攻击敌人时，每$Value$个敌人的状态效果将增加$Value2$的$Stat$。
+#24830	[!Mastery]거미줄 주머니	[!Mastery]蜘蛛网袋
+#24831	[!Mastery]거미줄이 어디로 나오는 지 알고 있어?	[!Mastery]知道蜘蛛网是从哪里出来吗？
+#24832	[!Mastery]신경망 제어	[!Mastery]控制神经网
+#24833	[!Mastery]정확하고 빠른 정보 전달은 불가능을 가능으로 만든다.	[!Mastery]又准确又快速的信息传递会使不可能变为可能。
+#24834	[!Mastery]선혈의 야수	[!Mastery]鲜血的野兽
+#24835	[!Mastery]붉게 물든 그의 입가에는 아직도 마르지 않는 선혈이 가득하지.	[!Mastery]他那被染红的嘴角上，还充满着未干的鲜血。
+#24836	[!Mastery]$BuffGroup$ 계열 상태의 적에게 피해를 입힐 경우, 무작위의 정신적인 상태 효과가 발생합니다.	[!Mastery]$BuffGroup$系列状态的敌人受到攻击时，将产生随机的精神状态效果。
+#24837	[!Mastery]절망의 불꽃	[!Mastery]绝望的火花
+#24838	[!Mastery]게으른 자가 희망을 품으면 절망을 만난다.	[!Mastery]懒人盼有希望，是必定会遇到绝望的。
+#24839	[!Mastery]$BuffGroup$ 계열 상태 이상인 적을 공격할 경우, 적의 $Stat$[이] $Value$ 감소합니다.	[!Mastery]攻击$BuffGroup$系列状态异常的敌人时，敌人的$Stat$将减少$Value$。
+#24840	[!ObjectInfo]황금 날개	[!ObjectInfo]黄金翅膀
+#24842	[!ObjectInfo]황금 어금니	[!Mastery]黄金臼齿
+#24843	[!ObjectInfo]황금 혀	[!Mastery]黄金舌头
+#24844	[!ObjectInfo]작은 붉은 네구리	[!ObjectInfo]小型红色呐故立
+#24845	[!ObjectInfo]붉은 네구리	[!ObjectInfo]红色呐故立
+#24846	[!ObjectInfo]붉은 왕네구리	[!ObjectInfo]红色王呐故立
+#24847	[!WordCollection]메일 보호	[!Mastery]回避训练
+#24848	[!Buff]거미줄 고치	[!Buff]蜘蛛网蚕茧
+#24849	[!Mastery]신경망 가속	[!Mastery]神经网加速
+#24850	[!Mastery]생각하는 것과 동시에 몸이 움직인다.	[!Mastery]思考的同时身体也会跟着行动。
+#24851	[!Mastery]꿰뚫는 일격	[!Mastery]穿透的一击
+#24852	[!Mastery]작은 틈새가 큰 기회를 만든다.	[!Mastery]小缝制造大机会。
+#24853	[!Ability]거미줄 주머니	[!Ability]蜘蛛网袋
+#24854	[!Buff]압박	[!Buff]压迫
+#24855	[!Buff]억압	[!Buff]压制
+#24856	[!Mastery]지배자	[!Mastery]支配者
+#24857	[!Mastery]권력이란 인간을 통제하는 힘이다.	[!Mastery]权力是个控制人类的力量。
+#24858	[!Mastery]자신의 시야 내 아군보다 적이 많은 상황에서 적을 공격하여 $Dead$으로 만들면, $ActionTime$이 $Value$ 감소합니다.	[!Mastery]在自身视野内敌军比友军多的情况下攻击敌人并使对方$Dead$的话，$ActionTime$将减少$Value$。
+#24859	[!Mastery]질투의 화신	[!Mastery]嫉妒的化身
+#24860	[!Mastery]내 것이 아닌 것은 모두 의미가 없어!	[!Mastery]非我莫属的东西根本就没有任何意义！
+#24861	[!Mastery]자신보다 레벨이 낮은 $Beast$에게 체력의 $Value$이상의 치명타 피해를 입히면, 해당 $Beast$는 $Buff$ 상태가 됩니다.	[!Mastery]向比自己等级低的$Beast$给予体力值的$Value$以上的暴击伤害时，该$Beast$将进入$Buff$状态。
+#24862	[!Mastery]자신의 종족이 $Beast$인 경우, 자신보다 높은 등급의 $Beast$에게는 발동하지 않습니다.	[!Mastery]自己的种族为$Beast$时，是不会向比自己级别更高的$Beast$发动。
+#24863	[!Mastery]백수왕	[!Mastery]百兽之王
+#24864	[!Mastery]백수왕을 향한 시선은 공포 아니면 경애뿐이다.	[!Mastery]对百兽之王的目光不是恐怖就是敬爱。
+#24865	[!Mastery]자신의 등급보다 낮은 등급의 적과의 전투 시 다음과 같은 효과가 발생합니다.	[!Mastery]与比自己级别更低的敌人战斗时，会产生以下效果。
+#24866	[!Mastery]선혈의 괴수	[!Mastery]鲜血之怪兽
+#24867	[!Mastery]그들이 바라는 것은 그저 살육의 쾌감일 뿐이다.	[!Mastery]他们所希望的只是杀戮的快感。
+#24868	[!Mastery]$BuffGroup$ 계열 상태 이상인 적을 $Dead$ 만들때마다 $SP$가 $Value$ 증가합니다.	[!Mastery]每在使$BuffGroup$系列状态异常的敌人$Dead$时，将增加$Value$的$SP$。
+#24869	[!Mastery]노익장	[!Mastery]老当益壮
+#24870	[!Mastery]뜻을 품었으면 어려울수록 굳세어야 하며, 늙을수록 건장해야 한다.	[!Mastery]有志者，愈难愈强，愈老愈壮。
+#24871	[!Mastery]자신보다 레벨이 낮은 적을 공격할 경우, 적에게 주는 피해량이 $Value$ 증가합니다.	[!Mastery]攻击比自己等级低的对象时，给予敌人的伤害量将增加$Value$。
+#24873	[!Mastery]노장의 기백	[!Mastery]老将的气魄
+#24874	[!Mastery]그들에겐 아무리 참혹한 전장이라도 그저 살아가는 인생의 과정일 뿐이다.	[!Mastery]对他们来说，再残酷的战场也只是人生的一小部分。
+#24875	[!Mastery]현재 사용하고 있는 $Type$ 특성 $Value$개 당 시전 지연 시간이 $Value2$ 감소합니다.	[!Mastery]每$Value$个现在所使用的$Type$天赋，将减少$Value2$的施法延迟时间。
+#24876	[!Mastery]억압	[!Mastery]压制
+#24877	[!Mastery]그가 적이 아니라 다행입니다.	[!Mastery]幸好不是敌人。
+#24878	[!Mastery]반경 $Value$칸 내의 적은 $Buff$ 상태가 됩니다.	[!Mastery]半径$Value$格内的敌人将进入$Buff$状态。
+#24879	[!Mastery]그물 연결망	[!Mastery]细密的连接网
+#24880	[!Mastery]정보는 행동을 결정하기 위한 수단이다.	[!Mastery]信息是决定行动的手段。
+#24881	[!Mastery]생명의 불꽃	[!Mastery]生命的火花
+#24882	[!Mastery]불타는 열정을 가진 자들은 모두 투사가 된다.	[!Mastery]充满热情的人都能成为斗士。
+#24883	[!Mastery]왕의 청각	[!Mastery]王之听觉
+#24884	[!Mastery]폭군과 성군의 공통점은 귀가 밝다는 것이다.	[!Mastery]暴君和圣君的共同点是耳朵灵敏。
+#24885	[!Mastery]복수의 일격	[!Mastery]复仇之一击
+#24886	[!Mastery]맞은만큼 돌려준다.	[!Mastery]以牙还牙
+#24887	[!Mastery]$CounterAttack$으로 적에게 주는 피해량이 $Value$만큼 증가합니다.	[!Mastery]以$CounterAttack$给予敌人的伤害量将增加$Value$。
+#24888	[!Mastery]왕의 후각	[!Mastery]王之嗅觉
+#24889	[!Mastery]유능한 왕은 음모와 배신의 냄새를 가장 잘 맡는다.	[!Mastery]有能力的国王对阴谋和背叛的味道很敏感。
+#24890	[!Ability]다리에 힘을 집중하여 순간적으로 목표 지점까지 빠른 이동을 합니다.	[!Ability]集中力量于腿部并瞬间移动至目标地点。
+#24891	[!Ability]먹잇감 묶어두기	[!Ability]绑存食物
+#24893	[!Buff]부화 중인 야샤알	[!Buff]孵化中的夜叉蛋
+#24896	[!Item]검은빛 두꺼운 야샤 가죽	[!Item]黑色厚重的夜叉皮
+#24897	[!Item]황금빛 섬광 가죽	[!Item]黄金闪光皮
+#24898	[!Item]황금빛 도로리 가죽	[!Item]黄金多罗利皮
+#24899	[!Item]두꺼운 왕네구리 가죽	[!Item]厚重的王呐故立皮
+#24900	[!Item]황금빛 기름 주머니	[!Item]黄金油袋
+#24901	[!LayoutKeyword]제출 언어	[!LayoutKeyword]适用语言
+#24902	[!Mastery]현재 사용하고 있는 $Type$ 특성 $Value$개 당 기본 피해량이 $Value2$ 증가합니다.	[!Mastery]每$Value$个现在使用的$Type$天赋，将增加$Value2$的基本伤害量。
+#24903	[!Mastery]자신의 등급보다 낮은 등급의 적에게 공격 받을 경우, $Stat$[이] $Value$ 증가합니다.	[!Mastery]受到比自己级别更低的敌人的攻击时，$Stat$将增加$Value$。
+#24904	[!Mastery]어빌리티	[!MasteryCategory]技能
+#24905	[!NamedEvent]흉폭한 도로리	[!NamedEvent]凶残的多罗利
+#24906	[!NamedEvent]붉은 왕도로리	[!NamedEvent]红色王多罗利
+#24907	[!NamedEvent]자랑쟁이 도로리	[!NamedEvent]喜欢自夸的多罗利
+#24908	[!NamedEvent]황금 날개	[!NamedEvent]黄金翅膀
+#24909	[!NamedEvent]키힉! 키힉!	[!NamedEvent]咳嘿！咳嘿！
+#24912	[!NamedEvent]잊혀진 티마	[!NamedEvent]被遗忘的蒂玛
+#24913	[!NamedEvent]황금 어금니	[!NamedEvent]黄金臼齿
+#24914	[!NamedEvent]크르르...	[!NamedEvent]吼吼吼...
+#24915	[!NamedEvent]수다쟁이 네구리	[!NamedEvent]话唠的呐故立
+#24916	[!NamedEvent]황금 혀	[!NamedEvent]黄金舌头
+#24917	[!NamedEvent]네르굴~!	[!NamedEvent]呐尔故~!
+#24918	[!NamedEvent]네르굴~! 네르굴~!	[!NamedEvent]呐尔故~! 呐尔故~!
+#24919	[!NamedEvent]삐뚤어진 네구리	[!NamedEvent]性格扭曲的呐故立
+#24920	[!NamedEvent]붉은 왕네구리	[!NamedEvent]红色王呐故立
+#24921	[!NamedEvent]외톨이 네구리	[!NamedEvent]孤独的呐故立
+#24922	[!NamedEvent]돌연변이 왕네구리	[!NamedEvent]突变王呐故立
+#24923	[!ObjectInfo]잿더미 야샤 군주	[!ObjectInfo]灰烬夜叉君主
+#24925	[!Mastery]절정의 기백	[!Mastery]绝顶的气魄
+#24926	[!Mastery]이 순간을 위해 살아왔다.	[!Mastery]为了这一瞬间而存在。
+#24927	[!Mastery]자신의 턴이 시작할 때마다 현재 사용하고 있는 $Type$ 특성 개수만큼 $SP$가 증가합니다.	[!Mastery]每次开始自己的回合时，随着现在所使用的$Type$天赋的个数将增加$SP$。
+#24928	[!Mastery]$Overcharge$ 상태가 해제되면 $Overcharge$ 상태에서 $Dead$으로 만든 적 수만큼 $SP$가 증가합니다.	[!Mastery]$Overcharge$的状态被解除的话，根据在$Overcharge$状态下使敌人$Dead$的个数将增加$SP$。
+#24929	[!Ability]잠겨진 상자 열기	[!Ability]打开锁着的箱子
+#24930	[!Ability]열쇠로 열기	[!Ability]使用钥匙打开
+#24931	[!Ability]강제로 열기	[!Ability]强行的打开
+#24932	[!Ability]상자를 강제로 엽니다.	[!Ability]强行打开箱子。
+#24933	[!GameSystemMessageFormat]상자에 설치된 함정이 발동하여 상자 안의 물건이 모두 소각되었습니다.	[!GameSystemMessageFormat]因触发了安装在箱子里的陷阱，里面的东西都被烧毁。
+#24934	[!GameSystemMessageFormat]잿더미 야샤 전원 '$State$' 상태가 되었습니다.	[!GameSystemMessageFormat]灰烬夜叉全部进入了'$State$'状态。
+#24935	[!GameSystemMessageFormat]붉은 도로리 전원 '$State$' 상태가 되었습니다.	[!GameSystemMessageFormat]红色多罗利全都进入了'$State$'状态。
+#24936	[!GameSystemMessageFormat]붉은 네구리 전원 '$State$' 상태가 되었습니다.	[!GameSystemMessageFormat]红色呐故立全都进入了'$State$'状态。
+#24937	[!GuideMessage]$KeyName$ 열쇠를 소모합니다.	[!GuideMessage]消耗$KeyName$钥匙。
+#24938	[!GuideMessage]$KeyName$ 열쇠가 없어 해당 상자를 열 수 없습니다.	[!GuideMessage]没有$KeyName$钥匙无法打开此箱。
+#24939	[!Item]황금빛 가죽 부츠	[!Item]黄金皮制靴子
+#24940	[!Item]황금빛 도로리 가죽을 기본으로 이능력 사용자의 부담감을 덜어주도록 만들어진 부츠.	[!Item]黄金多罗利皮为底，减轻异能使用者的负担感的靴子。
+#24941	[!Item]황금빛 가죽 운동화	[!Item]黄金皮革运动鞋
+#24942	[!Item]황금빛 도로리 가죽으로 제작한 운동화.	[!Item]使用黄金多罗利皮制作的运动鞋。
+#24943	[!Item]황금빛 가죽 반지	[!Item]黄金皮革戒指
+#24944	[!Item]이능력을 제어하는 핵심 보석을 제외하고 황금빛 섬광 가죽을 바탕으로 제작된 가죽 반지.	[!Item]将控制异能力的核心宝石除去后，以黄金闪光皮为基础所制作的皮革戒指。
+#24947	[!Item]황금빛 가죽 활동복	[!Item]黄金皮革活动服
+#24948	[!Item]황금빛 섬광 가죽으로 만든 활동복.	[!Item]使用黄金闪光皮制作的活动服。
+#24949	[!Item]황금빛 가죽 자켓	[!Item]黄金皮革夹克
+#24950	[!Item]황금빛 섬광 가죽으로 만든 자켓.	[!Item]使用黄金闪光皮制作的夹克。
+#24951	[!Item]황금빛 가죽 팔찌	[!Item]黄金皮革手镯
+#24952	[!Item]황금빛 왕네구리 가죽으로 만든 팔찌.	[!Item]使用黄金王呐故立皮制作的手镯。
+#24953	[!Item]황금빛 가죽 전투 장갑	[!Item]黄金皮革战斗手套
+#24954	[!Item]황금빛 왕네구리 가죽으로 만든 전투 장갑	[!Item]使用黄金王呐故立皮制作的战斗手套。
+#24955	[!Item]황금 날개 부적	[!Item]黄金翅膀符咒
+#24956	[!Item]황금빛 도로리 가죽으로 만든 부적입니다.	[!Item]使用黄金多罗利皮制作的符咒。
+#24957	[!Item]황금 어금니 부적	[!Item]黄金臼齿符咒
+#24958	[!Item]황금빛 섬광 가죽으로 만든 부적입니다.	[!Item]使用黄金闪光皮制作的符咒。
+#24959	[!Item]야샤의 딱딱한 껍질	[!Item]硬硬的夜叉皮壳
+#24960	[!Item]잿더미 야샤의 껍질입니다.	[!Item]灰烬夜叉的皮壳
+#24961	[!Item]야샤의 화려한 껍질	[!Item]华丽的夜叉皮夹
+#24962	[!Item]잿더미 야샤 군주의 껍질입니다.	[!Item]灰烬夜叉君主的皮壳。
+#24963	[!Item]황금 깃털	[!Item]黄金羽毛
+#24964	[!Item]황금빛 도로리의 깃털입니다.	[!Item]黄金多罗利的羽毛
+#24965	[!Item]황금 갈기	[!Item]黄金鬃毛
+#24966	[!Item]황금빛 왕네구리의 갈기입니다.	[!Item]黄金王呐故立的鬃毛
+#24967	[!Item]황금 송곳니	[!Item]黄金尖牙
+#24968	[!Item]황금빛 티마의 송곳니입니다.	[!Item]黄金蒂玛的尖牙。
+#24969	[!Item]붉은 송곳니	[!Item]红色尖牙
+#24970	[!Item]붉은 왕도로리의 송곳니입니다.	[!Item]红色王呐故立的尖牙。
+#24971	[!Item]황금빛 왕네구리 가죽	[!Item]黄金王呐故立皮
+#24972	[!Item]낡은 상자 열쇠	[!Item]旧箱子钥匙
+#24973	[!Item]지하수로에서 획득한 낡은 열쇠입니다.	[!Item]取自地下水道的旧钥匙。
+#24974	[!ItemSet]마도의 빛	[!ItemSet]魔导之光
+#24975	[!ItemSet]무도의 빛	[!ItemSet]武斗之光
+#24976	[!Loading]등잔 밑이 어둡다	[!Loading]灯下黑
+#24977	[!Loading]그림자 장벽 지하수로 북단	[!Loading]影之墙壁地沟北端
+#24978	[!Mastery]턴 시작 시, 시야 내 적이 없으면 $Buff$ 상태가 됩니다.	[!Mastery]回合开始时，视野内不存在敌人时会进入$Buff$状态。
+#24979	[!Mastery]$Ability$로 물리적 상태 이상인 적을 공격할 경우, 적의 $Stat$[이] $Value$ 감소합니다.	[!Mastery]以$Ability$攻击进入了物理异常状态的敌人时，敌人的$Stat$将减少$Value$。
+#24980	[!Mastery]반경 $Value$칸 내 아군 $Value2$명 당 적으로부터 받는 피해량이 $Value3$ 감소합니다.	[!Mastery]每$Value2$个半径$Value$格内友军，将减少敌人给予的伤害$Value3$。
+#24981	[!Mastery]$Ability$를 사용하여도 $Overcharge$ 상태가 해제되지 않습니다.	[!Mastery]即使使用$Ability$也不会被解除$Overcharge$状态。
+#24982	[!Mastery]SP 어빌리티	[!Mastery]SP技能
+#24983	[!Mastery]$BuffGroup$ 계열 상태인 적을 $Dead$으로 만들면, $Vigor$ 혹은 $Rage$가 $Value$ 증가합니다.	[!Mastery]若使$BuffGroup$系列状态的敌人$Dead$时，$Vigor$或$Rage$将增加$Value$。
+#24984	[!Mastery]마도의 빛 - 2 세트	[!Mastery]魔导之光 - 2 套装
+#24985	[!Mastery]마도의 빛 - 3 세트	[!Mastery]魔导之光 - 3 套装
+#24986	[!Mastery]마도의 빛 - 5 세트	[!Mastery]魔导之光 - 5 套装
+#24987	[!Mastery]무도의 빛 - 2 세트	[!Mastery]武斗之光 - 2 套装
+#24988	[!Mastery]무도의 빛 - 3 세트	[!Mastery]武斗之光 - 3 套装
+#24989	[!Mastery]무도의 빛 - 5 세트	[!Mastery]武斗之光 - 5 套装
+#24990	[!NamedEvent]잿더미의 지배자	[!NamedEvent]灰烬的支配者
+#24991	[!NamedEvent]잿더미 야샤 군주	[!NamedEvent]灰烬夜叉君主
+#24992	[!ObjectInfo]야샤 알집	[!ObjectInfo]夜叉蛋壳
+#24993	[!ObjectInfo]잠겨있는 낡은 상자	[!ObjectInfo]锁着的旧箱子
+#24994	[!Ability]지정한 위치에 먹잇감의 모든 상태 효과가 해제하여 $ApplyBuff$로 내려놓습니다.	[!Ability]在指定位置放下猎物。所有状态将会被解除并进入$ApplyBuff$状态。
+#24995	[!Item]황금빛 가죽 손목 보호대	[!Item]黄金皮革护腕
+#24996	[!Item]황금빛 섬광 가죽으로 만든 손목 보호대.	[!Item]使用黄金闪光皮制作的护腕。
+#24997	[!Ability]거미줄 고치 제거	[!Ability]清除蜘蛛网蚕茧
+#24998	[!Interaction]조사	[!Ability]调查
+#24999	[!Notice]서버 장애로 인해 7월 5일 오후 10시 30분까지 진행했던 플레이 기록이 7월 5일 오전 4시 버전 데이터로 롤백되었습니다.<br><br>이로 인해 소중한 시간을 망쳐버려 죄송합니다.<br><br>복구할 수 없는 약 20시간의 플레이를 저희가 감히 보상할 수 있다고 생각하지 않습니다.<br><br>하지만 무엇이라도 보상하지 않는다면 여러분의 소중한 경험을 더 망쳐버리는 결과를 가져올 것이므로 저희는 저희가 여러분의 소중한 하루에 대한 보상을 아래와 같은 식으로 최대한 보상하려고 합니다.<br><br>이에 각 회사 레벨 진행에 따라 다음과 같은 보상을 지급합니다.<br><br>관련 링크: $Link$	[!Notice]游戏服务器出现问题，到7月5日 下午10:30的播放数据已回滚到7月5日 上午04:00。<br><br>制作组对您宝贵的游戏时间致以深深的歉意。<br><br>我们认为我们无法完全弥补无法挽回的20个小时的损失。<br><br>但是，如果我们什么都不做，则可能会进一步破坏您宝贵的游戏体验，因此，我们将根据以下标准赔偿您的数据丢失。<br><br>根据每个角色的等级，将给予以下补偿。<br><br>相关链接： $Link$
+#25000	[!Mastery]강한 힘에는 강한 책임이 따른다	[!Mastery]能力越大，责任越大。

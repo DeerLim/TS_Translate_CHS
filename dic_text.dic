@@ -300,7 +300,7 @@
 #6304	[!Sentence][!Dialog]현장을 지휘하고 있던 아이작 경감은 이미 실력을 검증받은 $CompanyName$의 도착과 함께 지휘권을 바로 넘긴다.	指挥着现场的艾萨克警监看到实力早已受到了证实的$CompanyName$的到来，就马上将指挥权移交了过去。
 #6310	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]경찰력이 빠져나가면 밀려드는 파도처럼 금세 범죄자들이 모여들었다.	警力退出后，像是涨潮一样犯罪分子们瞬间又聚拢了过来。
 #6311	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]이들 역시 스콧과 마찬가지로 조직의 후계자들...	[!Sentence][!Subtitle]这些也是斯科特之流的团伙的继承人…
-#6313	[!Sentence][!Dialog]성난 황소파와 스푼교도들이 자홍거리 뒷골목에서 경찰들과 대치한 지 3시간...	愤怒的公牛组联合勺子教信徒们在紫红街后胡同和警察们对峙的时间已有3个小时…
+#6313	[!Sentence][!Dialog]성난 황소파와 스푼교도들이 자홍거리 뒷골목에서 경찰들과 대치한 지 3시간...	愤怒的公牛组联合勺子教信徒们在紫红街后巷和警察们对峙的时间已有3个小时…
 #6314	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]갓 20대였던 스콧은 조직의 2대 보스가 되었으나...	[!Sentence][!Subtitle]刚刚步入20岁的斯科特成为了团伙中的二代首领…
 #6316	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]같은 공감대를 가진 세 명의 젊은이들은 의기투합한다.	[!Sentence][!Subtitle]有着相同的志向的三名年轻人意气相投。
 #6320	[!Sentence][!Subtitle][!speaker:EmptySubTitle_]여차하면 국경 밖으로 도주할 수 있으며...	如此以来就可以轻易逃到国境以外的地方...
@@ -6709,7 +6709,7 @@
 #15021	[!Sentence][!Dialog][!speaker:Officer_Pepe_Normal]성이 이게 뭐야? 이거 장난인가?	[!Sentence][!Dialog][!speaker:Officer_Pepe_Normal]这是什么姓？在开玩笑吗？
 #15022	[!Sentence][!Title]홀로 남아...	[!Sentence][!Title]独自一人...
 #15023	[!Sentence][!Title]지금부터...	[!Sentence][!Title]现在开始...
-#15024	[!Sentence][!Dialog]그렇기 때문에 타인과 충돌을 피해 자연히 뒷거리의 버려진 장벽, 집, 건물들에 작업을 하게 되었고...	[!Sentence][!Dialog]因此，为了不与他人起冲突，工作地点自然地转向了后街被遗弃的墙壁，民居，建筑物...
+#15024	[!Sentence][!Dialog]그렇기 때문에 타인과 충돌을 피해 자연히 뒷거리의 버려진 장벽, 집, 건물들에 작업을 하게 되었고...	[!Sentence][!Dialog]因此，为了不与他人起冲突，工作地点自然地转向了后巷被遗弃的墙壁，民居，建筑物...
 #15025	[!Sentence][!Dialog]처음 울분을 토해낸 래커칠은 감정을 뿜어낸 낙서에 지나지 않았다.	[!Sentence][!Dialog]最初的涂鸦只不过是发泄感情的乱涂乱画。
 #15026	[!Sentence][!Title]발할라 이주 1년 6개월	[!Sentence][!Title]移居巴赫拉1年6个月
 #15027	[!Sentence][!Title]발할라 이주 2년	[!Sentence][!Title]移居巴赫拉2年
@@ -6857,7 +6857,7 @@
 #15176	[!Sentence][!Dialog][!speaker:NewsCaster_Normal]다음은 방송국 영상팀이 단독으로 입수한 사고 당시 현장 차량의 블랙 박스 영상입니다.	[!Sentence][!Dialog][!speaker:NewsCaster_Normal]接下来是电视台内部人员提供的事故现场车辆的行车仪视频。
 #15177	[!Sentence][!Dialog][!speaker:Ray_Serious]그건...	[!Sentence][!Dialog][!speaker:Ray_Serious]那是...
 #15178	[!Sentence][!Dialog][!speaker:Heissing_Smile]다음에 카터를 만나면 죽일 수 있나?	[!Sentence][!Dialog][!speaker:Heissing_Smile]下次再见到卡特时能杀掉他吗？
-#15179	[!Sentence][!Dialog][!speaker:Gangster_DeliveryFat_Normal]컨테이너 붙여놨으니 빨리 넘어가라고!	[!Sentence][!Dialog][!speaker:Gangster_DeliveryFat_Normal]货柜贴上了，快过去吧！
+#15179	[!Sentence][!Dialog][!speaker:Gangster_DeliveryFat_Normal]컨테이너 붙여놨으니 빨리 넘어가라고!	[!Sentence][!Dialog][!speaker:Gangster_DeliveryFat_Normal]集装箱都贴上了，快过去吧！
 #15180	[!Sentence][!Dialog][!speaker:Gangster_DeliveryHelmet_Normal]그 폭발에서 살아나오다니 정말 편한 능력이군.	[!Sentence][!Dialog][!speaker:Gangster_DeliveryHelmet_Normal]能在那种爆炸中生还，真是方便的能力。
 #15182	[!Sentence][!BalloonChat][!speaker:Joshua]백호의 옷을 걸치지 않은 자는 모두 적이다!	没穿白虎制服的全部是敌人！
 #15183	[!Sentence][!Dialog][!speaker:Irene_Fury]'내가 어떻게든 해결해야 해...'	[!Sentence][!Dialog][!speaker:Irene_Fury]'我无论如何都要解决...'
@@ -7824,7 +7824,7 @@
 #16357	[!Sentence][!Dialog][!speaker:Anne_Surprise]제가요??	[!Sentence][!Dialog][!speaker:Anne_Surprise]我吗？
 #16360	[!Sentence][!VictoryCondition]선택 목표 1: 제한 시간 내 공격팀을 모두 제압하시오.	[!Sentence][!VictoryCondition]选择目标 1: 在限制时间内压制所有攻击队。
 #16361	[!Sentence][!Dialog][!speaker:Ray_Normal]음. 책 선물 분명히 좋아할 거야.	[!Sentence][!Dialog][!speaker:Ray_Normal]嗯，如果是书的话，一定会喜欢。
-#16362	[!Sentence][!Dialog][!speaker:Sion_Laugh]맞아. 푸고 뒷골목 건물 위로 뛰어다니느라 말도 아니었어.	[!Sentence][!Dialog][!speaker:Sion_Laugh]没错，在府谷后街房顶上飞奔，别提了。
+#16362	[!Sentence][!Dialog][!speaker:Sion_Laugh]맞아. 푸고 뒷골목 건물 위로 뛰어다니느라 말도 아니었어.	[!Sentence][!Dialog][!speaker:Sion_Laugh]没错，在府谷后巷房顶上飞奔，别提了。
 #16363	[!Sentence][!VictoryCondition]공격팀으로 승리하시오.	[!Sentence][!VictoryCondition]请在攻击队获取胜利。
 #16364	[!Sentence][!Dialog][!speaker:Anne_Sorrow]......뭐에요. 둘 다.	[!Sentence][!Dialog][!speaker:Anne_Sorrow]......你们两位，这算什么。
 #16365	[!Sentence]공격팀으로 훈련을 진행합니다. 방어팀을 제압하거나 훈련장의 전파 방해기를 모두 파괴해야 합니다.	[!Sentence]以攻击队进行训练。压制防御队或破坏训练场的所有电波干扰器。
@@ -8172,7 +8172,7 @@
 #16764	[!Sentence][!Dialog][!speaker:Irene_Surprise]시온 군. 뭘 그렇게 흐뭇하게 바라보고 있나?	[!Sentence][!Dialog][!speaker:Irene_Surprise]席翁，你在心满意足地看什么？
 #16765	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]지금 이 일은 베르케 영감의 부탁인가?	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]现在这件事是别儿哥老头子指示的吗？
 #16766	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Hasan_Normal]이 푸고 거리는 엄연히 '성난 황소' 파의 구역입니다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonNormal_Hasan_Normal]这府谷大街无可置疑是'愤怒的公牛'的地盘。
-#16767	[!Sentence][!Dialog][!speaker:Gangster_SpoonFighter_ZhoHong_Normal]형님. 푸님이 자홍뒷골목에서 저희 보스를 의도적으로 돕지 않은 것이 사실입니까?	[!Sentence][!Dialog][!speaker:Gangster_SpoonFighter_ZhoHong_Normal]大哥，普在紫红后街故意没有帮首领的事是真的吗？
+#16767	[!Sentence][!Dialog][!speaker:Gangster_SpoonFighter_ZhoHong_Normal]형님. 푸님이 자홍뒷골목에서 저희 보스를 의도적으로 돕지 않은 것이 사실입니까?	[!Sentence][!Dialog][!speaker:Gangster_SpoonFighter_ZhoHong_Normal]大哥，普在紫红后巷故意没有帮首领的事是真的吗？
 #16768	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerDagger_HouCheng_Normal]하아... 이 자식들이 단체로 물 먹이려고 하네?	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerDagger_HouCheng_Normal]呼…这群家伙还真团结？
 #16769	[!Sentence][!VictoryCondition]전파 방해기를 파괴하시오.	[!Sentence][!VictoryCondition]破坏电波干扰器。
 #16770	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerThin_Kevin_Normal]네.	[!Sentence][!Dialog][!speaker:Albus_Disappoint]是。
@@ -8797,7 +8797,7 @@
 #17435	[!Sentence][!Dialog][!speaker:Giselle_Normal]초반에 달려든 녀석이 10명.	[!Sentence][!Dialog][!speaker:Giselle_Normal]最开始冲上来的有10个。
 #17436	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]별 탈 없어 다행이다.	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]幸好你的身体并无大碍。
 #17437	[!Sentence][!Dialog][!speaker:Albus_Disappoint]다들 정식 트러블슈터가 되기에 능력은 충분한데...	[!Sentence][!Dialog][!speaker:Albus_Disappoint]大家在能力方面毫不逊色于正式纷争终结者可是…
-#17438	[!Sentence][!Dialog]최근 푸고 뒷골목에서 큰 부상을 입었던 알버스는 회사의 큰 약점을 깨닫게 되었다.	[!Sentence][!Dialog]最近在府谷后街受到重伤的阿尔伯斯明白了公司的巨大弱点。
+#17438	[!Sentence][!Dialog]최근 푸고 뒷골목에서 큰 부상을 입었던 알버스는 회사의 큰 약점을 깨닫게 되었다.	[!Sentence][!Dialog]最近在府谷后巷受到重伤的阿尔伯斯明白了公司的巨大弱点。
 #17439	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]알버스 군. 괜찮나?	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]阿尔伯斯。你还好吗？
 #17440	[!Sentence][!Dialog]과거의 상사.	[!Sentence][!Dialog]以前的上司。
 #17441	[!Sentence][!Dialog][!speaker:Giselle_Normal]그럼 퇴각로에는 그의 절반 혹은 절반 이상 인가...	[!Sentence][!Dialog][!speaker:Giselle_Normal]那个退路上有这的一半或者一半以上吗…
@@ -10441,7 +10441,7 @@
 #19650	[!Sentence][!Dialog]하지만 모든 것은 변했다.	[!Sentence][!Dialog]但是所有一切的都改变了。
 #19651	[!Sentence][!Dialog][!speaker:Albus_Think]지원 병력이 오는 것도 고려해야겠군요.	[!Sentence][!Dialog][!speaker:Albus_Think]看来还需要考虑支援兵力。
 #19652	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]그래. 백호파의 세력권인 자홍거리지.	[!Sentence][!Dialog][!speaker:VHPD_Jane_Normal]是啊。白虎组的势力圈的紫红街。
-#19653	[!Sentence][!Title]황금 비단 시장 뒷거리	[!Sentence][!Title]黄金丝绸市场后街
+#19653	[!Sentence][!Title]황금 비단 시장 뒷거리	[!Sentence][!Title]黄金丝绸市场后巷
 #19654	[!Sentence][!Dialog]지역 불량배들은 높은 보호비를 요구하기 시작했다.	[!Sentence][!Dialog]恶棍就开始要求极高的保护费。
 #19655	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Smile_Young2]그렇게 결정한 거 였잖아.	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Smile_Young2]因此我们才决定独立的啊。
 #19657	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Smile2_Young2]도대체 뭐가... 꿈과 희망의 도시야...	[!Sentence][!Dialog][!speaker:Gangster_SpoonBat_Turk_Smile2_Young2]到底哪里是...充满梦想和希望的城市啊.....
@@ -11828,7 +11828,7 @@
 #21224	[!Sentence][!Dialog][!speaker:Lily_Smile][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']회수하지 못하면 다른 프로젝트 일도 처리 할 건가?	[image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']如果回收失败了，那别的项目也由你来负责了？
 #21226	[!Sentence][!Dialog][!speaker:Lily_Smile][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']그래. 그럼 부탁한다.	[!Sentence][!Dialog][!speaker:Lily_Smile][image-size='w:$ImgSize$ h:$ImgSize$'][image='Portrait2/Phone_Hand'][colour='FFFFE959']好，那就拜托你了。
 #21228	[!Sentence][!Title]세번째 선택	[!Sentence][!Title]第三次的选择
-#21229	[!Sentence][!Title]2년 반 전,  발할라 뒷거리	[!Sentence][!Title]2年半前，巴赫拉后街
+#21229	[!Sentence][!Title]2년 반 전,  발할라 뒷거리	[!Sentence][!Title]2年半前，巴赫拉后巷
 #21230	[!Sentence][!Dialog][!speaker:Leton_Stare]카터...	[!Sentence][!Dialog][!speaker:Ray_Surprise]卡特...
 #21231	[!Sentence][!Dialog][!speaker:Carter_Rage]레톤...	[!Sentence][!Dialog][!speaker:Carter_Rage]莱顿...
 #21232	[!Sentence][!Dialog][colour='FFFFFF00']인생이라는 것은 너무 가혹하다.	[!Sentence][!Dialog][colour='FFFFFF00']人生这东西太残酷了。
@@ -12327,7 +12327,7 @@
 #21745	[!Sentence][!Dialog][!speaker:Kylie_Satisfying]드라키들은 둥지 입구를 위장하기 위해 빙판을 만든다더니 정말이었네?	[!Sentence][!Dialog][!speaker:Kylie_Satisfying]德拉基为了伪装巢的存在制作冰盘原来是真的啊？
 #21746	[!Sentence][!Dialog][!speaker:Leton_Serious]'여기를 또 오게 될 줄이야...'	[!Sentence][!Dialog][!speaker:Leton_Serious]'没想到又来到这里了...'
 #21747	[!Sentence][!Dialog][!speaker:Albus_Surprise]드라키의 알??	[!Sentence][!Dialog][!speaker:Albus_Surprise]德拉基的蛋？？
-#21748	[!Sentence][!Dialog][!speaker:Albus_Serious]'더 큰 일이 되기 전에 안타깝지만 모두 처리해야겠어.'	[!Sentence][!Dialog][!speaker:Albus_Serious]'在更大的事情发生之前虽然很可惜但是要全部处理。'
+#21748	[!Sentence][!Dialog][!speaker:Albus_Serious]'더 큰 일이 되기 전에 안타깝지만 모두 처리해야겠어.'	[!Sentence][!Dialog][!speaker:Albus_Serious]'虽然很可惜但是在更大的事情发生之前要全部处理。'
 #21749	[!Sentence][!Dialog][!speaker:Sion_Happy]와!!	[!Sentence][!Dialog][!speaker:Sion_Happy]哇！！
 #21750	[!Sentence][!Dialog][!speaker:Sion_Happy]드라키의 알이잖아!!	[!Sentence][!Dialog][!speaker:Sion_Happy]是德拉基的蛋啊！！
 #21751	[!Sentence][!Dialog][!speaker:Sion_Normal]'드라키도 퇴화된 용족이라지만 꽤 괜찮은 맛일텐데...'	[!Sentence][!Dialog][!speaker:Sion_Normal]'德拉基是退化的龙，肯定很好吃吧...'
@@ -12550,10 +12550,10 @@
 #22363	[!Sentence][!VictoryCondition]야샤를 모두 제압하시오.	[!Sentence][!VictoryCondition]制服所有的夜叉。
 #22364	[!Sentence][!Title]화물 속의 불청객	[!Sentence][!Title]货物中的不速之客
 #22365	[!Sentence][!Title]푸른안개 거리	[!Sentence][!Title]蓝色雾霭大街
-#22366	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]이 밤중에 이렇게 출동해 주다니 고맙네.	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]这么晚还去出动，这是谢谢了。
-#22367	[!Sentence][!Dialog][!speaker:Albus_Normal]아닙니다. 당연히 시민들이 불편을 겪는데 출동해야죠.	[!Sentence][!Dialog][!speaker:Albus_Normal]不是的。市民受到不便，当然要去出动的。
+#22366	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]이 밤중에 이렇게 출동해 주다니 고맙네.	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]这么晚还出动，真是谢谢了。
+#22367	[!Sentence][!Dialog][!speaker:Albus_Normal]아닙니다. 당연히 시민들이 불편을 겪는데 출동해야죠.	[!Sentence][!Dialog][!speaker:Albus_Normal]不是的。市民受到不便，当然要出动的。
 #22368	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]다른 트러블슈터들이 자네들 같이 생각한다면 참 좋을 텐데...	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]别的纷争终结者也这样想就好了。
-#22369	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]요즘 트러블슈터들은 다 개인 사업이야. 돈 밖에 모른다고...	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]最近的纷争终结者都是个人事业。只想着钱。
+#22369	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]요즘 트러블슈터들은 다 개인 사업이야. 돈 밖에 모른다고...	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]最近的纷争终结者都只当做是生意，只想着钱。
 #22370	[!Sentence][!Dialog][!speaker:Albus_Laugh]아닙니다. 다들 바쁜 사정이 있으실 거에요.	[!Sentence][!Dialog][!speaker:Albus_Laugh]不是的，应该都有别的事情很忙碌的吧。
 #22371	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]그래. 그러면 좋겠다만...	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]嗯，如果真的是那样就好了。
 #22372	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]그리고 아이린. 달려와 줘서 고맙다.	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]艾琳，谢谢你来帮忙。
@@ -12571,12 +12571,12 @@
 #22384	[!Sentence][!Dialog][!speaker:Sion_Normal]할아버지. 그런데 이 곳 상황은 어떻게 된 거야?	[!Sentence][!Dialog][!speaker:Sion_Normal]爷爷，但是这个地方是什么情况啊？
 #22385	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]아. 그래 지금 벌어지는 일 말이지...	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]啊，现在发生的事情是吧...
 #22386	[!Sentence][!Dialog][!speaker:Albus_Normal]네.부탁드립니다.	[!Sentence][!Dialog][!speaker:Albus_Normal]请拜托说明下。
-#22387	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]보다시피 우리 마을은 근처 물류업체로부터 상품을 받아 포장하는 일을 주업으로 하고 있다네.	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]正如你所看到的，我们村主要从事包装附近物流企业收取的商品。
+#22387	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]보다시피 우리 마을은 근처 물류업체로부터 상품을 받아 포장하는 일을 주업으로 하고 있다네.	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]正如你所看到的，我们村主要从事包装附近物流企业收取的商品的业务。
 #22388	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]그러다보니 가끔은 철의 숲에서 유실된 화물들이 트러블슈터들에 의해 회수되어 바로 이곳으로 오기도 한다네.	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]因此，偶尔会有铁森林中流失的货物被纷争终结者回收后送到这里。
 #22389	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]아마도 그 화물 중에 야샤가 딸려 온 것 같아.	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]恐怕是那货物中流进了夜叉。
 #22390	[!Sentence][!Dialog][!speaker:Irene_Fury]수거한 녀석들이 제대로 확인했어야지.	[!Sentence][!Dialog][!speaker:Irene_Fury]回收的家伙们应该好好确认过的。
 #22391	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]그러게 말이다.	[!Sentence][!Dialog][!speaker:Gangster_SpoonBottle_Naam_Smile2_Young2]就是说啊....
-#22392	[!Sentence][!Dialog][!speaker:Albus_Normal]낮에는 발견되지 않는다고 들었습니다.	[!Sentence][!Dialog][!speaker:Albus_Normal]听说白天没有发过。
+#22392	[!Sentence][!Dialog][!speaker:Albus_Normal]낮에는 발견되지 않는다고 들었습니다.	[!Sentence][!Dialog][!speaker:Albus_Normal]听说白天没有发现。
 #22393	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]그 말 대로네. 낮에는 경찰들이 다녀갔지만, 도대체 찾을 수가 없었네.	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]就那么回事。白天警察来了，但是怎么也找不到。
 #22394	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]그리고 야간에는 경찰들은 강력 사건을 해결하는 데 바빠 이런 확인되지 않은 일은 상황이 심각해지기 전에는 출동조차 하려고 하지도 않네.	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]然后在夜间，警察们忙于解决大型事件，在情况严重之前，是不会出动的。
 #22395	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]결국 상황을 해결하지 못하고 이렇게 방치하고 있다네.	[!Sentence][!Dialog][!speaker:Civil_Oldman_Bebo_Normal]结果还是解决不了情况，就这么置之不理了。
@@ -12592,7 +12592,7 @@
 #22406	[!Sentence][!Dialog][!speaker:Anne_Normal2]'이 마을 사람들은 아이린 언니를 정말 좋아하는 구나...'	[!Sentence][!Dialog][!speaker:Anne_Normal2]'这村里的人真的是喜欢艾琳姐姐呐...'
 #22407	[!Sentence][!Dialog][!speaker:Ray_Smile]'보기 좋은 모습이네...'	[!Sentence][!Dialog][!speaker:Ray_Smile]'看起来很好...'
 #22408	[!Sentence][!Dialog][!speaker:Kylie_Satisfying]그 녀석들 의뢰금 수령에 바빠서 신경도 안 쓸거야.	[!Sentence][!Dialog][!speaker:Kylie_Satisfying]那些家伙忙着领取委托金，不会去管。
-#22409	[!Sentence][!Dialog][!speaker:Kylie_Normal]뭐. 원래 의뢰가 화물 회수였다고 오히려 당당할 걸?	[!Sentence][!Dialog][!speaker:Kylie_Normal]反而理直气壮的说任务已经完成了。
+#22409	[!Sentence][!Dialog][!speaker:Kylie_Normal]뭐. 원래 의뢰가 화물 회수였다고 오히려 당당할 걸?	[!Sentence][!Dialog][!speaker:Kylie_Normal]反而理直气壮地说任务已经完成了。
 #22410	[!Sentence][!Dialog][!speaker:Leton_Laugh]그럼 이제 시작인가~☆	[!Sentence][!Dialog][!speaker:Leton_Laugh]那么现在开始吗~☆
 #22411	[!Sentence][!Dialog][!speaker:Leton_Smile]나한테 맡겨줘. 한 사람 몫 확실히 해낼 테니까~☆	[!Sentence][!Dialog][!speaker:Leton_Smile]交给我吧，一定会做好的~☆
 #22412	[!Sentence][!BalloonChat]히이익~~ 히이익~~	[!Sentence][!BalloonChat]咿咿~咿咿~
@@ -12769,7 +12769,7 @@
 #22585	[!DialogQuest][!speaker:Albus_Think]'삼청 마을에서 도망간 녀석인가... 아니면...'	[!DialogQuest][!speaker:Albus_Think]'是从三清村逃跑的吗... 还是...'
 #22586	[!DialogQuest][!speaker:Giselle_Normal]암흑 야샤는 구석지고 어두운 장소에 둥지를 틀고 싶어하지.	[!DialogQuest][!speaker:Giselle_Normal]暗黑夜叉喜欢在黑黑的角落做巢的。
 #22587	[!DialogQuest][!speaker:Giselle_Smile]고물 처리장은 그런 면에서 그들에게 나쁘지 않은 곳이야.	[!DialogQuest][!speaker:Giselle_Smile]旧货处理厂在那方面确实是他们喜欢的场所。
-#22588	[!DialogQuest][!speaker:Albus_SurpriseStare]전에 놓친 녀석일 확률도 높겠군요.	[!DialogQuest][!speaker:Albus_SurpriseStare]以前错过地家伙地概率也很高吧。
+#22588	[!DialogQuest][!speaker:Albus_SurpriseStare]전에 놓친 녀석일 확률도 높겠군요.	[!DialogQuest][!speaker:Albus_SurpriseStare]以前错的地家伙的概率也很高吧。
 #22589	[!DialogQuest][!speaker:Giselle_Smile]그럴 가능성도 없는 건 아니지.	[!DialogQuest][!speaker:Giselle_Smile]也不是没有那种可能性。
 #22590	[!DialogQuest][!speaker:Giselle_Smile]하지만 야샤가 공공연하게 거미줄을 늘려간 다는 것은 무리를 이루었다는 것이지.	[!DialogQuest][!speaker:Giselle_Smile]但是夜叉的蜘蛛网变大则说明他们成群结队了。
 #22591	[!DialogQuest][!speaker:Giselle_Satisfying]한 마리 정도 놓쳐서 생긴 일은 아닐거야.	[!DialogQuest][!speaker:Giselle_Satisfying]并不会是因为落下几只才发生的事。
@@ -12865,7 +12865,7 @@
 #22685	[!Sentence][!Dialog][!speaker:Sion_Think]사장님! 바로 수색 시작합니까?	[!Sentence][!Dialog][!speaker:Sion_Think]老板！立马进行搜索吗？
 #22686	[!Sentence][!Dialog][!speaker:Irene_Normal]나도 바로 시작할 수 있다.	[!Sentence][!Dialog][!speaker:Irene_Normal]我也能马上开始。
 #22687	[!Sentence][!Dialog][!speaker:Albus_Laugh]'생각보다 고물 더미가 많네...'	[!Sentence][!Dialog][!speaker:Albus_Laugh]'旧货堆比想象的还多...'
-#22688	[!Sentence][!Dialog][!speaker:Albus_Normal]'하나하나 다 들여다봐야겠구나...'	[!Sentence][!Dialog][!speaker:Albus_Normal]'看来需要要一个个的调查啊...'
+#22688	[!Sentence][!Dialog][!speaker:Albus_Normal]'하나하나 다 들여다봐야겠구나...'	[!Sentence][!Dialog][!speaker:Albus_Normal]'看来需要一个个地调查啊...'
 #22689	[!Sentence][!Dialog][!speaker:Albus_Normal]일단 야샤가 있을 만한 장소를 수색하도록 하겠습니다!	[!Sentence][!Dialog][!speaker:Albus_Normal]我们首先去搜索夜叉可能存在的地方！
 #22690	[!Sentence][!Dialog][!speaker:Giselle_Normal]뭘 그렇게 고민하는 거야. 알버스.	[!Sentence][!Dialog][!speaker:Giselle_Normal]干嘛那么烦恼啊，阿尔伯斯。
 #22691	[!Sentence][!Dialog][!speaker:Albus_Normal]생각보다 많은 고물 더미에서 어떻게 수색을 해야될 지 감이 잡히지 않아서요...	[!Sentence][!Dialog][!speaker:Albus_Normal]旧货堆比想象的多，不知道怎么搜索才好...
@@ -12875,7 +12875,7 @@
 #22695	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]이제 막 성숙기에 접어든 녀석들이겠지.	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]应该都是刚刚进入成熟期的家伙吧。
 #22696	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]저번처럼 도망만 가지는 않겠군요.	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]看来是不会像上次那样光顾着逃跑了吧。
 #22697	[!Sentence][!Dialog][!speaker:Giselle_Normal]그래. 공격을 하겠지만 당연히 기회가 생기면 도망치겠지.	[!Sentence][!Dialog][!speaker:Giselle_Normal]是啊。虽然会攻击我们，但如果有机会还是会逃跑的。
-#22698	[!Sentence][!Dialog][!speaker:Giselle_Smile]지금 상황으로 봐서는 아직 여기가 안전한 둥지는 아니니까.	[!Sentence][!Dialog][!speaker:Giselle_Smile]现在的情况应该不会是安全的巢穴的。
+#22698	[!Sentence][!Dialog][!speaker:Giselle_Smile]지금 상황으로 봐서는 아직 여기가 안전한 둥지는 아니니까.	[!Sentence][!Dialog][!speaker:Giselle_Smile]现在的情况这地方还不是最安全的巢穴。
 #22699	[!Sentence][!Dialog][!speaker:Kylie_Normal]억만이 녀석이 트러블슈터 할 때부터 구두쇠처럼 모아서 만든 곳이지.	[!Sentence][!Dialog][!speaker:Kylie_Normal]是亿万在纷争终结者时期就开始节约所准备的地方啊。
 #22700	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]트러블슈터요?	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]纷争终结者吗？
 #22701	[!Sentence][!Dialog][!speaker:Kylie_Smile]알버스는 이 지역 사람이 아니라 몰랐구나?	[!Sentence][!Dialog][!speaker:Kylie_Smile]阿尔伯斯不是本地人，所以并不知道的哇？
@@ -12914,7 +12914,7 @@
 #22734	[!Sentence][!Dialog][!speaker:Ray_Surprise]와... 이것 고가품인데...	[!Sentence][!Dialog][!speaker:Ray_Surprise]哇...这个可是高级产品啊...
 #22735	[!Sentence][!Dialog][!speaker:Ray_Surprise_Smile]그런 이건 오늘부터 내 꺼~☆	[!Sentence][!Dialog][!speaker:Ray_Surprise_Smile]那么这个从今天开始是我的了~☆
 #22736	[!Sentence][!Dialog][!speaker:Kylie_Smile]역시 억만이 녀석. 꼼꼼하지 못하다니까.	[!Sentence][!Dialog][!speaker:Kylie_Smile]果然亿万这家伙，还是不够仔细。
-#22737	[!Dialog]필요한 물건이라면 바로 바로 가져옵니다!	[!Dialog]任何需要的东西， 我们店可以给您拿来。
+#22737	[!Dialog]필요한 물건이라면 바로 바로 가져옵니다!	[!Dialog]我们店可以给您拿来任何需要的东西。
 #22738	[!Dialog]좋은 물건을 가져다 놓았죠! 보고 가세요!	[!Dialog]有好东西进货了，来看看吧！
 #22739	[!DialogQuest][!speaker:Roberto_Normal]자네 실력은 내가 보증하지.	[!DialogQuest][!speaker:Roberto_Normal]你的实力由我保证。
 #22740	[!DialogQuest][!speaker:Roberto_Smile]언제든지 협업을 할 생각이 있다면 찾아와.	[!DialogQuest][!speaker:Roberto_Smile]有心跟我一起工作的话，随时来找我。
@@ -13022,18 +13022,18 @@
 #22842	[!DialogQuest][!speaker:Sion_SurpriseStare]'사장님 또!?'	[!DialogQuest][!speaker:Sion_SurpriseStare]'老板！？'
 #22843	[!DialogQuest][!speaker:Oleg_Normal]아니. 어떤 녀석들이 철의 숲 외곽 도로에 있는 내 화물들을 가져갔어.	[!DialogQuest][!speaker:Oleg_Normal]啊，我的货物在铁森林外围道路上被拿走了。
 #22844	[!DialogQuest][!speaker:Oleg_Normal]말 그대로야. 철의 숲 외곽 도로에 있던 화물이 검문소 안으로 들어오는 것을 GPS를 통해 확인했는데...	[!DialogQuest][!speaker:Oleg_Normal]原本已经通过GPS确认过进入了铁森林外围道路的检查站的...
-#22845	[!DialogQuest][!speaker:Oleg_Normal]모조리 자홍뒷거리로 모이더군. 내 참 어이가 없어서...	[!DialogQuest][!speaker:Oleg_Normal]都在紫红后街聚集呢。真是搞笑...
+#22845	[!DialogQuest][!speaker:Oleg_Normal]모조리 자홍뒷거리로 모이더군. 내 참 어이가 없어서...	[!DialogQuest][!speaker:Oleg_Normal]都在紫红后巷聚集呢。真是搞笑...
 #22846	[!DialogQuest][!speaker:Albus_SurpriseStare]다른 트러블슈터가 잠시 회수 중에 모아둔 것은 아니고요?	[!DialogQuest][!speaker:Albus_SurpriseStare]不是其他的纷争终结者在回收过程中暂时贮存在那的吗？
 #22847	[!DialogQuest][!speaker:Oleg_Normal]화물 회수를 의뢰한 트러블슈터에게는 언락 코드를 다 알려줬지.	[!DialogQuest][!speaker:Oleg_Normal]早就给接受委托的纷争终结者密码了。
 #22848	[!DialogQuest][!speaker:Oleg_Normal]언락 코드를 입력할 경우 GPS 신호가 끊어지니 절대 트러블슈터가 아니지.	[!DialogQuest][!speaker:Oleg_Normal]输入了密码的话，GPS信号会断掉的。所以绝对不会是纷争终结者。
-#22849	[!DialogQuest][!speaker:Irene_Fury]자홍뒷거리라면 분명 암시장 뒷거래를 하려고 가져간 거야.	[!DialogQuest][!speaker:Irene_Fury]紫红后街的话，分明是为了在黑市交易的。
+#22849	[!DialogQuest][!speaker:Irene_Fury]자홍뒷거리라면 분명 암시장 뒷거래를 하려고 가져간 거야.	[!DialogQuest][!speaker:Irene_Fury]紫红后巷的话，分明是为了在黑市交易的。
 #22850	[!DialogQuest][!speaker:Ray_Serious]국경 지대 근처의 상권이 밀수를 안하면 그것도 이상하지.	[!DialogQuest][!speaker:Ray_Serious]国境地带附近的商圈若不走私，那也挺奇怪的。
 #22851	[!DialogQuest][!speaker:Ray_Serious]조금만 위험을 감수하면 큰 이익을 볼 수 있으니까...	[!DialogQuest][!speaker:Ray_Serious]因为只要稍微冒一点风险，就能够获得很大的利益...
 #22852	[!DialogQuest][!speaker:Kylie_Smile]'앨리 녀석들이라면 밀수라는 일은 익숙한 일이겠군...'	[!DialogQuest][!speaker:Kylie_Smile]'艾丽那家伙们肯定很熟悉关于走私的事吧...'
 #22853	[!DialogQuest][!speaker:Albus_Think]'공공연하게 무기 밀매가 되는 자홍뒷거리의 암시장... 언젠가 한 번 가봐야겠어...'	[!DialogQuest][!speaker:Albus_Think]'明目张胆地走私武器的黑市啊...以后得去一趟看看了...'
 #22854	[!DialogQuest][!speaker:Albus_Laugh]일단 그 화물들 저희가 회수해 오겠습니다.	[!DialogQuest][!speaker:Albus_Laugh]那货物就由我们来回收吧。
 #22855	[!DialogQuest][!speaker:Oleg_Smile]오. 정말? $CompanyName$[가] 이런 일을 할 여유가 있나?	[!DialogQuest][!speaker:Oleg_Smile]喔，是吗？$CompanyName$有空做这些事吗？
-#22856	[!DialogQuest][!speaker:Albus_Normal]자홍 뒷거리로 흘러간 무기 상품들이 어떻게 쓰일 것인지 너무 뻔한 상황에서 모른 척 할 수 없네요.	[!DialogQuest][!speaker:Albus_Normal]知道流入紫红后街的武器会导致什么事，是无法呆呆的看着呢。
+#22856	[!DialogQuest][!speaker:Albus_Normal]자홍 뒷거리로 흘러간 무기 상품들이 어떻게 쓰일 것인지 너무 뻔한 상황에서 모른 척 할 수 없네요.	[!DialogQuest][!speaker:Albus_Normal]知道流入紫红后巷的武器会导致什么事，是无法呆呆的看着呢。
 #22857	[!DialogQuest][!speaker:Oleg_Normal]오. 그렇군. 그래 맞아.	[!DialogQuest][!speaker:Oleg_Normal]噢！那也是啊。
 #22858	[!DialogQuest][!speaker:Oleg_Smile]이 화물들을 놔두면 대부분 범죄 조직으로 흘러 들어갈거야. 그 전에 회수해야지!	[!DialogQuest][!speaker:Oleg_Smile]放着这些货物不管，大部分会流入犯罪组织。需要在那之前收回啊！
 #22859	[!DialogQuest][!speaker:Albus_Normal]네. 회수해 오겠습니다.	[!DialogQuest][!speaker:Albus_Normal]是的。
@@ -13060,7 +13060,7 @@
 #22880	[!DialogQuest][!speaker:Oleg_Normal]너희들을 응원한다.	[!DialogQuest][!speaker:Oleg_Normal]我会为你们加油的。
 #22881	[!DialogQuest][!speaker:Oleg_Normal]역시 믿을 만한 트러블슈터는 너희밖에 없구나.	[!DialogQuest][!speaker:Oleg_Normal]果然能够相信的纷争终结者就只有你们了。
 #22882	[!DialogQuest][!speaker:Oleg_Normal]나도 이런 일이 계속 생기지 않으면 좋겠다. 매번 고맙고 미안해.	[!DialogQuest][!speaker:Oleg_Normal]我也不希望这种事情继续发生。每次即感谢你们又感到很抱歉。
-#22883	[!DialogQuest][!speaker:Albus_SurpriseStare]이번에도 자홍 뒷거리인가요?	[!DialogQuest][!speaker:Albus_SurpriseStare]这次也是紫红后街吗？
+#22883	[!DialogQuest][!speaker:Albus_SurpriseStare]이번에도 자홍 뒷거리인가요?	[!DialogQuest][!speaker:Albus_SurpriseStare]这次也是紫红后巷吗？
 #22884	[!DialogQuest][!speaker:Sion_Happy]제가 당장 달려가서 회수해 오겠습니다~☆	[!DialogQuest][!speaker:Sion_Happy]我马上跑去回收~☆
 #22885	[!DialogQuest][!speaker:Oleg_Normal]아니야. 이번에는 철의 숲 내부로 들어 갔어.	[!DialogQuest][!speaker:Oleg_Normal]哦，不是。这次是铁森林的内部。
 #22886	[!DialogQuest][!speaker:Albus_SurpriseStare]설마... 티마들이?	[!DialogQuest][!speaker:Albus_SurpriseStare]难道...是蒂玛群？
@@ -13163,7 +13163,7 @@
 #22983	[!DialogQuest][!speaker:Sam_Smile]이야~ 고마워. 덕분에 다른 상인들에게 비싼 값을 주고 물건 받아오지 않아도 돼서 좋네.	[!DialogQuest][!speaker:Sam_Smile]咿呀~谢谢了。多亏了你们，不需要从别的商人那儿高价收货了。
 #22984	[!DialogQuest][!speaker:Sam_Smile]또 필요하면 이런 거래 어때? 서로에게 좋은 거래 아닌가?	[!DialogQuest][!speaker:Sam_Smile]如果我再次需要的话，下次再做交易怎么样？对彼此来说，这不是一笔好买卖吗？
 #22985	[!DialogQuest][!speaker:Albus_Normal]네. 또 거래가 있다면 생각해 보겠습니다.	[!DialogQuest][!speaker:Albus_Normal]是的。下次有机会就再来做交易吧。
-#22986	[!DialogQuest][!speaker:Sam_Normal]이번에도 필요한 물건이 있는데 관심 있어?	[!DialogQuest][!speaker:Sam_Normal]这次也有需要的东西想要委托在，有兴趣听吗？
+#22986	[!DialogQuest][!speaker:Sam_Normal]이번에도 필요한 물건이 있는데 관심 있어?	[!DialogQuest][!speaker:Sam_Normal]这次也有需要的东西想要进行委托，有兴趣听吗？
 #22987	[!DialogQuest][!speaker:Albus_Normal]이번에 필요하신 물건은 무엇인가요?	[!DialogQuest][!speaker:Albus_Normal]这次需要的东西是什么呢？
 #22988	[!DialogQuest][!speaker:Sam_Smile]이번에 확보하려는 물품은 맹수의 발톱이야.	[!DialogQuest][!speaker:Sam_Smile]这次想要获取的是猛兽之爪。
 #22989	[!DialogQuest][!speaker:Sam_Smile]어때?	[!DialogQuest][!speaker:Sam_Smile]怎样？
@@ -13291,8 +13291,8 @@
 #23111	[!DialogQuest][!speaker:Anne_Normal]'아... 그래서 회중시계를 찾아드렸을 때... 표정이 좋지 않으셨구나...'	[!DialogQuest][!speaker:Anne_Normal]'啊... 之所以当时找回怀表的时候... 表情并不好啊...'
 #23112	[!DialogQuest][!speaker:Sion_SurpriseStare]'설마... 이번엔 시곗줄 찾아오는 거야...'	[!DialogQuest][!speaker:Sion_SurpriseStare]'难道... 这次是要找回表链吗...'
 #23113	[!DialogQuest][!speaker:Kylie_Normal]그래서 그 시곗줄이 어디 있는지 아는거야?	[!DialogQuest][!speaker:Kylie_Normal]那么是知道在哪里才能找到表链吗？
-#23114	[!DialogQuest][!speaker:Dembel_Smile]네. 혹시나 해서 자홍뒷거리의 암시장의 상인들에게 물어봤어요.	[!DialogQuest][!speaker:Dembel_Smile]嗯，我问过紫红后街的黑市商人了。
-#23115	[!DialogQuest][!speaker:Kylie_Serious]자홍뒷거리 암시장? 이미 그 쪽에서 유통되었다면 되찾기는 힘들텐데...	[!DialogQuest][!speaker:Kylie_Serious]紫红后街的黑市？在那里流通的话是很难找回的...
+#23114	[!DialogQuest][!speaker:Dembel_Smile]네. 혹시나 해서 자홍뒷거리의 암시장의 상인들에게 물어봤어요.	[!DialogQuest][!speaker:Dembel_Smile]嗯，我问过紫红后巷的黑市商人了。
+#23115	[!DialogQuest][!speaker:Kylie_Serious]자홍뒷거리 암시장? 이미 그 쪽에서 유통되었다면 되찾기는 힘들텐데...	[!DialogQuest][!speaker:Kylie_Serious]紫红后巷的黑市？在那里流通的话是很难找回的...
 #23116	[!DialogQuest][!speaker:Giselle_Normal]장물이 거래되었다고 해도 산 쪽에서 몰랐다고 하면 돌려받기 힘들 텐데?	[!DialogQuest][!speaker:Giselle_Normal]即使找到了，如果购买方说拒绝的话，恐怕很难收回吧？
 #23117	[!DialogQuest][!speaker:Kylie_Rage]'이 여자는 왜 또 갑자기 아는 척이야...'	'这女的为什么会知道啊...'
 #23118	[!DialogQuest][!speaker:Dembel_Normal]네. 잘 알고 있죠. 그래서 혹시 누가 가지고 있는지 알면 제가 더 비용을 주고서라도 매입하려고 했어요.	[!DialogQuest][!speaker:Dembel_Normal]是的。我也很清楚。所以如果知道是谁拥有的，我宁愿花更多的费用也要买入。
@@ -13345,11 +13345,11 @@
 #23165	[!DialogQuest][!speaker:Dimitri_Surprise]아!?	[!DialogQuest][!speaker:Dimitri_Surprise]嗯！？
 #23166	[!DialogQuest][!speaker:Dimitri_Surprise]네 녀석 트러블슈터지?	[!DialogQuest][!speaker:Dimitri_Surprise]你们是纷争终结者吧？
 #23167	[!DialogQuest][!speaker:Albus_Normal]네. 디미트리 씨.	是的，迪米特里爷爷。
-#23168	[!DialogQuest][!speaker:Dimitri_Rage]좋아. 의뢰다.	那好，我要委托。
+#23168	[!DialogQuest][!speaker:Dimitri_Rage]좋아. 의뢰다.	好嘞，这是我的委托。
 #23169	[!DialogQuest][!speaker:Dimitri_Rage]메트로디움의 옥상 주차장으로 당장 달려가 내 미술품을 회수해 와라.	去梅特罗迪翁的屋顶停车场找回我的美术品吧。
 #23170	[!DialogQuest][!speaker:Dimitri_Rage]빨리 가지 않고 뭐하나?	还不快去？磨蹭什么？
 #23171	[!DialogQuest][!speaker:Albus_Laugh]무슨 일인지 천천히 설명해 주세요. 디미트리 씨.	您先慢慢说一下来龙去脉，迪米特里爷爷。
-#23172	[!DialogQuest][!speaker:Dimitri_Rage]답답한 녀석! 지금 빨리 가지 않으면 미술품이 도난당하거나 훼손될 수 있는데 뭐하는 거냐!	你这慢条斯理的家伙！现在不去的话，美术品会被偷走或损坏的！还不去吗？！
+#23172	[!DialogQuest][!speaker:Dimitri_Rage]답답한 녀석! 지금 빨리 가지 않으면 미술품이 도난당하거나 훼손될 수 있는데 뭐하는 거냐!	真是郁闷的家伙啊！现在不快去的话，美术品会被盗或损坏的！还不快给我去?!
 #23173	[!DialogQuest][!speaker:Albus_Laugh]저희가 아직 의뢰를 수락한 것도 아닌데....	我们还没有决定要接受委托啊...
 #23174	[!DialogQuest][!speaker:Dimitri_Rage]뭐라고!?	[!DialogQuest][!speaker:Dimitri_Rage]什么？！
 #23175	[!DialogQuest][!speaker:Kylie_Normal]디미트리 씨. 진정하고 이야기 해.	[!DialogQuest][!speaker:Kylie_Normal]迪米特里，先镇静一下吧。
@@ -13373,7 +13373,7 @@
 #23193	[!DialogQuest][!speaker:Kylie_Rage]그래 받지마. 자기만 아는 늙은이는 곤란을 겪어야 정신차리지.	[!DialogQuest][!speaker:Kylie_Rage]是啊，不要接受了。只想着自己的老头是需要收到教训的。
 #23194	[!DialogQuest][!speaker:Dimitri_Rage]뭐? 이 망할 기름쟁이 녀석!	[!DialogQuest][!speaker:Dimitri_Rage]什么？这满身是油的家伙！
 #23195	[!DialogQuest][!speaker:Anne_Sorrow]아... 다들 그러지 마세요...	[!DialogQuest][!speaker:Anne_Sorrow]啊... 不要这样了...
-#23196	[!DialogQuest][!speaker:Roberto_Normal]아 정말... 씨끄러워서 들어와보니...	真不像话...这都什么乱七八糟的...
+#23196	[!DialogQuest][!speaker:Roberto_Normal]아 정말... 시끄러워서 들어와보니...	真不像话...这都什么乱七八糟的...
 #23197	[!DialogQuest][!speaker:Roberto_Normal]할아범. 그만하라고. 어차피 지금 당장 할아범 미술품 회수해야 하잖아.	老爷爷，你先别这样。反正现在重要的是立马回收你的美术品对吧。
 #23198	[!DialogQuest][!speaker:Dimitri_Normal]네 녀석. 로베르토. 니가 빨리 가!	是你这家伙。正好你去回收吧！
 #23199	[!DialogQuest][!speaker:Roberto_Smile]싫은데?	[!DialogQuest][!speaker:Roberto_Smile]我才不要。
@@ -14192,7 +14192,7 @@
 #24251	[!Sentence][!Title]희망 가득히...	[!Sentence][!Title]充满希望地...
 #24252	[!Sentence][!Title]푸고 거리 사건 종결 후	[!Sentence][!Title]府谷街事件终结后
 #24254	[!Sentence][!Dialog][!speaker:Sion_Depressed]아... 내일부터는 또 무슨 일을 해야 하나...	[!Sentence][!Dialog][!speaker:Sion_Depressed]啊... 从明天开始又得干什么好呢...
-#24255	[!Sentence][!Title]푸고 뒷거리 포장마차 거리.	[!Sentence][!Title]府谷后街帐篷小店街。
+#24255	[!Sentence][!Title]푸고 뒷거리 포장마차 거리.	[!Sentence][!Title]府谷后巷帐篷小店街。
 #24261	[!Sentence][!Dialog][!speaker:Sion_Think]'지금 생활할 돈도 없는데 1년 견습 생활을 어떻게 버텨...'	[!Sentence][!Dialog][!speaker:Sion_Think]'现在都没钱生活了，怎么过1年的见习生活呢…'
 #24277	[!Sentence][!Dialog]이날 시온은 1년간 아르바이트 생활의 종지부를 찍고 $CompanyName$의 입사를 결정한다.	[!Sentence][!Dialog]这一天席翁给为期1年的打工生活画上了终止符，决定加入到$CompanyName$公司。
 #24278	[!Sentence][!Dialog][!speaker:Sion_Normal_Young]형! 형! 나 형들이랑 같이 살 수 있어!	[!Sentence][!Dialog][!speaker:Sion_Normal_Young]哥！哥！我能和哥哥们一起生活了！
@@ -14276,7 +14276,7 @@
 #24361	[!Sentence][!Title]자홍거리 고급 식당가	[!Sentence][!Title]紫红大街高级餐厅街
 #24362	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]보스. 주변 일대가 포위 당했습니다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]首领，被敌人包围了。
 #24363	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]저와 다리우스가 주변 시선을 끌겠습니다. 보스는 이 곳을 일단 피하십시오.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]我和大流士会争取时间的。首领，您先避开吧。
-#24364	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]여기마저 물러나면 어쩌겠다는 거냐!	是可忍孰不可忍！
+#24364	[!Sentence][!Dialog][!speaker:Gangster_Foo_Normal]여기마저 물러나면 어쩌겠다는 거냐!	士可忍孰不可忍！
 #24365	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]보스는 이미 한 번 무너진 조직을 다시 일으켜 세우셨습니다.	首领已经将崩溃的组织重建一次了。
 #24366	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]오늘의 위험만 피하신다면 분명 내일의 조직은 그 어느 때보다 더 강력한 백호가 될 것 입니다.	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerFat_Berke_Normal]只要能顺利避开今天的危险，明天的白虎肯定会变得更强大。
 #24367	[!Sentence][!Dialog][!speaker:Gangster_WhiteTigerHelmet_Darius_Normal]보스. 베르케 님. 적어도 지금은 상황을 보는 것이 나을 것 같습니다.	首领，别儿哥大哥。现在至少先观望一下比较好。
@@ -14885,7 +14885,7 @@
 #24981	[!Sentence][!BalloonChat][!speaker:Danny]병신 녀석.	蠢貨
 #24982	[!Sentence][!Dialog][!speaker:Gangster_DannyLaw_Normal]칼 겨눈 자가 살아있건만 어딜 한눈파는 거야.	[!Sentence][!Dialog][!speaker:Gangster_DannyLaw_Normal]刀剑相向的人在这里，却看向别处呢。
 #24983	[!Sentence][!Title]끝나버린 영광	[!Sentence][!Title]结束的荣耀
-#24984	[!Sentence][!Title]까마귀골목 뒷거리	[!Sentence][!Title]乌鸦巷子的后街
+#24984	[!Sentence][!Title]까마귀골목 뒷거리	[!Sentence][!Title]乌鸦巷子的后巷
 #24985	[!Sentence][!Dialog][!speaker:Gangster_BullFat_Normal]물건은 녀석들에게 넘겼다.	东西已经给递给那些家伙们了。
 #24986	[!Sentence][!Dialog][!speaker:Gangster_BullThin_Miles_Normal]이젠 다들 어떻게 할 건가?	[!Sentence][!Dialog][!speaker:Gangster_BullThin_Miles_Normal]现在大家想要干什么？
 #24987	[!Sentence][!Dialog][!speaker:Gangster_BullNormal_Normal]뭘 어떻게 해? 이 지역을 떠야지.	什么怎么做？当然要离开这里了。
@@ -15782,7 +15782,7 @@
 #26055	[!Sentence][!Dialog]넌 카터 앨리.	[!Sentence][!Dialog]你是卡特艾丽。
 #26056	[!Sentence][!Dialog]내가 지켜야 할 가족이다.	[!Sentence][!Dialog]是我该守护的家人。
 #26057	[!Dialog]『 즐거운 추억이었나... 』	『 算是个愉快的回忆吗... 』
-#26058	[!Dialog]이 날 정신을 잃은 헤이싱이 다시 출근한 것은 일주일 뒤였다.	失去意识的黑星再次去上班，是一周之后的事情了。
+#26058	[!Dialog]이 날 정신을 잃은 헤이싱이 다시 출근한 것은 일주일 뒤였다.	失去意识的黑星离再次去上班，已经过了一周。
 #26059	[!Dialog][!speaker:Giselle_Satisfying]복귀 환영해. 특사님.	[!Dialog][!speaker:Giselle_Satisfying]欢迎回来，特使。
 #26060	[!Dialog][!speaker:Albus_SurpriseStare]헤이싱 씨!?	[!Dialog][!speaker:Albus_SurpriseStare]黑星！？
 #26061	[!Dialog][!speaker:Heissing_Smile]사장. 좋은 아침이다.	[!Dialog][!speaker:Heissing_Smile]老板，早上好。
@@ -15863,7 +15863,7 @@
 #26159	[!Sentence][!Dialog][!speaker:VHPD_Issac_Normal]트러블슈터 무장해제의 로베르토일세.	[!Sentence][!Dialog][!speaker:VHPD_Issac_Normal]是纷争终结者解除武装的罗伯托。
 #26160	[!Sentence][!Dialog][!speaker:Joel_Smile]아. 그 젊은 트러블슈터 말이군요.	[!Sentence][!Dialog][!speaker:Joel_Smile]啊，那年轻的纷争终结者啊。
 #26161	[!Sentence][!Dialog][!speaker:VHPD_Issac_Normal]그래. 요즘 드문 강력 범죄 전문 트러블슈터가 되겠다고 난리인 녀석이지.	嗯，是最近罕见的闹着要成为大型犯罪解决专家的家伙。
-#26162	[!Sentence][!Dialog][!speaker:Joel_Smile]덕분에 강력 사건 출동이 용이해졌지 않습니까.	多亏了他，大型事件才能更容易地出动。
+#26162	[!Sentence][!Dialog][!speaker:Joel_Smile]덕분에 강력 사건 출동이 용이해졌지 않습니까.	多亏了他，大型事件才能够更容易的出动了呢。
 #26163	[!Sentence][!Dialog][!speaker:Joel_Smile]적어도 전 그 의지는 높이 평가합니다.	[!Sentence][!Dialog][!speaker:Joel_Smile]至少我高度评价他的意志呢。
 #26164	[!Sentence][!Dialog][!speaker:VHPD_Issac_Normal]그래. 모든 일에는 장단점이 있지.	嗯，所有的事情都有两面性。
 #26165	[!Sentence][!Dialog]좋은 녀석은 오래 살아주길 바란다.	希望好孩子能一直活下去。
@@ -17734,13 +17734,13 @@
 #28231	[!DialogQuest][!speaker:Kylie_Smile]그래.	[!DialogQuest][!speaker:Kylie_Smile]没错。
 #28232	[!DialogQuest][!speaker:Dembel_Normal]이제껏 GPS 신호가 안 잡히는 경우는 있었어도 이런 경우는 처음이야.	[!DialogQuest][!speaker:Dembel_Normal]虽然有过GPS信号无法捕捉到的情况，但是货物的位置和信号的位置出现偏差的情况还是第一次。
 #28233	[!DialogQuest][!speaker:Irene_Surprise]그러면 운송업체가 일을 제대로 안 하고 발뺌하는 건가?	[!DialogQuest][!speaker:Irene_Surprise]那是运输企业没有好好的干活，在抵赖吗？
-#28234	[!DialogQuest][!speaker:Dembel_Normal]그건 아닌 것 같아. 단지 도착한 화물에 도착하지 않은 운송장이 나뉘어 붙여진 것으로 보여.	[!DialogQuest][!speaker:Dembel_Normal]好像不是。到达的货物上好像被贴上了未到达的货物运单。
+#28234	[!DialogQuest][!speaker:Dembel_Normal]그건 아닌 것 같아. 단지 도착한 화물에 도착하지 않은 운송장이 나뉘어 붙여진 것으로 보여.	[!DialogQuest][!speaker:Dembel_Normal]好像不是。收到的货物上好像被贴上了不该经过的物流中心的货物运单。
 #28235	[!DialogQuest][!speaker:Ray_Normal]화물 바꿔치기야.	[!DialogQuest][!speaker:Ray_Normal]是货物偷换。
 #28236	[!DialogQuest][!speaker:Anne_Surprise]화물 바꿔치기요?	[!DialogQuest][!speaker:Anne_Surprise]货物偷换？
-#28237	[!DialogQuest][!speaker:Ray_Normal]보통 물류 창고의 보안은 외부에 대한 보안이 강할 뿐 창고 내부에서는 보안이 허술해.	[!DialogQuest][!speaker:Ray_Normal]一般情况下，物流仓库的保安只是对外部加强，而仓库内部的保安却是很松懈的。
-#28238	[!DialogQuest][!speaker:Ray_Normal]그 점을 노리고 창고 내부에서 위조된 운송장을 붙여 물건을 빼돌린 것을 늦게 알아차리게 만드는 수법이지.	[!DialogQuest][!speaker:Ray_Normal]利用这一点，在仓库内部贴上伪造的运输单子，偷运物品的让人晚了才被发现。
+#28237	[!DialogQuest][!speaker:Ray_Normal]보통 물류 창고의 보안은 외부에 대한 보안이 강할 뿐 창고 내부에서는 보안이 허술해.	[!DialogQuest][!speaker:Ray_Normal]一般情况下，物流仓库的保安只是对外部安保比较重视，而仓库内部的保安却是很松懈的。
+#28238	[!DialogQuest][!speaker:Ray_Normal]그 점을 노리고 창고 내부에서 위조된 운송장을 붙여 물건을 빼돌린 것을 늦게 알아차리게 만드는 수법이지.	[!DialogQuest][!speaker:Ray_Normal]利用这一点，潜入仓库内在货物贴上伪造的运输单子，将失踪的货物伪装成延迟抵达的状况。
 #28239	[!DialogQuest][!speaker:Leton_Smile]'레이 녀석... 얼마 전까지 우리가 했던 일이라고...'	[!DialogQuest][!speaker:Leton_Smile]'雷伊这家伙...那不就是在不久前我们做过的事情吗...'
-#28240	[!DialogQuest][!speaker:Albus_Surprise]일단 정상적인 상황은 아닌 거군요?	[!DialogQuest][!speaker:Albus_Surprise]那这不是正常的情况吧？
+#28240	[!DialogQuest][!speaker:Albus_Surprise]일단 정상적인 상황은 아닌 거군요?	[!DialogQuest][!speaker:Albus_Surprise]总之这是异常的情况吧？
 #28241	[!DialogQuest][!speaker:Dembel_Normal]응. 게다가 범죄에 연루된 느낌이 들어 직접 회수하러 가지도 못하고 있어.	[!DialogQuest][!speaker:Dembel_Normal]嗯。而且我觉得这会有被犯罪牵连的感觉，不能亲自去追回。
 #28242	[!DialogQuest][!speaker:Albus_Normal]네. 이해합니다. 저희가 화물을 회수해 오겠습니다.	[!DialogQuest][!speaker:Albus_Normal]是的。我理解。那就由我们把货物收回来吧。
 #28243	[!DialogQuest][!speaker:Irene_Normal]악당들이 있다면 제대로 혼내주고 찾아올 테니 걱정 마	[!DialogQuest][!speaker:Irene_Normal]如果有恶徒的话我会好好教训他们并找回物品的，不用担心
@@ -17763,9 +17763,9 @@
 #28260	[!DialogQuest][!speaker:Leo_Normal]문제는 잘 해결되었나요?	[!DialogQuest][!speaker:Leo_Normal]我所委托的都解决好了吗？
 #28261	[!DialogQuest][!speaker:Leo_Normal]의뢰를 받아주셔서 감사합니다.	[!DialogQuest][!speaker:Leo_Normal]谢谢接受我的委托。
 #28262	[!DialogQuest][!speaker:Albus_SurpriseStare]무슨 일이신가요?	[!DialogQuest][!speaker:Albus_SurpriseStare]有什么事吗？
-#28264	[!DialogQuest][!speaker:Albus_Normal]네. 가능한 일이라면 최대한 도와드리고 있습니다.	[!DialogQuest][!speaker:Albus_Normal]是的。如果可能，是会尽力帮忙的。
+#28264	[!DialogQuest][!speaker:Albus_Normal]네. 가능한 일이라면 최대한 도와드리고 있습니다.	[!DialogQuest][!speaker:Albus_Normal]是的。如果力所能及，是会尽力帮忙的。
 #28265	[!DialogQuest][!speaker:Leo_Normal]그렇군요.	[!DialogQuest][!speaker:Leo_Normal]原来如此。
-#28266	[!DialogQuest][!speaker:Irene_Surprise]도망친 야수라고 있는 건가?	!DialogQuest][!speaker:Irene_Surprise]有是逃跑的野兽吗？
+#28266	[!DialogQuest][!speaker:Irene_Surprise]도망친 야수라고 있는 건가?	[!DialogQuest][!speaker:Irene_Surprise]有是逃跑的野兽吗？
 #28267	[!DialogQuest][!speaker:Leo_Normal]아뇨. 그런 일은 전혀 없습니다.	[!DialogQuest][!speaker:Leo_Normal]不不，没有的事。
 #28268	[!DialogQuest][!speaker:Irene_Surprise]그럼 무슨 일이지?	[!DialogQuest][!speaker:Irene_Surprise]那是什么事？
 #28273	[!DialogQuest][!speaker:Leo_Normal]당연히 신고하였습니다.	[!DialogQuest][!speaker:Leo_Normal]当然已经报警了。
@@ -17774,22 +17774,22 @@
 #28279	[!DialogQuest][!speaker:Sion_Surprise]네구리!?	[!DialogQuest][!speaker:Sion_Surprise]呐故立!?
 #28280	[!DialogQuest][!speaker:Leo_Normal]처음에는 보호 중이던 네구리가 도망친게 아닐까 했는데 확인해 본 결과 어디선가 유입된 야생 네구리였습니다.	[!DialogQuest][!speaker:Leo_Normal]起初怀疑是保护中的呐故立逃跑了，但经过确认，发现原来是从某处流入的野生呐故立。
 #28281	[!DialogQuest][!speaker:Albus_Think]'최근에 지구 내로 야생 동물 유입되는 일이 늘어나는 것 같네...'	[!DialogQuest][!speaker:Albus_Think]'最近野生动物流入地区的情况好像变得越来越多...'
-#28282	[!DialogQuest][!speaker:Sion_SurpriseStare]경찰에 신고하면 그만 아닌가? 네구리 같은 난폭한 야생 동물이면 바로 출동할 것 같은데?	[!DialogQuest][!speaker:Sion_SurpriseStare]报完警了不就没事了吗？像呐故立这样的野性动物的话，不就会马上出动的吗？
+#28282	[!DialogQuest][!speaker:Sion_SurpriseStare]경찰에 신고하면 그만 아닌가? 네구리 같은 난폭한 야생 동물이면 바로 출동할 것 같은데?	[!DialogQuest][!speaker:Sion_SurpriseStare]报完警了不就没事了吗？像呐故立这样的野性动物的话，警察难道不会马上出动的吗？
 #28283	[!DialogQuest][!speaker:Leo_Normal]하지만 비 오는 밤에만 출몰하고 정작 경찰이 출동하면 어디론가 다 숨어 버려서 퇴치 자체가 불가능한 상태입니다.	[!DialogQuest][!speaker:Leo_Normal]但是它们只在下雨天的夜晚出没，而且如果警察真的出动了，它们就会藏起来，根本不可能清除。
 #28284	[!DialogQuest][!speaker:Giselle_Normal]'성장기 단계의 네구리인가...'	[!DialogQuest][!speaker:Giselle_Normal]'是成长期的呐故立吗...'
 #28285	[!DialogQuest][!speaker:Anne_Think]저도 뭔지 알 것 같아요. 어릴 때 할아버지 산장 주위에 네구리들도 사람 인기척이 나면 어디론가 다 사라지고 그랬어요.	[!DialogQuest][!speaker:Anne_Think]我好像知道了。在小时候，爷爷的山庄附近的呐故立在周围如果有动静的话，会消失得无影无踪。
 #28286	[!DialogQuest][!speaker:Leo_Normal]네. 제보를 하면 경찰이 출동은 하고 있으나 달리 현장에서 확인이 안 되니 일단 상황이 진행되는 것을 지켜보자는 상황입니다.	[!DialogQuest][!speaker:Leo_Normal]是的。虽然警察出动了，但是在现场无法确认呐故立，所以说得再观察一段时间。
 #28287	[!DialogQuest][!speaker:Giselle_Smile]그대로 두면 언젠가 분명 동물보호소의 야수들을 습격하겠지.	[!DialogQuest][!speaker:Giselle_Smile]如果放任不管，总有一天会袭击动物保护站的野兽的。
-#28288	[!DialogQuest][!speaker:Leo_Normal]네. 그 뿐아니라 상위 포식자인 네구리의 울음으로 인해 보호소의 동물들이 스트레스를 받는 것도 문제입니다.	[!DialogQuest][!speaker:Leo_Normal]是的。而且由于上位捕食者呐故立的哭声，保护站的动物们受到的压力也是个问题。
-#28289	[!DialogQuest][!speaker:Albus_SurpriseStare]알겠습니다. 상황 파악은 충분히 한 것 같습니다.	[!DialogQuest][!speaker:Albus_SurpriseStare]明白了。大概充分的掌握情况了。
+#28288	[!DialogQuest][!speaker:Leo_Normal]네. 그 뿐아니라 상위 포식자인 네구리의 울음으로 인해 보호소의 동물들이 스트레스를 받는 것도 문제입니다.	[!DialogQuest][!speaker:Leo_Normal]是的。而且由于上位捕食者呐故立的叫声，保护站的动物们受到的压力也是个问题。
+#28289	[!DialogQuest][!speaker:Albus_SurpriseStare]알겠습니다. 상황 파악은 충분히 한 것 같습니다.	[!DialogQuest][!speaker:Albus_SurpriseStare]明白了。大概充分地掌握情况了。
 #28290	[!DialogQuest][!speaker:Leo_Normal]바쁘시지 않다면 이 일을 해결해주시면 감사하겠습니다.	[!DialogQuest][!speaker:Leo_Normal]如果不忙的话，就委托解决这件事了。
 #28291	[!DialogQuest][!speaker:Leo_Normal]보수는 저희 동물보호소에서 지불하도록 하겠습니다.	[!DialogQuest][!speaker:Leo_Normal]报酬就由我们动物保护站支付。
 #28292	[!DialogQuest][!speaker:Leo_Normal]하지만 이 지구에는 동물 보호소에 소속된 공무원들이 아니면 야수들을 조련할 전문 인력이 부족합니다.	[!DialogQuest][!speaker:Leo_Normal]但是这个地区不是动物保护站所属的公务员的话，缺乏训练野兽的专业人员。
 #28293	[!DialogQuest][!speaker:Leo_Normal]그러다 보니 대부분 시내에 들어온 야수들은 퇴치 대상이 될 수밖에 없습니다. 안타까운 일이죠.	[!DialogQuest][!speaker:Leo_Normal]因此大部分进入市内的野兽只能被成为清除的对象。这真是个令人遗憾的事。
-#28294	[!DialogQuest][!speaker:Giselle_Normal]'이 녀석... 이상주의자군.'	[!DialogQuest][!speaker:Giselle_Normal]'这家伙...是理想主义家啊。'
+#28294	[!DialogQuest][!speaker:Giselle_Normal]'이 녀석... 이상주의자군.'	[!DialogQuest][!speaker:Giselle_Normal]'这家伙...是理想主义者啊。'
 #28295	[!DialogQuest][!speaker:Albus_Normal]동물보호소 연못에 자리잡았던 네구리들은 모두 퇴치하였습니다.	[!DialogQuest][!speaker:Albus_Normal]在动物保护站前池塘附近的野生的呐故立都退治好了。
 #28296	[!DialogQuest][!speaker:Leo_Normal]역시 $CompanyName$이군요.	[!DialogQuest][!speaker:Leo_Normal]果然是$CompanyName$。
-#28297	[!DialogQuest][!speaker:Leo_Normal]거리 상인분들이 왜 $CompanyName$[을] 칭찬하고 신뢰하는 부분에 공감을 못했었는데 이제는 이해가 됩니다.	[!DialogQuest][!speaker:Leo_Normal]现在终于知道了为什么街道上的商人称赞并信任$CompanyName$的原因了。
+#28297	[!DialogQuest][!speaker:Leo_Normal]거리 상인분들이 왜 $CompanyName$[을] 칭찬하고 신뢰하는 부분에 공감을 못했었는데 이제는 이해가 됩니다.	[!DialogQuest][!speaker:Leo_Normal]现在终于知道街道上的商人称赞并信任$CompanyName$的原因了。
 #28298	[!DialogQuest][!speaker:Leo_Normal]감사합니다.	[!DialogQuest][!speaker:Leo_Normal]非常感谢。
 #28299	[!DialogQuest][!speaker:Albus_Normal]아닙니다. 트러블슈터에겐 주어진 의뢰를 해결하는 것이 당연한 일입니다.	[!DialogQuest][!speaker:Albus_Normal]不是的，只是在做身为纷争终结者该做的委托罢了。
 #28300	[!Sentence][!Dashboard:ObjectiveMarker]해당 지역을 조사할 수 있습니다. 일정 확률로 네구리가 튀어 나올 수 있으니 조심하세요.	[!Sentence][!Dashboard:ObjectiveMarker]可以调查该地区了。请小心会有一定的几率出现呐故立。
@@ -17797,22 +17797,22 @@
 #28302	[!Sentence][!Objective]네구리를 모두 제압하시오.	[!Sentence][!Objective]制服所有的呐故立。
 #28303	[!Sentence][!Title]난폭한 불청객	[!Sentence][!Title]粗暴的不速之客
 #28304	[!Sentence][!Title]하늘 바람 동물보호소	[!Sentence][!Title]天空之风动物保护站
-#28305	[!Sentence][!Dialog][!speaker:Sion_SurpriseStare]방금까지 씨끄럽던 네구리 소리가 멈췄어!?	[!Sentence][!Dialog][!speaker:Sion_SurpriseStare]刚才还吵得呐故立声音停下了？
+#28305	[!Sentence][!Dialog][!speaker:Sion_SurpriseStare]방금까지 시끄럽던 네구리 소리가 멈췄어!?	[!Sentence][!Dialog][!speaker:Sion_SurpriseStare]刚才还吵得呐故立声音停下了？
 #28306	[!Sentence][!Dialog][!speaker:Sion_SurpriseStare]사장님~!! 바로 들어가나요!	[!Sentence][!Dialog][!speaker:Sion_SurpriseStare]老板~!!开始行动吗？
 #28307	[!Sentence][!Dialog][!speaker:Albus_Think]'일일이 찾아야 하는 건가...'	[!Sentence][!Dialog][!speaker:Albus_Think]'得一一寻找吗...'
 #28308	[!Sentence][!Dialog][!speaker:Albus_Normal]그럼 가까운 곳부터 네구리가 있을 만한 장소를 수색하도록 하겠습니다!	[!Sentence][!Dialog][!speaker:Albus_Normal]那我们从最近的地方开始寻找吧！
 #28309	[!Sentence][!Dialog][!speaker:Albus_Normal]다들 도망치는 녀석이 없도록 퇴로를 차단하며 접근합니다!	[!Sentence][!Dialog][!speaker:Albus_Normal]切断退路，以免出现逃跑的家伙！
-#28310	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]수풀 사이에 몸을 숨겼겠지.	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]是躲在草丛里了。
+#28310	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]수풀 사이에 몸을 숨겼겠지.	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]是躲到草丛里了。
 #28311	[!Sentence][!Dialog][!speaker:Irene_Surprise]응!? 네구리가 숨어?	[!Sentence][!Dialog][!speaker:Irene_Surprise]嗯!?呐故立竟然藏起来了？
-#28312	[!Sentence][!Dialog][!speaker:Giselle_Smile]그래. 울음을 멈추고 숨었다는 건 아직 성장기 단계의 네구리일거야.	[!Sentence][!Dialog][!speaker:Giselle_Smile]嗯，止住哭声藏了起来了，这可能还是处于成长期阶段的呐故立。
-#28313	[!Sentence][!Dialog][!speaker:Giselle_Normal]성장기의 야수들은 외부에 대한 보호 본능이 강하지.	[!Sentence][!Dialog][!speaker:Giselle_Normal]成长期的野兽对于外部的保护本能很强。
+#28312	[!Sentence][!Dialog][!speaker:Giselle_Smile]그래. 울음을 멈추고 숨었다는 건 아직 성장기 단계의 네구리일거야.	[!Sentence][!Dialog][!speaker:Giselle_Smile]嗯，止住哭声藏起来了，这可能是还处于成长期阶段的呐故立。
+#28313	[!Sentence][!Dialog][!speaker:Giselle_Normal]성장기의 야수들은 외부에 대한 보호 본능이 강하지.	[!Sentence][!Dialog][!speaker:Giselle_Normal]成长期的野兽对于外部威胁的保护本能很强。
 #28314	[!Sentence][!Dialog][!speaker:Irene_Surprise]숨은 녀석들을 찾을 수는 있는 건가?	[!Sentence][!Dialog][!speaker:Irene_Surprise]能够找到隐藏的家伙们吗？
-#28315	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]네구리들은 나무뿌리 밑의 땅을 파고 숨는 습성이 있으니 나무 아래 수풀을 조사하면 알아서 뛰쳐나올 거야.	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]呐故立们有挖树根底藏在那地下的习惯，所以只要调查树下的草丛就会主动跑出来的。
+#28315	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]네구리들은 나무뿌리 밑의 땅을 파고 숨는 습성이 있으니 나무 아래 수풀을 조사하면 알아서 뛰쳐나올 거야.	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]呐故立们有挖树根底藏在那底下的习惯，所以只要调查树下的草丛就会主动跑出来的。
 #28316	[!Sentence][!Dialog][!speaker:Sion_Normal]생각보다 귀찮게 하네...	[!Sentence][!Dialog][!speaker:Sion_Normal]比想象的还要麻烦...
 #28317	[!Sentence][!Dialog][!speaker:Kylie_Normal]일단 전자망 뿐 아니라 외부에도 철망으로 둘러쌓여 있어서 퇴로가 한정적이야.	[!Sentence][!Dialog][!speaker:Kylie_Normal]因为不仅有电子网，而且外部也围有铁网，所以退路非常的有限。
 #28318	[!Sentence][!Dialog][!speaker:Kylie_Satisfying]여기서 퇴로를 막고 있고 누군가 들어가서 다 깨우면 편할거야.	[!Sentence][!Dialog][!speaker:Kylie_Satisfying]在这里挡着退路，有人去叫醒的话就会很轻松了。
 #28319	[!Sentence][!Dialog][!speaker:Albus_Normal]넵. 고려하도록 하겠습니다.	[!Sentence][!Dialog][!speaker:Albus_Normal]好的，我会考虑的。
-#28320	[!Sentence][!Dialog][!speaker:Albus_Serious]다들 네구리들이 바깥으로 나가지 못하도록 해 주세요.	[!Sentence][!Dialog][!speaker:Albus_Serious]拜托大家组织呐故立们往外跑出。
+#28320	[!Sentence][!Dialog][!speaker:Albus_Serious]다들 네구리들이 바깥으로 나가지 못하도록 해 주세요.	[!Sentence][!Dialog][!speaker:Albus_Serious]拜托大家阻止呐故立们往外跑出。
 #28321	[!Sentence][!VictoryCondition]네구리가 동물보호소 바깥으로 탈출	[!Sentence][!VictoryCondition]呐故立逃出动物保护站外
 #28322	[!Sentence][!VictoryCondition]네구리를 모두 제압하시오.	[!Sentence][!VictoryCondition]压制所有的呐故立。
 #28323	[!Sentence][!BalloonChat]네구리입니다! 다들 조심하세요!	[!Sentence][!BalloonChat]是呐故立！要小心！
@@ -17821,5 +17821,269 @@
 #28326	[!Sentence][!BalloonChat]네구리 찾았어요!	[!Sentence][!BalloonChat]找到呐故立了！
 #28327	[!Sentence][!BalloonChat]정말 시시하군.	[!Sentence][!BalloonChat]真是无聊。
 #28328	[!Sentence][!BalloonChat][!speaker:NeguriGrey]네...굴...	[!Sentence][!BalloonChat][!speaker:NeguriGrey]呐...故...
-#28329	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]너 꽤 괜찮게 생겼구나.	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]你长的真够可爱的嘛。
-#28330	[!DialogQuest][!speaker:Leo_Normal]최근 사수거리 상인들로부터 $CompanyName$[이] 민간 의뢰를 해결해주신다는 말을 들었습니다.	[!DialogQuest][!speaker:Leo_Normal]最近在射手街的商人口中听到了$CompnayName$在解决民间的委托。
+#28329	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]너 꽤 괜찮게 생겼구나.	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]你长得真够可爱的嘛。
+#28330	[!DialogQuest][!speaker:Leo_Normal]최근 사수거리 상인들로부터 $CompanyName$[이] 민간 의뢰를 해결해주신다는 말을 들었습니다.	[!DialogQuest][!speaker:Leo_Normal]最近在射手街的商人口中听说你们$CompanyName$在帮忙解决民间的委托。
+#28331	[!DialogQuest][!speaker:Bruna_Smile]너희들 바쁘니?	[!DialogQuest][!speaker:Bruna_Smile]你们忙吗？
+#28332	[!DialogQuest][!speaker:Bruna_Smile]바쁘다면 어쩔 수 없지.	[!DialogQuest][!speaker:Bruna_Smile]忙的话就没办法了。
+#28333	[!DialogQuest][!speaker:Bruna_Smile]의뢰를 받아 줘서 고마워.	[!DialogQuest][!speaker:Bruna_Smile]谢谢接受了我的委托。
+#28334	[!DialogQuest][!speaker:Bruna_Smile]좋은 소식 기다릴게.	[!DialogQuest][!speaker:Bruna_Smile]期待你带来好消息。
+#28335	[!DialogQuest][!speaker:Bruna_Smile]벌써 해결했어?	[!DialogQuest][!speaker:Bruna_Smile]这么快就解决好了吗？
+#28336	[!DialogQuest][!speaker:Bruna_Smile]의뢰를 받아줘서 고마워.	[!DialogQuest][!speaker:Sabana_Smile]谢谢你接受了我的委托。
+#28337	[!DialogQuest][!speaker:Albus_Normal]안녕하세요. 브루나 씨.	[!DialogQuest][!speaker:Albus_Normal]布鲁纳，你好。
+#28338	[!DialogQuest][!speaker:Sion_Happy]브루나 누나. 안녕~☆	[!DialogQuest][!speaker:Sion_Happy]布鲁纳姐，哈咯~☆
+#28339	[!DialogQuest][!speaker:Anne_Normal]브루나 언니. 안녕하세요.	[!DialogQuest][!speaker:Anne_Normal]布鲁纳姐姐，你好吗。
+#28340	[!DialogQuest][!speaker:Bruna_Smile]앤이구나! 잘 지냈어?	[!DialogQuest][!speaker:Bruna_Smile]原来是安啊！过得好吗？
+#28341	[!DialogQuest][!speaker:Bruna_Normal]로베르토가 한동안 네가 자기 회사로 안 오고 다른 회사 갔다고 불평이 가득했어.	[!DialogQuest][!speaker:Bruna_Normal]罗伯托一直在抱怨你不来自己公司却去了别的地方。
+#28342	[!DialogQuest][!speaker:Anne_Think]아... 그건...	[!DialogQuest][!speaker:Anne_Think]啊...那是...
+#28343	[!DialogQuest][!speaker:Bruna_Normal]$CompanyName$[은] 어때? 할 만해?	[!DialogQuest][!speaker:Bruna_Normal]$CompanyName$怎么样？
+#28344	[!DialogQuest][!speaker:Anne_Smile]네. 열심히 하고 있어요.	[!DialogQuest][!speaker:Anne_Smile]是的，我在努力。
+#28345	[!DialogQuest][!speaker:Bruna_Smile]아이린도 잘 지내고 있지?	[!DialogQuest][!speaker:Bruna_Smile]艾琳也过得好吗？
+#28346	[!DialogQuest][!speaker:Irene_Smile2]응. 잘 지내지.	[!DialogQuest][!speaker:Irene_Smile2]嗯，过的好。
+#28347	[!DialogQuest][!speaker:Bruna_Smile]트러블슈터는 돈만 밝히는 사람들이라 상종도 못 하겠다던 네가 트러블슈터 회사에 입사했다는 소식 듣고 놀랐어.	[!DialogQuest][!speaker:Bruna_Smile]听到称纷争终结者为只知道钱的人的你进入了纷争终结者公司的消息时，我真的吓到了。
+#28348	[!DialogQuest][!speaker:Irene_Lonesome]아니... 그건...	[!DialogQuest][!speaker:Irene_Lonesome]不...那是...
+#28349	[!DialogQuest][!speaker:Bruna_Smile]$CompanyName$[은] 뭔가 특별한 건가?	[!DialogQuest][!speaker:Bruna_Smile]$CompanyName$有什么特别的吗？
+#28350	[!DialogQuest][!speaker:Kylie_Satisfying]브루나. 오랜만이네.	[!DialogQuest][!speaker:Kylie_Satisfying]布鲁纳，好久不见。
+#28351	[!DialogQuest][!speaker:Bruna_Smile]너도 $CompanyName$ 일원인거야?	[!DialogQuest][!speaker:Bruna_Smile]你也是$CompanyName$的一员吗？
+#28352	[!DialogQuest][!speaker:Kylie_Smile]응. 그렇게 됐어.	[!DialogQuest][!speaker:Kylie_Smile]嗯，是的。
+#28353	[!DialogQuest][!speaker:Kylie_Satisfying]너야말로 바텐더 일은 할만해?	[!DialogQuest][!speaker:Kylie_Satisfying]你才是当调酒师没问题吗？
+#28354	[!DialogQuest][!speaker:Bruna_Smile]경찰 사무 일보다야 훨씬 낫지.	[!DialogQuest][!speaker:Bruna_Smile]比办理警察业务要好得多。
+#28355	[!DialogQuest][!speaker:Sion_Smile]부루나 누나. 용건이 있었던 거 아냐?	[!DialogQuest][!speaker:Sion_Smile]布鲁纳姐，来这是有什么事吗？
+#28356	[!DialogQuest][!speaker:Bruna_Normal]아 참. 내 정신 좀 봐.	[!DialogQuest][!speaker:Bruna_Normal]啊对了，看我把神精都放哪里了。
+#28357	[!DialogQuest][!speaker:Albus_Normal]괜찮습니다. 천천히 이야기해주세요.	[!DialogQuest][!speaker:Albus_Normal]没关系，慢慢的说吧。
+#28358	[!DialogQuest][!speaker:Bruna_Normal]최근 우리 집 근처 수로에서 불쾌하고 이상한 동물 소리가 들려오곤 해.	[!DialogQuest][!speaker:Bruna_Normal]最近我家附近的水道里经常传来令人不快又很奇怪的动物叫声。
+#28359	[!DialogQuest][!speaker:Irene_Surprise]이상한 동물 소리?	[!DialogQuest][!speaker:Irene_Surprise]奇怪的动物叫声?
+#28360	[!DialogQuest][!speaker:Bruna_Normal]그래. 개구리 울음소리 비슷한데 그 소리가 들리면 우리 집 강아지가 겁에 질려 난리도 아냐.	[!DialogQuest][!speaker:Bruna_Normal]嗯，说像是青蛙的叫声但是我家的小狗听到那声音都怕的满是恐惧。
+#28361	[!DialogQuest][!speaker:Irene_Think]개구리 울음소리라...	[!DialogQuest][!speaker:Irene_Think]青蛙的叫声呐...
+#28362	[!DialogQuest][!speaker:Giselle_Satisfying]'울음소리로 위협을 줄 정도면 성숙기 단계의 네구리인가...'	[!DialogQuest][!speaker:Giselle_Satisfying]'以哭声威胁的话，是处于成熟期阶段的呐故立吗...'
+#28363	[!DialogQuest][!speaker:Anne_Surprise]네굴~ 하는 소리죠?	[!DialogQuest][!speaker:Anne_Surprise]呐故~ 这样的叫声是吗？
+#28364	[!DialogQuest][!speaker:Bruna_Normal]맞아. 그런 소리야.	[!DialogQuest][!speaker:Bruna_Normal]嗯，没错。
+#28365	[!DialogQuest][!speaker:Bruna_Normal]정작 동네 사람들이 수로로 나가 몇 번이나 찾아보지만 찾을 수 없었어.	[!DialogQuest][!speaker:Bruna_Normal]有村民到水道里找了几次，但是每次都找不到。
+#28366	[!DialogQuest][!speaker:Albus_Think]'저번처럼 작은 네구리들인가...'	[!DialogQuest][!speaker:Albus_Think]'是像上次那样小的呐故立群吗...'
+#28367	[!DialogQuest][!speaker:Giselle_Satisfying]'성숙기 단계의 네구리라면 호전적이라 숨거나 하지 않을텐데...'	[!DialogQuest][!speaker:Giselle_Satisfying]'成熟期阶段的呐故立是很好战的，是不会藏起来的啊...'
+#28368	[!DialogQuest][!speaker:Bruna_Normal]해결해 줄 수 있겠니?	[!DialogQuest][!speaker:Bruna_Normal]能帮我解决吗？
+#28369	[!DialogQuest][!speaker:Sion_Happy]부루나 누나. 우리는 트러블슈터야. 보수는 확실하지?	[!DialogQuest][!speaker:Sion_Happy]布鲁纳姐。我们是纷争终结者。报酬没问题的吧？
+#28370	[!DialogQuest][!speaker:Bruna_Smile]그럼. 트러블슈터에게 일을 맡기는 데 당연한 거 아니니?	[!DialogQuest][!speaker:Bruna_Smile]那当然了。要委托纷争终结者，那可是很当然的。
+#28371	[!DialogQuest][!speaker:Bruna_Normal]우리 동네는 이런 일이 없는 조용한 동네였는데 갑자기 이런 일이 생겨 주민들도 많이 당황하고 있어.	[!DialogQuest][!speaker:Bruna_Normal]我们小区原本是很安静的，从没有过这样的事情发生。但突然发生这样的事情，让很多居民感到惊慌。
+#28372	[!DialogQuest][!speaker:Sion_SurpriseStare]경찰에는 신고 안 했어?	[!DialogQuest][!speaker:Sion_SurpriseStare]没报警吗？
+#28373	[!DialogQuest][!speaker:Bruna_Smile]신고야 했지만 경찰들이 할 수 있는 일이 없었어.	[!DialogQuest][!speaker:Bruna_Smile]是报警了，但是警察没什么可以干的。
+#28374	[!DialogQuest][!speaker:Bruna_Smile]정작 그 울음소리를 목격한 주민이 없다보니 주위만 확인하고 다시 돌아가는 것이 다야.	[!DialogQuest][!speaker:Bruna_Smile]因为没有居民目击到那哭声，所以只能确认周围的情况后回去罢了。
+#28375	[!DialogQuest][!speaker:Bruna_Normal]잘 해결된 거야? 도대체 어떤 동물이었니?	[!DialogQuest][!speaker:Bruna_Normal]是解决好了吗？到底是什么动物？
+#28376	[!DialogQuest][!speaker:Albus_Normal]네구리였습니다.	[!DialogQuest][!speaker:Albus_Normal]是呐故立。
+#28377	[!DialogQuest][!speaker:Bruna_Normal]네구리? 그건 야수 아냐?	[!DialogQuest][!speaker:Bruna_Normal]呐故立？那不是野兽吗？
+#28378	[!DialogQuest][!speaker:Sion_Normal]걱정마. 우리가 깔끔하게 처리했어~☆	[!DialogQuest][!speaker:Sion_Normal]别担心，我们已经处理得干净利落了~☆
+#28379	[!DialogQuest][!speaker:Albus_Normal]네. 모두 퇴치했으니 더는 걱정하시지 않으셔도 되세요.	[!DialogQuest][!speaker:Albus_Normal]是的。已经全部解决好了，不要担心。
+#28380	[!DialogQuest][!speaker:Bruna_Smile]그래?	[!DialogQuest][!speaker:Bruna_Smile]是吗？
+#28381	[!DialogQuest][!speaker:Anne_Smile]네. 걱정하시지 않으셔도 될 거에요.	[!DialogQuest][!speaker:Anne_Smile]是的。不必要再担心了。
+#28382	[!DialogQuest][!speaker:Irene_Normal]만약 또 그 울음소리가 들리면 바로 연락해. 내가 달려갈게.	[!DialogQuest][!speaker:Irene_Normal]要是再听到那叫声的话，就马上联系我。我会立马跑过去的。
+#28383	[!DialogQuest][!speaker:Bruna_Smile]그래. 다들 고마워.	[!DialogQuest][!speaker:Bruna_Smile]好吧，谢谢各位了。
+#28384	[!DialogQuest][!speaker:AL_Normal]히어로!	[!DialogQuest][!speaker:AL_Normal]英雄！
+#28385	[!DialogQuest][!speaker:AL_Smile]부탁한다. 히어로.	[!DialogQuest][!speaker:AL_Smile]英雄，拜托了。
+#28386	[!DialogQuest][!speaker:AL_Normal]별 일 아니면 좋을텐데...	[!DialogQuest][!speaker:AL_Normal]希望没什么事...
+#28387	[!DialogQuest][!speaker:AL_Smile]그래. 잘 부탁해. 히어로.	[!DialogQuest][!speaker:AL_Smile]嗯，那就拜托了。英雄。
+#28388	[!DialogQuest][!speaker:AL_Smile]베보 할아범은?	[!DialogQuest][!speaker:AL_Smile]贝博老爷呢？
+#28389	[!DialogQuest][!speaker:AL_Smile]히어로. 난 영원한 네 팬이야.	[!DialogQuest][!speaker:AL_Smile]英雄，我是你永远的粉丝。
+#28390	[!DialogQuest][!speaker:AL_Normal]베보 할아범이 연락이 되지 않아.	[!DialogQuest][!speaker:AL_Normal]联络不到贝博老爷。
+#28391	[!DialogQuest][!speaker:Irene_Surprise]무슨 말이야?	[!DialogQuest][!speaker:Irene_Surprise]什么？
+#28392	[!DialogQuest][!speaker:AL_Normal]한 시간 전에 이곳으로 오신다고 하셔서 기다리고 있는데 오시질 않아.	[!DialogQuest][!speaker:AL_Normal]在一个小时前约定好在这里见，但是一直都不现身。
+#28393	[!DialogQuest][!speaker:AL_Normal]그리고 전화는 받질 않으셔.	[!DialogQuest][!speaker:AL_Normal]而且连电话也不接。
+#28394	[!DialogQuest][!speaker:Irene_Surprise]삼청 마을에서 여기로?	[!DialogQuest][!speaker:Irene_Surprise]从三清村到这里？
+#28395	[!DialogQuest][!speaker:AL_Normal]그래. 평소대로 마을 버스를 이용하셨다면 별빛 사거리를 지나셨을 거야.	[!DialogQuest][!speaker:AL_Normal]是啊。如果他像平时一样，坐公交车的话，估计经过了星光十字路口。
+#28396	[!DialogQuest][!speaker:Albus_Surprise]별빛 사거리요?	[!DialogQuest][!speaker:Albus_Surprise]星光十字路口吗？
+#28397	[!DialogQuest][!speaker:Albus_SurpriseStare]지금 별빛 사거리는...	[!DialogQuest][!speaker:Albus_SurpriseStare]现在的星光十字路口...
+#28398	[!DialogQuest][!speaker:AL_Normal]그래. 혹시나 하는 마음이지만... 히어로 현장에서 아저씨를 발견하면...	[!DialogQuest][!speaker:AL_Normal]嗯，只是以防万一...如果英雄你在现场见到老爷的话...
+#28399	[!DialogQuest][!speaker:Irene_Serious]알았어.	[!DialogQuest][!speaker:Irene_Serious]明白了。
+#28400	[!DialogQuest][!speaker:AL_Smile]현장 제압하는 일만으로도 정신 없을 텐데 미안하다.	[!DialogQuest][!speaker:AL_Smile]真是抱歉呢，你光是在现场制服罪犯就已经很忙了。
+#28401	[!DialogQuest][!speaker:AL_Normal]베보 할아범은 삼청 마을 사람 모두가 좋아하는 분이야.	[!DialogQuest][!speaker:AL_Normal]三清村里的人都很喜欢贝博老爷的。
+#28402	[!DialogQuest][!speaker:Irene_Normal]나도 좋아해. 그리고 걱정 마.	[!DialogQuest][!speaker:Irene_Normal]我也是，不要担心了。
+#28403	[!DialogQuest][!speaker:Irene_Smile]만약 현장에 계시다면 이 히어로님이 구조할테니까.	[!DialogQuest][!speaker:Irene_Smile]如果在现场的话，我这个英雄一定会去救助的。
+#28404	[!DialogQuest][!speaker:Irene_Normal]무사히 구조했어.	[!DialogQuest][!speaker:Irene_Normal]成功安全获救了。
+#28405	[!DialogQuest][!speaker:AL_Smile]역시 히어로! 잘했어!	[!DialogQuest][!speaker:AL_Smile]果然是英雄！
+#28406	[!DialogQuest][!speaker:Oleg_Normal]동생을 잘 부탁한다.	[!DialogQuest][!speaker:Oleg_Normal]那就拜托妹妹了。
+#28407	[!DialogQuest][!speaker:Oleg_Normal]고마워! 동생 연락을 받았어.	[!DialogQuest][!speaker:Oleg_Normal]谢谢！我收到妹妹的联络了。
+#28408	[!DialogQuest][!speaker:Oleg_Normal]정말 고맙다.	[!DialogQuest][!speaker:Oleg_Normal]真的是非常感谢。
+#28409	[!DialogQuest][!speaker:Oleg_Normal]화물 찾아 달라는 의뢰가 아냐. 그러니 인상 풀어.	[!DialogQuest][!speaker:Oleg_Normal]这次不是找货物的委托。所以就不要皱眉头了。
+#28410	[!DialogQuest][!speaker:Albus_Normal]이번에는 어떤 의뢰인가요?	[!DialogQuest][!speaker:Albus_Normal]那这次是什么样的委托呢？
+#28411	[!DialogQuest][!speaker:Oleg_Normal]친구 집에 다녀 온다던 여동생 미키와 연락이 되지 않아.	[!DialogQuest][!speaker:Oleg_Normal]我联系不上从朋友家回来的妹妹咪奇了。
+#28412	[!DialogQuest][!speaker:Oleg_Normal]미키의 친구 집은 별빛 사거리 거주구야.	[!DialogQuest][!speaker:Oleg_Normal]咪奇的朋友住在星光十字路口的居住区呢。
+#28413	[!DialogQuest][!speaker:Oleg_Normal]그래. 나도 걱정이 이만 저만이 아니야.	[!DialogQuest][!speaker:Oleg_Normal]是啊，我也很担心...
+#28414	[!DialogQuest][!speaker:Oleg_Normal]도심 내 강력 사건은 현장 제압이 우선인 것을 잘 알고 있지만...	[!DialogQuest][!speaker:Oleg_Normal]很清楚在处理市区内的恶性案件时，制服对方要放首位的....
+#28415	[!DialogQuest][!speaker:Albus_Serious]아닙니다. 현장에서 여동생분을 발견하면 꼭 구조하겠습니다.	[!DialogQuest][!speaker:Albus_Serious]不是的，如果在现场发现妹妹的话，一定会救出来的。
+#28416	[!DialogQuest][!speaker:Oleg_Smile]그래. 부탁해. $CompanyName$.	[!DialogQuest][!speaker:Oleg_Smile]好的，那就拜托了。$CompanyName$。
+#28417	[!DialogQuest][!speaker:Oleg_Normal]언제쯤이면 이런 걱정 없이 지내려나...	[!DialogQuest][!speaker:Oleg_Normal]到底什么时候才能过上不用烦恼这种事情的日子呢...
+#28418	[!DialogQuest][!speaker:Oleg_Smile]현장에서 내 동생 미키를 구해줘서 정말 고마워.	[!DialogQuest][!speaker:Oleg_Smile]非常感谢在现场救出了我的妹妹咪奇。
+#28419	[!DialogQuest][!speaker:Albus_Normal]미키 씨에게 큰 부상이 없어 다행이에요.	[!DialogQuest][!speaker:Albus_Normal]幸好咪奇没受很大的伤。
+#28420	[!DialogQuest][!speaker:Oleg_Smile]너희들이 제시간에 가 준 덕분이지. 정말 고맙네.	[!DialogQuest][!speaker:Oleg_Smile]都是多亏了你们准时去救到的。真的是非常感谢。
+#28421	[!DialogQuest][!speaker:Oleg_Normal]이건 내 작은 성의야. 받아 줘.	[!DialogQuest][!speaker:Oleg_Normal]来，这是我的小小心意。
+#28422	[!DialogQuest][!speaker:Dembel_Normal]알버스 군!	[!DialogQuest][!speaker:Dembel_Normal]阿尔伯斯！
+#28423	[!DialogQuest][!speaker:Dembel_Normal]부탁해! 알버스 군!	[!DialogQuest][!speaker:Dembel_Normal]那就拜托了，阿尔伯斯！
+#28424	[!DialogQuest][!speaker:Dembel_Normal]부탁한다.	[!DialogQuest][!speaker:Dembel_Normal]拜托。
+#28425	[!DialogQuest][!speaker:Dembel_Normal]어떻게 됐어? 현장에 리 씨가 있었어?	[!DialogQuest][!speaker:Dembel_Normal]怎么样？老李在现场吗？
+#28426	[!DialogQuest][!speaker:Dembel_Smile]고맙다. $CompanyName$	[!DialogQuest][!speaker:Dembel_Smile]谢谢了，$CompanyName$。
+#28427	[!DialogQuest][!speaker:Dembel_Normal]운송업자 리 씨가 별빛 사거리를 지나시다가 연락이 끊겼어.	[!DialogQuest][!speaker:Dembel_Normal]配送人员老李在经过星光十字路口的时候失去了联系。
+#28428	[!DialogQuest][!speaker:Irene_Surprise]별빛 사거리?	[!DialogQuest][!speaker:Irene_Surprise]星光十字路口？
+#28429	[!DialogQuest][!speaker:Anne_Surprise]별빛 사거리라면...	[!DialogQuest][!speaker:Anne_Surprise]星光十字路口的话...
+#28430	[!DialogQuest][!speaker:Dembel_Normal]아무 일도 없으면 다행이겠지만...	[!DialogQuest][!speaker:Dembel_Normal]希望没什么事，但...
+#28431	[!DialogQuest][!speaker:Sion_Surprise]연락이 끊긴 지 얼마나 된 거야?	[!DialogQuest][!speaker:Sion_Surprise]失去联系多久了？
+#28432	[!DialogQuest][!speaker:Dembel_Normal]30분 정도?	[!DialogQuest][!speaker:Dembel_Normal]30分钟左右吧？
+#28433	[!DialogQuest][!speaker:Albus_Serious]현장에서 리 씨를 발견하면 안전하게 구조하겠습니다.	[!DialogQuest][!speaker:Albus_Serious]如果在现场发现老李的话，我们会安全施救的。
+#28434	[!DialogQuest][!speaker:Dembel_Normal]그래. 부탁해.	[!DialogQuest][!speaker:Dembel_Normal]嗯，那就拜托了。
+#28435	[!DialogQuest][!speaker:Dembel_Normal]최근 들어 리 씨에게 계속 안 좋은 일이 생겨서 걱정이야.	[!DialogQuest][!speaker:Dembel_Normal]最近，老李的身边一直有不好的事情发生，让我更担心啊。
+#28436	[!DialogQuest][!speaker:Dembel_Sorrow]일도 일이지만 이런 시기에는 집에서 조금 쉬시는 것이 나을 것 같은데...	[!DialogQuest][!speaker:Dembel_Sorrow]工作固然重要，但在这样的时期，在家休息更好吧...
+#28437	[!DialogQuest][!speaker:Albus_Normal]네. 사건 현장에 계셨던 리 씨를 발견하고 구조하였습니다.	[!DialogQuest][!speaker:Albus_Normal]在现场发现了老李，就救出来了。
+#28438	[!DialogQuest][!speaker:Dembel_Smile]그렇구나. 다행이다.	[!DialogQuest][!speaker:Dembel_Smile]是吗，真是万幸。
+#28439	[!DialogQuest][!speaker:Albus_Normal]리 씨는 많이 놀라셨는지 큰 부상은 없지만, 병원에 입원하여 하루 이틀 안정을 취하신다고 하세요.	[!DialogQuest][!speaker:Albus_Normal]老李虽然虽然没有大碍，但可能被吓坏了。说要住院一两天，使病情稳定。
+#28440	[!DialogQuest][!speaker:Dembel_Smile]그래. 리 씨도 쉬는 날도 있어야지.	[!DialogQuest][!speaker:Dembel_Smile]嗯，老李也应该休息休息点了。
+#28441	[!DialogQuest][!speaker:Dembel_Smile]너희들도 정말 고생했어.	[!DialogQuest][!speaker:Dembel_Smile]你们也真是辛苦了。
+#28442	[!Sentence][!Objective]네구리가 숨어 있을 만한 모든 장소를 수색하시오.	[!Sentence][!VictoryCondition]搜索所有呐故立可能躲藏的地方。
+#28443	[!Sentence][!Title]요란한 불청객	[!Sentence][!Title]嘈杂的不速之客
+#28444	[!Sentence][!Title]황금손 거주구	[!Sentence][!Title]黄金之手居民区
+#28445	[!Sentence][!Dialog][!speaker:Sion_Stare]결국 또 여기서 네구리를 찾아야 한다는 거지...	[!Sentence][!Dialog][!speaker:Sion_Stare]说到底还是要在这里找呐故立的吧...
+#28446	[!Sentence][!Dialog][!speaker:Albus_Serious]일단 거주지에 가깝고 퇴로도 두 곳이라 도망치지 못하도록 신경 써야겠어.	[!Sentence][!Dialog][!speaker:Albus_Serious]这离居住区很近，并且退路是两个，所以要小心不让他们逃离。
+#28447	[!Sentence][!Dialog][!speaker:Giselle_Smile]'호전적인 네구리의 성숙기 개체가 몸을 숨기다니...'	[!Sentence][!Dialog][!speaker:Giselle_Smile]'成熟期的呐故立应当很好战...却去躲藏...'
+#28448	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]'환경에 맞춰 습성이 변했나...'	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]'随着环境的变化，习性也跟着改变了吗...'
+#28449	[!Sentence][!Dialog][!speaker:Giselle_Smile]'아니면 제법 똑똑한 리더가 있는 건가...'	[!Sentence][!Dialog][!speaker:Giselle_Smile]'或是有着优秀的领袖吗...'
+#28450	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]네 녀석이 리더구나.	[!Sentence][!Dialog][!speaker:Giselle_Satisfying]看来你小子就是领袖啊。
+#28451	[!Sentence][!Objective]지하 수로의 야수를 처리하시오.	[!Sentence][!Objective]处理在地沟的野兽。
+#28452	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonBlue3_Normal][colour='FF66FF66']이쪽이다! 이쪽에 습기가 있어!	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonBlue3_Normal][colour='FF66FF66']这边儿！这边儿有湿气！
+#28453	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonBlue3_Normal][colour='FF66FF66']잿빛아! 여기야!	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonBlue3_Normal][colour='FF66FF66']小灰呀！是这里！
+#28454	[!Sentence][!Dialog][!speaker:Beast_Spider_Grey3_Normal][colour='FFAAAAAA']금방 내려갈게. 같이가!	[!Sentence][!Dialog][!speaker:Beast_Spider_Grey3_Normal][colour='FFAAAAAA']马上就下去，一起去吧！
+#28455	[!Sentence][!Title]잊혀진 자의 은신처	[!Sentence][!Title]被遗忘者的隐身处
+#28456	[!Sentence][!Title]버려진 지하수로 북쪽 입구	[!Sentence][!Title]被遗弃的地沟北侧入口
+#28457	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonBlue3_Normal][colour='FF66FF66']여기가 진짜로 존재할 줄이야...	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonBlue3_Normal][colour='FF66FF66']没想到真的存在这样的地方...
+#28458	[!Sentence][!Dialog][!speaker:Beast_Spider_Grey3_Normal][colour='FFAAAAAA']그러게 말이다. 그저 도시 전설이라고 생각했어.	[!Sentence][!Dialog][!speaker:Beast_Spider_Grey3_Normal][colour='FFAAAAAA']就是说呐。我以为这只是一个都市传说呢。
+#28459	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonBlue3_Normal][colour='FF66FF66']황금종의 전설도 사실일까?	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonBlue3_Normal][colour='FF66FF66']那黄金种的传说是不是也会是真的呢？
+#28460	[!Sentence][!Dialog][!speaker:Beast_Spider_Grey3_Normal][colour='FFAAAAAA']이곳이 존재하는 이상 단지 헛소문은 아닐지도...	[!Sentence][!Dialog][!speaker:Beast_Spider_Grey3_Normal][colour='FFAAAAAA']既然这种地方真的存在，那也许不仅仅是谣言...
+#28461	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonBlue3_Normal][colour='FF66FF66']인간들의 틈새에 이렇게 살아간다니 정말 돌연변이들답군...	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonBlue3_Normal][colour='FF66FF66']在人类世界的缝隙当中这样的过活，还真是突变风格...
+#28462	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']거기 위에 뭐하는 녀석이냐!	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']上面那俩是干什么的家伙！
+#28463	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonBlue3_Normal][colour='FF66FF66']이 곳 주민인가 보군.	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonBlue3_Normal][colour='FF66FF66']看来是这里的主人呢。
+#28464	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonBlue3_Normal][colour='FF66FF66']한 눈에 순혈종이 아닌 것을 바로 알아보겠네.	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonBlue3_Normal][colour='FF66FF66']一眼就能认出不是纯血的种。
+#28465	[!Sentence][!Dialog][!speaker:Beast_Spider_Grey3_Normal][colour='FFAAAAAA']역시 이곳은 그 아이가 말한 은신처인가봐.	[!Sentence][!Dialog][!speaker:Beast_Spider_Grey3_Normal][colour='FFAAAAAA']果然这里是那个家伙所说的隐身处呐。
+#28466	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']길을 잃은 건가?	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']迷路了吗？
+#28467	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']이곳을 어떻게 찾아 온 거지?	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']你怎么找到这里的？
+#28468	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonBlue3_Normal][colour='FF66FF66']돌연변이를 위한 은신처가 있다고 해서 찾아왔어.	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonBlue3_Normal][colour='FF66FF66']听说是有为了突变的物种而存在的藏身之处。
+#28469	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']돌연변이?	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']突变？
+#28470	[!Sentence][!Dialog][!speaker:Beast_Spider_Grey3_Normal][colour='FFAAAAAA']저희는 인간 사회를 모험하는 한 도로리로부터 이 곳의 이야기를 들었습니다.	[!Sentence][!Dialog][!speaker:Beast_Spider_Grey3_Normal][colour='FFAAAAAA']我们是从冒险进入人类社会的多罗利那里听到了这里的事情。
+#28471	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']도로리?	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']多罗利？
+#28472	[!Sentence][!Dialog][!speaker:Beast_Spider_Grey3_Normal][colour='FFAAAAAA']네.	[!Sentence][!Dialog][!speaker:Beast_Spider_Grey3_Normal][colour='FFAAAAAA']是的。
+#28473	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']흠...	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']呵...
+#28474	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonBlue3_Normal][colour='FF66FF66']단도직입적으로 우리도 이곳에서 지낼 수 있게 해줘.	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonBlue3_Normal][colour='FF66FF66']那我直截了当地说，让我们也在这里生活吧。
+#28475	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonBlue3_Normal][colour='FF66FF66']필요한 일이라면 무엇이든지 할게.	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonBlue3_Normal][colour='FF66FF66']有什么需要帮忙的我们一定会做的。
+#28476	[!Sentence][!Dialog][!speaker:Beast_Spider_Grey3_Normal][colour='FFAAAAAA']부탁드립니다.	[!Sentence][!Dialog][!speaker:Beast_Spider_Grey3_Normal][colour='FFAAAAAA']拜托了。
+#28477	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']내가 결정할 수 있는 일이 아니다.	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']这不是我能决定的事情。
+#28478	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']군주님에게 너희들의 요청을 전달하마.	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']那我向君主传递下你们的请求吧。
+#28479	[!Sentence][!Dialog][!speaker:Beast_Spider_Grey3_Normal][colour='FFAAAAAA']'군주?'	[!Sentence][!Dialog][!speaker:Beast_Spider_Grey3_Normal][colour='FFAAAAAA']'君主？'
+#28480	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonBlue3_Normal][colour='FF66FF66']'이 녀석이 이 무리의 우두머리 아닌가?'	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonBlue3_Normal][colour='FF66FF66']'这家伙不是这帮人的头目吗？'
+#28481	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']일단 여기서 기다려라. 곧 돌아오마.	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']那先在这儿等等。马上回来。
+#28482	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']그리고 허튼 짓 하지 말게나.	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']还有别胡来。
+#28483	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']자네들은 아직까지 우리 영역에 들어온 칩입자에 지나지 않아.	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']你们到目前为止，也只不过是侵略我们领土的侵略者罢了。
+#28484	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonBlue3_Normal][colour='FF66FF66']'꽤 까칠하네...'	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonBlue3_Normal][colour='FF66FF66']'真是够挑剔...'
+#28485	[!Sentence][!Dialog][!speaker:Beast_Spider_Grey3_Normal][colour='FFAAAAAA']알겠습니다.	[!Sentence][!Dialog][!speaker:Beast_Spider_Grey3_Normal][colour='FFAAAAAA']明白了。
+#28486	[!Sentence][!Title]잿더미 야샤 부화장	[!Sentence][!Title]灰烬夜叉孵化场
+#28487	[!Sentence][!Title]버려진 지하수로 엔진실	[!Sentence][!Title]被遗弃的地沟引擎室
+#28488	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow2_Normal][colour='FFFFAA00']어머니. 여섯째님이 찾아오셨습니다.	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow2_Normal][colour='FFFFAA00']母亲大人，老六来找您了。
+#28489	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow4_Normal][colour='FFFF0000']들라 해라.	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow4_Normal][colour='FFFF0000']叫他进来。
+#28490	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']막내. 어머님을 뵙습니다.	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']老幺，来见母亲。
+#28491	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow4_Normal][colour='FFFF0000']그래. 오랜만이구나. 무슨 일이니?	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow4_Normal][colour='FFFF0000']嗯，好久不见了，有什么事？
+#28492	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']외부로부터 흘러 들어온 네구리와 야샤가 무리에 합류해달라는 요청입니다.	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']从外部流入的呐故立和夜叉希望加入我们。
+#28493	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow4_Normal][colour='FFFF0000']합류?	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow4_Normal][colour='FFFF0000']加入？
+#28494	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']네. 그저 우연히 흘러든 녀석들이 아니었습니다.	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']是的，它们不是偶然闯入这里的家伙们。
+#28495	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']둘 다 돌연변이 종으로 완전체로 성장한 자들이었습니다.	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']他们都是突变的物种，成为了完全体的家伙们。
+#28496	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow4_Normal][colour='FFFF0000']일이 귀찮게 되었구나.	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow4_Normal][colour='FFFF0000']看来事情变麻烦了。
+#28497	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFAAAA00']네?	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFAAAA00']嗯？
+#28498	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow4_Normal][colour='FFFF0000']혼자 살아갈 수 있을 성체들이 은신처를 찾는 것은 누군가에게 쫓기고 있다 말이겠지...	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow4_Normal][colour='FFFF0000']足够独自生活的完全体竟在找隐身处，看来是在被什么追赶呢...
+#28499	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFAAAA00']그냥 외톨이들 아닐까요?	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFAAAA00']不会只是个落单的家伙们吗？
+#28500	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow4_Normal][colour='FFFF0000']아냐... 아냐... 인간이 오는 것이야...	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow4_Normal][colour='FFFF0000']不...不... 肯定是人类在来...
+#28501	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']설마... 그럴리가요...	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']难道...不会是吧...
+#28502	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow4_Normal][colour='FFFF0000']넌 인간이 얼마나 집요한 지 몰라서 그렇단다.	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow4_Normal][colour='FFFF0000']你不知道人类是有多执拗的。
+#28503	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']걱정마세요. 어머님. 인간이 오면 제가 쫓아내겠습니다.	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']请不要担心，母亲。即使人来了，就由我去赶走。
+#28504	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow4_Normal][colour='FFFF0000']네가 인간을 만난 적이 없어서 상황을 파악 못 하는 구나.	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow4_Normal][colour='FFFF0000']看来因为你还未见过人类，所以还不了解现在的情况。
+#28505	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow4_Normal][colour='FFFF0000']일단 그 자들을 중립지로 안내해라.	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow4_Normal][colour='FFFF0000']先把他们引向中立场所。
+#28506	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']알겠습니다.	[!Sentence][!Dialog][!speaker:Beast_Spider_BlackWidow3_Normal][colour='FFFFAA00']明白了。
+#28507	[!Sentence][!Title]붉은 도로리 거주구	[!Sentence][!Title]红色多罗利居住区
+#28508	[!Sentence][!Title]버려진 지하수로 자재 창고	[!Sentence][!Title]被遗弃的地沟材料仓库
+#28509	[!Sentence][!Dialog][!speaker:Beast_Bat_Red_Normal][colour='FFFFAA00']전원 대장을 향해 충성!	[!Sentence][!Dialog][!speaker:Beast_Bat_Red_Normal][colour='FFFFAA00']全体成员向队长敬礼！
+#28510	[!Sentence][!BalloonChat][!speaker:Dorori_Red01]충성!	[!Sentence][!BalloonChat][!speaker:Dorori_Red01]敬礼！
+#28511	[!Sentence][!BalloonChat][!speaker:Dorori_Red02]충성!	[!Sentence][!BalloonChat][!speaker:Dorori_Red01]敬礼！
+#28512	[!Sentence][!BalloonChat][!speaker:Dorori_Red03]충성!	[!Sentence][!BalloonChat][!speaker:Dorori_Red01]敬礼！
+#28513	[!Sentence][!BalloonChat][!speaker:Dorori_Red04]충성!	[!Sentence][!BalloonChat][!speaker:Dorori_Red01]敬礼！
+#28514	[!Sentence][!BalloonChat][!speaker:Dorori_Red05]충성!	[!Sentence][!BalloonChat][!speaker:Dorori_Red01]敬礼！
+#28515	[!Sentence][!BalloonChat][!speaker:Dorori_Red06]충성!	[!Sentence][!BalloonChat][!speaker:Dorori_Red01]敬礼！
+#28516	[!Sentence][!Dialog][!speaker:Beast_Bat_Red_Leader_Normal][colour='FFFF0000']이 자식들! 여기 올라 오지 말라고 했지?	[!Sentence][!Dialog][!speaker:Beast_Bat_Red_Leader_Normal][colour='FFFF0000']你们这些家伙们！不是说过不要来这里？
+#28517	[!Sentence][!Dialog][!speaker:Beast_Bat_Red_Leader_Normal][colour='FFFF0000']다들 죽을래?	[!Sentence][!Dialog][!speaker:Beast_Bat_Red_Leader_Normal][colour='FFFF0000']想死吗？
+#28518	[!Sentence][!Dialog][!speaker:Beast_Bat_Red_Leader_Normal][colour='FFFF0000']저 푸른 달이 비치는 천장을 네 녀석 피로 붉게 물들여 볼까!	[!Sentence][!Dialog][!speaker:Beast_Bat_Red_Leader_Normal][colour='FFFF0000']想要让那映着碧月的天棚由你们的血染红吗？
+#28519	[!Sentence][!Dialog][!speaker:Beast_Bat_Red_Normal][colour='FFFFAA00']피!?	[!Sentence][!Dialog][!speaker:Beast_Bat_Red_Normal][colour='FFFFAA00']血!?
+#28520	[!Sentence][!BalloonChat][!speaker:Dorori_Red01]피!!	[!Sentence][!BalloonChat][!speaker:Dorori_Red01]血!!
+#28521	[!Sentence][!BalloonChat][!speaker:Dorori_Red02]피??	[!Sentence][!BalloonChat][!speaker:Dorori_Red02]血??
+#28522	[!Sentence][!BalloonChat][!speaker:Dorori_Red03]피!!!!	[!Sentence][!BalloonChat][!speaker:Dorori_Red03]血!!!!
+#28523	[!Sentence][!BalloonChat][!speaker:Dorori_Red04]피?	[!Sentence][!BalloonChat][!speaker:Dorori_Red04]血?
+#28524	[!Sentence][!BalloonChat][!speaker:Dorori_Red05]피!!	[!Sentence][!BalloonChat][!speaker:Dorori_Red05]血!!
+#28525	[!Sentence][!BalloonChat][!speaker:Dorori_Red06]피!!!	[!Sentence][!BalloonChat][!speaker:Dorori_Red06]血!!!
+#28526	[!Sentence][!Dialog][!speaker:Beast_Bat_Red_Leader_Normal][colour='FFFF0000']이런 미친 녀석들~	[!Sentence][!Dialog][!speaker:Beast_Bat_Red_Leader_Normal][colour='FFFF0000']这群疯子~
+#28527	[!Sentence][!Dialog][!speaker:Beast_Bat_Red_Leader_Normal][colour='FFFF0000']피라면 환장을 하네.	[!Sentence][!Dialog][!speaker:Beast_Bat_Red_Leader_Normal][colour='FFFF0000']说到血就疯了。
+#28528	[!Sentence][!BalloonChat][!speaker:Dorori_Red02]피!!	[!Sentence][!BalloonChat][!speaker:Dorori_Red02]血!!
+#28529	[!Sentence][!BalloonChat][!speaker:Dorori_Red03]피!!	[!Sentence][!BalloonChat][!speaker:Dorori_Red03]血!!
+#28530	[!Sentence][!BalloonChat][!speaker:Dorori_Red04]피!!	[!Sentence][!BalloonChat][!speaker:Dorori_Red04]血!!
+#28531	[!Sentence][!BalloonChat][!speaker:Dorori_Red06]피!!	[!Sentence][!BalloonChat][!speaker:Dorori_Red06]血!!
+#28532	[!Sentence][!Title]붉은 네구리 거주구	[!Sentence][!Title]红色呐故立居住区
+#28533	[!Sentence][!Title]버려진 지하수로 저수장	[!Sentence][!Title]被遗弃的地沟蓄水池
+#28534	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonRed3_Normal][colour='FFFF0000']다들 인간이 올 지 모른다고 하니 철저히 준비해라.	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonRed3_Normal][colour='FFFF0000']说不定人类会过来，都要小心注意。
+#28535	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonRed2_Normal][colour='FFFFAA00']인간 맛있나요?	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonRed2_Normal][colour='FFFFAA00']人类好吃吗？
+#28536	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonRed3_Normal][colour='FFFF0000']맛없다.	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonRed3_Normal][colour='FFFF0000']不。
+#28537	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonRed2_Normal][colour='FFFFAA00']그럼 그냥 우린 숨어있죠?	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonRed2_Normal][colour='FFFFAA00']那我们就藏起来吧？
+#28538	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonRed3_Normal][colour='FFFF0000']안돼.	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonRed3_Normal][colour='FFFF0000']不行。
+#28539	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonRed2_Normal][colour='FFFFAA00']파이프 속으로 숨으면 인간들은 못 찾을건데?	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonRed2_Normal][colour='FFFFAA00']隐藏在管道里的话，人类会找不到的吧？
+#28540	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonRed3_Normal][colour='FFFF0000']인간이 오면 잿더미 야샤의 알집을 모두 부숴버릴거다.	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonRed3_Normal][colour='FFFF0000']人类来的话是会把灰烬夜叉的蛋壳都毁坏的。
+#28541	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonRed2_Normal][colour='FFFFAA00']뭐! 그 맛난 것을!!	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonRed2_Normal][colour='FFFFAA00']什么！竟把那好吃的!!
+#28542	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonRed3_Normal][colour='FFFF0000']화나지?	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonRed3_Normal][colour='FFFF0000']生气吧？
+#28543	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonRed2_Normal][colour='FFFFAA00']네! 인간 못 됐어!	[!Sentence][!Dialog][!speaker:Beast_Frog_PoisonRed2_Normal][colour='FFFFAA00']是的！人类真坏！
+#28544	[!Sentence][!Title]황금 어금니	[!Sentence][!Title]黄金尖牙
+#28545	[!Sentence][!Title]버려진 지하수로	[!Sentence][!Title]被遗弃的地沟
+#28546	[!Sentence][!Dialog][!speaker:Beast_Tima_Yellow_Normal][colour='FFFFFF55']인간인가...	[!Sentence][!Dialog][!speaker:Beast_Tima_Yellow_Normal][colour='FFFFFF55']是人类吗...
+#28547	[!Sentence][!Dialog][!speaker:Beast_Tima_Yellow_Normal][colour='FFFFFF55']다른 녀석들도 깨워야 하나...	[!Sentence][!Dialog][!speaker:Beast_Tima_Yellow_Normal][colour='FFFFFF55']得去叫醒其他的家伙吗...
+#28548	[!Sentence][!Title]황금 날개	[!Sentence][!Title]黄金翅膀
+#28549	[!Sentence][!Dialog][!speaker:Beast_Bat_Gold_Normal][colour='FFFFFF55']이것아. 요란하게 좀 다니지 말고 좀 뛰어다녀.	[!Sentence][!Dialog][!speaker:Beast_Bat_Gold_Normal][colour='FFFFFF55']你这家伙，不要总这么突然的出现，也该用腿跑一跑。
+#28550	[!Sentence][!Dialog][!speaker:Beast_Bat_Gold_Normal][colour='FFFFFF55']그러니까 살이 뒤룩뒤룩 찌는 거야.	[!Sentence][!Dialog][!speaker:Beast_Bat_Gold_Normal][colour='FFFFFF55']所以才会这么胖。
+#28551	[!Sentence][!Dialog][!speaker:Beast_Tima_Yellow_Normal][colour='FFFFFF55']어디냐?	[!Sentence][!Dialog][!speaker:Beast_Tima_Yellow_Normal][colour='FFFFFF55']你在哪？
+#28552	[!Sentence][!Dialog][!speaker:Beast_Bat_Gold_Normal][colour='FFFFFF55']니 옆.	[!Sentence][!Dialog][!speaker:Beast_Bat_Gold_Normal][colour='FFFFFF55']你旁边。
+#28553	[!Sentence][!Dialog][!speaker:Beast_Tima_Yellow_Normal][colour='FFFFFF55']네 녀석은 나이를 먹더니 또 작아졌군.	[!Sentence][!Dialog][!speaker:Beast_Tima_Yellow_Normal][colour='FFFFFF55']你小子上了年纪，变得更小了。
+#28554	[!Sentence][!Dialog][!speaker:Beast_Bat_Gold_Normal][colour='FFFFFF55']어쩔 수 있나. 그렇게 태어났는걸.	[!Sentence][!Dialog][!speaker:Beast_Bat_Gold_Normal][colour='FFFFFF55']那怎么办？就这样出生的。
+#28555	[!Sentence][!Dialog][!speaker:Beast_Tima_Yellow_Normal][colour='FFFFFF55']소식은 들었지?	[!Sentence][!Dialog][!speaker:Beast_Tima_Yellow_Normal][colour='FFFFFF55']听到消息了吧？
+#28556	[!Sentence][!Dialog][!speaker:Beast_Bat_Gold_Normal][colour='FFFFFF55']그래.	[!Sentence][!Dialog][!speaker:Beast_Bat_Gold_Normal][colour='FFFFFF55']嗯。
+#28557	[!Sentence][!Dialog][!speaker:Beast_Tima_Yellow_Normal][colour='FFFFFF55']늙어 죽으나 맞서다 죽으나 결과는 똑같아.	[!Sentence][!Dialog][!speaker:Beast_Tima_Yellow_Normal][colour='FFFFFF55']老死和被打死，结果都一样。
+#28558	[!Sentence][!Dialog][!speaker:Beast_Bat_Gold_Normal][colour='FFFFFF55']이 똥강아지가 늙어서 노망이 났나?	[!Sentence][!Dialog][!speaker:Beast_Bat_Gold_Normal][colour='FFFFFF55']是老糊涂了吧？
+#28559	[!Sentence][!Dialog][!speaker:Beast_Bat_Gold_Normal][colour='FFFFFF55']그냥 늙어 죽는 게 더 행복한 거거든?	[!Sentence][!Dialog][!speaker:Beast_Bat_Gold_Normal][colour='FFFFFF55']老死更加幸福好吧？
+#28560	[!Sentence][!Title]황금 혀	[!Sentence][!Title]黄金舌头
+#28561	[!Sentence][!Title]버려진 지하수로 하수처리장	[!Sentence][!Title]被遗弃的地沟污水处理厂
+#28562	[!Sentence][!Dialog][!speaker:Beast_Frog_Gold_Normal][colour='FFFFFF55']즐거운 목욕 시간~☆	[!Sentence][!Dialog][!speaker:Beast_Frog_Gold_Normal][colour='FFFFFF55']愉快的洗澡时间~☆
+#28563	[!Sentence][!Dialog][!speaker:Beast_Bat_Gold_Normal][colour='FFFFFF55']역시 여기 있었어.	[!Sentence][!Dialog][!speaker:Beast_Bat_Gold_Normal][colour='FFFFFF55']果然是在这里。
+#28564	[!Sentence][!Dialog][!speaker:Beast_Frog_Gold_Normal][colour='FFFFFF55']니들 뭐냐?	[!Sentence][!Dialog][!speaker:Beast_Frog_Gold_Normal][colour='FFFFFF55']什么啊？
+#28565	[!Sentence][!Dialog][!speaker:Beast_Tima_Yellow_Normal][colour='FFFFFF55']도와줘. 황금 혀.	[!Sentence][!Dialog][!speaker:Beast_Tima_Yellow_Normal][colour='FFFFFF55']帮帮忙，黄金舌头。
+#28566	[!Sentence][!Dialog][!speaker:Beast_Bat_Gold_Normal][colour='FFFFFF55']인간이 온다.	[!Sentence][!Dialog][!speaker:Beast_Bat_Gold_Normal][colour='FFFFFF55']人类要来了。
+#28567	[!Sentence][!Dialog][!speaker:Beast_Frog_Gold_Normal][colour='FFFFFF55']인간에겐 못 이기니까 여기 숨어 지내기로 한 것 아니었나?	[!Sentence][!Dialog][!speaker:Beast_Frog_Gold_Normal][colour='FFFFFF55']不是因为无法战胜人类才决定躲在这里生活的不是吗？
+#28568	[!Sentence][!Dialog][!speaker:Beast_Frog_Gold_Normal][colour='FFFFFF55']인간이 오면 잠시 자리를 떴다가 나중에 다시 오면 돼.	[!Sentence][!Dialog][!speaker:Beast_Frog_Gold_Normal][colour='FFFFFF55']人类过来的话，那暂时离开一下以后再回来不就行了吗。
+#28569	[!Sentence][!Dialog][!speaker:Beast_Tima_Yellow_Normal][colour='FFFFFF55']우리야 어떻게든 도망치면 살아남겠지만 여기에 정착한 녀석들은 모두 제거될 거다.	[!Sentence][!Dialog][!speaker:Beast_Tima_Yellow_Normal][colour='FFFFFF55']我们无论如何逃跑的话都会生存下来的，但是定居在这里的家伙们是都会被清除。
+#28570	[!Sentence][!Dialog][!speaker:Beast_Frog_Gold_Normal][colour='FFFFFF55']원래 그럴 목적으로 방치한 녀석들인데?	[!Sentence][!Dialog][!speaker:Beast_Frog_Gold_Normal][colour='FFFFFF55']本来就是为了那个目的而放任不管那家伙们的不是吗？
+#28571	[!Sentence][!Dialog][!speaker:Beast_Bat_Gold_Normal][colour='FFFFFF55']황금 혀. 노년의 10년을 같이 보낸 사이인데 굳이 이래야겠나?	[!Sentence][!Dialog][!speaker:Beast_Bat_Gold_Normal][colour='FFFFFF55']黄金舌头。都是一起度过老年10年的家伙们，何必这样说？
+#28572	[!Sentence][!Dialog][!speaker:Beast_Tima_Yellow_Normal][colour='FFFFFF55']부탁하네. 황금 혀.	[!Sentence][!Dialog][!speaker:Beast_Tima_Yellow_Normal][colour='FFFFFF55']拜托了，黄金舌头。
+#28573	[!Sentence][!Dialog][!speaker:Beast_Frog_Gold_Normal][colour='FFFFFF55']부탁이고 뭐고 지금 오는 녀석들을 물리쳐봐야 또 올 거다. 그게 인간이야.	[!Sentence][!Dialog][!speaker:Beast_Frog_Gold_Normal][colour='FFFFFF55']不管拜托什么的，即使打退了现在过来的家伙们，他们还是会不断的来。那就是人类。
+#28574	[!Sentence][!Dialog][!speaker:Beast_Frog_Gold_Normal][colour='FFFFFF55']그렇게 당하고도 몰라? 인간은 그저 똥이야. 그냥 피하는 게 상책이야.	[!Sentence][!Dialog][!speaker:Beast_Frog_Gold_Normal][colour='FFFFFF55']受了那么多也不懂吗？人类只不过是屎。绕着走才是上策。
+#28575	[!Sentence][!Dialog][!speaker:Beast_Bat_Gold_Normal][colour='FFFFFF55']우리 셋. 한날 한시에는 태어나지 않았으나 한날 한시에 죽겠다고 의형제를 맺지 않았나.	[!Sentence][!Dialog][!speaker:Beast_Bat_Gold_Normal][colour='FFFFFF55']我们三个。虽然不是同一天出生，但是决定了在同一天死的兄弟不是吗？
+#28576	[!Sentence][!Dialog][!speaker:Beast_Frog_Gold_Normal][colour='FFFFFF55']그래서 이제 같이 다 죽자고?	[!Sentence][!Dialog][!speaker:Beast_Frog_Gold_Normal][colour='FFFFFF55']所以说一起去送死？
+#28577	[!Sentence][!Dialog][!speaker:Beast_Frog_Gold_Normal][colour='FFFFFF55']난 싫습니다.	[!Sentence][!Dialog][!speaker:Beast_Frog_Gold_Normal][colour='FFFFFF55']我可不要。
+#28578	[!Sentence][!Dashboard:Counter]남은 우두머리 수	[!Sentence][!Dashboard:Counter]剩余的头目数量
+#28579	[!Sentence][!Dialog][!speaker:Kylie_Normal]어차피 이 구역을 폐쇄했으니 한 번에 무리하게 소탕하지 않아도 돼.	[!Sentence][!Dialog][!speaker:Kylie_Normal]反正已经封闭了这个区域，现在可以不用勉强的去扫荡了。
+#28580	[!Sentence][!Dialog][!speaker:Albus_Normal]넵. 알겠습니다.	[!Sentence][!Dialog][!speaker:Albus_Normal]是的，明白了。
+#28581	[!Sentence][!Dialog][!speaker:Albus_Stare]상황에 따라 위험하면 일단 후퇴하도록 하겠습니다.	[!Sentence][!Dialog][!speaker:Albus_Stare]情况变得危险的话会立马撤退的。
+#28582	[!Sentence][!Dialog][!speaker:Kylie_Normal]이 쪽이야.	[!Sentence][!Dialog][!speaker:Kylie_Normal]是这边。
+#28583	[!Sentence][!Dialog][!speaker:Kylie_Normal]이 구역으로 들어가는 진입로는 남쪽, 북쪽 진입로가 있어.	[!Sentence][!Dialog][!speaker:Kylie_Normal]进入该区域的入口分为南端和北端。
+#28584	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]진입로에 따른 차이가 있나요?	[!Sentence][!Dialog][!speaker:Albus_SurpriseStare]两个入口有差异吗？
+#28585	[!Sentence][!Title]버려진 지하수로 	[!Sentence][!Title]被遗弃的地沟
+#28586	[!Sentence][!Dialog][!speaker:Kylie_Normal]설계도 상으로는 북쪽 진입로는 저수장과 구 통제실과 가까워.	[!Sentence][!Dialog][!speaker:Kylie_Normal]从设计图上看，北端入口靠近蓄水池和旧控制室。
+#28587	[!Sentence][!Dialog][!speaker:Kylie_Normal]처음부터 좁은 통로를 지내야 하니 다수의 인원이 진입할 경우 엔진실까지 병목 현상이 일어날 수 있을 것 같아.	[!Sentence][!Dialog][!speaker:Kylie_Normal]入口很狭窄，多数的人一起行动的话效率不好。
+#28588	[!Sentence][!Dialog][!speaker:Kylie_Normal]남쪽 진입로는 엔진실과 가깝지.	[!Sentence][!Dialog][!speaker:Kylie_Normal]南侧的入口离引擎室很近。
+#28589	[!Sentence][!Dialog][!speaker:Kylie_Normal]소로를 따라 우회하면 바로 엔진실로 갈 수 있어. 하지만 엔진실에 어떤 위험이 있을지 모르지.	[!Sentence][!Dialog][!speaker:Kylie_Normal]沿着小路绕行就可以直接到引擎室。但不知道引擎室会有什么危险。
+#28590	[!Sentence][!Dialog][!speaker:Albus_Think]'엔진실부터 가야 하나...'	[!Sentence][!Dialog][!speaker:Albus_Think]'是得先去引擎室吗...'
+#28591	[!Sentence][!Dialog]야수 우두머리를 제압하였습니다. 남은 야수들을 처리하시겠습니까?	[!Sentence][!Dialog]已制服夜叉头目。要继续处理剩下的野兽吗？
+#28592	[!Sentence][!BalloonChat]키힉! 키힉!	[!Sentence][!BalloonChat]咳嘿！咳嘿！
+#28593	[!Sentence][!BalloonChat]크르릉!	[!Sentence][!BalloonChat][!speaker:Tima04_1]吼吼！
+#28594	[!Sentence][!BalloonChat]네르굴~!	[!Sentence][!BalloonChat]呐吼故~!
